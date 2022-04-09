@@ -38,8 +38,7 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=68&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=75&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
 http://clubtv.link/iptv/30mr/mxpremium.php?c=86&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
-http://clubtv.link/iptv/30mr/mxpremium.php?c=88&f=.m3u8
+
 #EXTINF:-1 group-title="CULTURA",HISTORY
 http://clubtv.link/iptv/30mr/mxpremium.php?c=89&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",NAT GEO  
@@ -70,41 +69,6 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=2375&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2379&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2594&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
-http://clubtv.link/f15/distro.php?c=euronews-spa&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
-http://clubtv.link/f15/distro.php?c=top-cine-latam&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
-http://clubtv.link/f15/distro.php?c=juntos&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
-http://clubtv.link/f15/distro.php?c=cine-real-latam&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
-http://clubtv.link/f15/distro.php?c=cine-sureno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
-http://clubtv.link/f15/distro.php?c=casa-comedy&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
-http://clubtv.link/f15/distro.php?c=spanglish&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
-http://clubtv.link/f15/distro.php?c=horrofy&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
-http://clubtv.link/f15/distro.php?c=wapptv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
-http://clubtv.link/f15/distro.php?c=tu.cine-latam&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
-http://clubtv.link/f15/distro.php?c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
-http://clubtv.link/f15/distro.php?c=saber-mas&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
-http://clubtv.link/f15/distro.php?c=flash-1&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
-http://clubtv.link/f15/distro.php?c=mmc&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
-http://clubtv.link/f15/distro.php?c=chiquilines&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/f15/distro.php?c=glewedtv-spanish&f=.m3u8
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
 http://clubtv.link/iptv/30mr/mxpremium.php?c=85&f=.m3u8
@@ -162,8 +126,7 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=215&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=219&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://clubtv.link/iptv/30mr/mxpremium.php?c=340&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=341&f=.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
 http://clubtv.link/iptv/30mr/mxpremium.php?c=1499&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
@@ -408,8 +371,5 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=2331&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2352&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2606&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ACADEMIA
-http://clubtv.link/iptv/30mr/mxpremium.php?c=2703&f=.m3u8
-
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2882&f=.m3u8
