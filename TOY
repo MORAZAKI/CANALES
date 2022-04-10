@@ -1,14 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://privadotv.com/assets/img/tvprivado/tvprivado.png" group-title="INFO",IPTV
-http://clubtv.link/31fin/dd19/0smartv.php?c=712&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
 http://clubtv.link/iptv/30mr/mxpremium.php?c=108&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
 http://clubtv.link/iptv/30mr/mxpremium.php?c=109&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICK
-http://clubtv.link/iptv/30mr/mxpremium.php?c=110&f=.m3u8
+//#EXTINF:-1 group-title="INFANTIL",NICK
+http://clubtv.link/iptv/30mr/mxpremium.php?c=110&f=.m3u8//
 #EXTINF:-1 group-title="INFANTIL",DISNEY XD
 http://clubtv.link/iptv/30mr/mxpremium.php?c=111&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
