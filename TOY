@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://https://images.vexels.com/media/users/3/185077/isolated/lists/652720dd5b0e91f29c22d192445d54de-fruta-de-mora-plana.png" group-title="INFO",IPTV
+http://clubtv.link/31fin/dd19/0smartv.php?c=712&f=.m3u8
+
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
 http://clubtv.link/iptv/30mr/mxpremium.php?c=108&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
@@ -12,7 +15,7 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=111&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=112&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
 http://clubtv.link/iptv/30mr/mxpremium.php?c=113&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",sunERANG
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO
 http://clubtv.link/iptv/30mr/mxpremium.php?c=115&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",BABY TV 
 http://clubtv.link/iptv/30mr/mxpremium.php?c=116&f=.m3u8
@@ -151,8 +154,7 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=122&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=123&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
 http://clubtv.link/iptv/30mr/mxpremium.php?c=124&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",sun 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=126&f=.m3u8
+
 #EXTINF:-1 group-title="CINE Y SERIES",TCM
 http://clubtv.link/iptv/30mr/mxpremium.php?c=128&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",SPACE
