@@ -29,6 +29,7 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=1984&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2147&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",BIT ME  
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2591&f=.m3u8
+
 #EXTINF:-1 group-title="CULTURA",DISCOVERY ID
 http://clubtv.link/31fin/dd19/lista2.php?c=a0jr&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",GARAGE TV 
@@ -63,6 +64,7 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=2375&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2379&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2594&f=.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
 http://clubtv.link/iptv/30mr/mxpremium.php?c=85&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FOX  
@@ -105,6 +107,20 @@ http://clubtv.link/iptv/30mr/mxpremium.php?c=1499&f=.m3u8
 http://clubtv.link/iptv/30mr/mxpremium.php?c=1842&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
 http://clubtv.link/iptv/30mr/mxpremium.php?c=2113&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO HD",FOX HD 
+http://clubtv.link/iptv/30mr/mxpremium.php?c=201&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO HD",WARNER HD 
+http://clubtv.link/iptv/30mr/mxpremium.php?c=205&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO HD",UNIVERSAL HD
+http://clubtv.link/iptv/30mr/mxpremium.php?c=207&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO HD",FX HD
+http://clubtv.link/iptv/30mr/mxpremium.php?c=209&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO HD",TRUTV HD
+http://clubtv.link/iptv/30mr/mxpremium.php?c=215&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO HD",HOLA TV HD
+http://clubtv.link/iptv/30mr/mxpremium.php?c=219&f=.m3u8
+
 #EXTINF:-1 group-title="CINE Y SERIES",TNT 
 http://clubtv.link/iptv/30mr/mxpremium.php?c=126&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES II
@@ -159,18 +175,6 @@ http://clubtv.link/31fin/dd19/lista2.php?c=a0k6&f=.m3u8
 http://clubtv.link/31fin/dd19/lista2.php?c=a0k5&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",HBO XTREME
 http://clubtv.link/31fin/dd19/lista2.php?c=a0k7&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO HD",FOX HD 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=201&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO HD",WARNER HD 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=205&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO HD",UNIVERSAL HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=207&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO HD",FX HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=209&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO HD",TRUTV HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=215&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO HD",HOLA TV HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=219&f=.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
 http://clubtv.link/iptv/30mr/mxpremium.php?c=211&f=.m3u8
