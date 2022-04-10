@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://https://images.vexels.com/media/users/3/185077/isolated/lists/652720dd5b0e91f29c22d192445d54de-fruta-de-mora-plana.png" group-title="INFO",IPTV
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/185077/isolated/lists/652720dd5b0e91f29c22d192445d54de-fruta-de-mora-plana.png" group-title="INFO",IPTV
 http://clubtv.link/31fin/dd19/0smartv.php?c=712&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
