@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://privadotv.com/assets/img/tvprivado/tvprivado.png" group-title="INFO",IPTV
-
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
 http://clubtv.link/iptv/30mr/mxpremium.php?c=108&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
