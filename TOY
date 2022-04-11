@@ -4,31 +4,31 @@
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
-http://clubtv.link/iptv/30mr/mxpremium.php?c=108&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=108&=f.m3u8  
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
-http://clubtv.link/iptv/30mr/mxpremium.php?c=109&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=109&=f.m3u8
 #EXTINF:-1 group-title="INFANTIL",NICK
-http://clubtv.link/31fin/dd19/lista2.php?c=a0jm&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=110&=f.m3u8  
 #EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
-http://clubtv.link/iptv/30mr/mxpremium.php?c=112&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=112&=f.m3u8  
 #EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
-http://clubtv.link/iptv/30mr/mxpremium.php?c=113&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=113&=f.m3u8  
 #EXTINF:-1 group-title="INFANTIL",CARTOONITO
-http://clubtv.link/iptv/30mr/mxpremium.php?c=115&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=115&=f.m3u8 
 #EXTINF:-1 group-title="INFANTIL",BABY TV 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=116&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=116&=f.m3u8  
 #EXTINF:-1 group-title="INFANTIL",NICK JR
-http://clubtv.link/iptv/30mr/mxpremium.php?c=117&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=117&=f.m3u8 
 #EXTINF:-1 group-title="INFANTIL",DISNEY JR
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=118&=f.m3u8 
 #EXTINF:-1 group-title="INFANTIL",NICKTOONS
-http://clubtv.link/iptv/30mr/mxpremium.php?c=1708&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1708&=f.m3u8  
 #EXTINF:-1 group-title="INFANTIL",BABY FIRST
-http://clubtv.link/iptv/30mr/mxpremium.php?c=1984&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1984&=f.m3u8 
 #EXTINF:-1 group-title="INFANTIL",NICK 2  
-http://clubtv.link/iptv/30mr/mxpremium.php?c=2147&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2147&=f.m3u8
 #EXTINF:-1 group-title="INFANTIL",BIT ME  
-http://clubtv.link/iptv/30mr/mxpremium.php?c=2591&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2591&=f.m3u8
 
 #EXTINF:-1 group-title="CULTURA",DISCOVERY ID
 http://clubtv.link/31fin/dd19/lista2.php?c=a0jr&f=.m3u8
