@@ -3,6 +3,75 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO",ESTAMOS REPARANDO 10/ABR/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
+#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=3315&=f.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=7&=f.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=11&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=17&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",CANAL 5
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=20&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=21&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",NU9VE
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=24&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",ONCE
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=25&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=27&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",TELEFORMULA
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=32&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=44&=f.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=70&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZ MUNDO
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=84&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=317&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 2
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=322&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2298&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2305&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",APRENDE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=401&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1253&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",NU9VE HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1783&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1784&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",CANAL 5 HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1785&=f.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE HD 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1942&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",MVS TV
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2149&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",TVC
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2156&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",CANAL 4 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2274&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",CANAL 8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2307&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2312&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",A+ 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2316&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",TVMAS
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2324&=f.m3u8 
+#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2331&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2352&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2606&=f.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2882&=f.m3u8 
+
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=108&=f.m3u8  
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
@@ -277,72 +346,3 @@ http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2157&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2564&=f.m3u8  
 #EXTINF:-1 group-title="DEPORTES",FUEL TV
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2587&=f.m3u8 
-
-#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=3315&=f.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=7&=f.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=11&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=17&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",CANAL 5
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=20&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZTECA 7
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=21&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",NU9VE
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=24&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",ONCE
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=25&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=27&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",TELEFORMULA
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=32&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=44&=f.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=70&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZ MUNDO
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=84&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=317&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 2
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=322&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2298&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2305&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",APRENDE TV
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=401&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1253&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",NU9VE HD
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1783&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1784&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",CANAL 5 HD
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1785&=f.m3u8
-#EXTINF:-1 group-title="MEXICO",ONCE HD 
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1942&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",MVS TV
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2149&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",TVC
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2156&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",CANAL 4 
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2274&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",CANAL 8
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2307&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2312&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",A+ 
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2316&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",TVMAS
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2324&=f.m3u8 
-#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2331&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2352&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2606&=f.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2882&=f.m3u8 
