@@ -67,7 +67,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2594&=f.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=85&=f.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR CHANEL 
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=46&=f.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SONY  
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=48&=f.m3u8 
@@ -109,62 +109,62 @@ http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1842&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2113&=f.m3u8 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO HD",FOX HD 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=201&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=201&=f.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO HD",WARNER HD 
-http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=205&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=205&=f.m3u8  
 #EXTINF:-1 group-title="ENTRETENIMIENTO HD",UNIVERSAL HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=207&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=207&=f.m3u8 
 #EXTINF:-1 group-title="ENTRETENIMIENTO HD",FX HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=209&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=209&=f.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO HD",TRUTV HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=215&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=215&=f.m3u8  
 #EXTINF:-1 group-title="ENTRETENIMIENTO HD",HOLA TV HD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=219&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=219&=f.m3u8 
 
 #EXTINF:-1 group-title="CINE Y SERIES",TNT 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=126&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES II
-http://clubtv.link/iptv/30mr/mxpremium.php?c=71&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=126&=f.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=71&=f.m3u8 
 #EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
 http://clubtv.link/iptv/30mr/mxpremium.php?c=3112&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TBS  
-http://clubtv.link/iptv/30mr/mxpremium.php?c=81&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TBS SD 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=81&=f.m3u8 
 #EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA + 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=121&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=121&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN +
-http://clubtv.link/iptv/30mr/mxpremium.php?c=122&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=122&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
-http://clubtv.link/iptv/30mr/mxpremium.php?c=123&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=123&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
-http://clubtv.link/iptv/30mr/mxpremium.php?c=124&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=124&=f.m3u8 
 #EXTINF:-1 group-title="CINE Y SERIES",TCM
-http://clubtv.link/iptv/30mr/mxpremium.php?c=128&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=128&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",SPACE
-http://clubtv.link/iptv/30mr/mxpremium.php?c=129&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=129&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",AMC 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=131&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=131&=f.m3u8 
 #EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL
-http://clubtv.link/iptv/30mr/mxpremium.php?c=132&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=132&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",I SAT  
-http://clubtv.link/iptv/30mr/mxpremium.php?c=135&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=135&=f.m3u8 
 #EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=136&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=136&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
-http://clubtv.link/iptv/30mr/mxpremium.php?c=137&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=137&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
-http://clubtv.link/iptv/30mr/mxpremium.php?c=140&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=140&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
-http://clubtv.link/iptv/30mr/mxpremium.php?c=149&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=149&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=158&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=158&=f.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AMC
-http://clubtv.link/iptv/30mr/mxpremium.php?c=328&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=328&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA
-http://clubtv.link/iptv/30mr/mxpremium.php?c=335&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=335&=f.m3u8  
 #EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=1726&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1726&=f.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=1787&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1787&=f.m3u8 
 #EXTINF:-1 group-title="CINE Y SERIES",HBO
 http://clubtv.link/31fin/dd19/lista2.php?c=a0k3&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",HBO2
