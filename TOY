@@ -177,62 +177,72 @@ http://clubtv.link/31fin/dd19/lista2.php?c=a0k5&f=.m3u8
 http://clubtv.link/31fin/dd19/lista2.php?c=a0k7&f=.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
-http://clubtv.link/iptv/30mr/mxpremium.php?c=211&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=211&=f.m3u8 
 #EXTINF:-1 group-title="MUSICA",MTV
-http://clubtv.link/iptv/30mr/mxpremium.php?c=212&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=212&=f.m3u8  
 #EXTINF:-1 group-title="MUSICA",MTV HITS
-http://clubtv.link/iptv/30mr/mxpremium.php?c=213&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=213&=f.m3u8  
 #EXTINF:-1 group-title="MUSICA",VH1 CLASSIC
-http://clubtv.link/iptv/30mr/mxpremium.php?c=214&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=214&=f.m3u8 
 #EXTINF:-1 group-title="MUSICA",VH1 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=334&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=217&=f.m3u8  
+#EXTINF:-1 group-title="MUSICA",VH1 HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=334&=f.m3u8  
 #EXTINF:-1 group-title="MUSICA",TELEHIT URBANO
-http://clubtv.link/iptv/30mr/mxpremium.php?c=218&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=218&=f.m3u8 
 #EXTINF:-1 group-title="MUSICA",TELEHIT +
-http://clubtv.link/iptv/30mr/mxpremium.php?c=220&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=220&=f.m3u8 
 #EXTINF:-1 group-title="MUSICA",BANDAMAX
-http://clubtv.link/iptv/30mr/mxpremium.php?c=221&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=221&=f.m3u8  
 #EXTINF:-1 group-title="MUSICA",AZ CLIC
-http://clubtv.link/iptv/30mr/mxpremium.php?c=223&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=223&=f.m3u8 
 
 #EXTINF:-1 group-title="NOTICIAS",FOROTV SD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=19&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=19&=f.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FOROTV HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=4&=f.m3u8
 #EXTINF:-1 group-title="NOTICIAS",ADN 40
-http://clubtv.link/iptv/30mr/mxpremium.php?c=184&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=40&=f.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",ADN 40 HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=184&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",CNN
-http://clubtv.link/iptv/30mr/mxpremium.php?c=185&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=185&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",CNN SD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=186&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=186&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",CNN Ñ SD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=187&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=187&=f.m3u8
 #EXTINF:-1 group-title="NOTICIAS",WOBI
-http://clubtv.link/iptv/30mr/mxpremium.php?c=102&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=102&=f.m3u8 
 #EXTINF:-1 group-title="NOTICIAS",FOXN EWS
-http://clubtv.link/iptv/30mr/mxpremium.php?c=188&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=188&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=190&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=190&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",BBC SD
-http://clubtv.link/iptv/30mr/mxpremium.php?c=191&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=191&=f.m3u8 
 #EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=192&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=192&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",NTN 24
-http://clubtv.link/iptv/30mr/mxpremium.php?c=194&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=194&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",HLN
-http://clubtv.link/iptv/30mr/mxpremium.php?c=197&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=197&=f.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=196&=f.m3u8 
 #EXTINF:-1 group-title="NOTICIAS",DW 
-http://clubtv.link/iptv/30mr/mxpremium.php?c=203&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=203&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",RT
-http://clubtv.link/iptv/30mr/mxpremium.php?c=999&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",MILENIO
-http://clubtv.link/iptv/30mr/mxpremium.php?c=1250&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=999&=f.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",MILENIO SD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1252&=f.m3u8
+#EXTINF:-1 group-title="NOTICIAS",MILENIO HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1250&=f.m3u8  
 #EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
-http://clubtv.link/iptv/30mr/mxpremium.php?c=1449&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO
-http://clubtv.link/iptv/30mr/mxpremium.php?c=1649&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1449&=f.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1649&=f.m3u8  
  #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
-http://clubtv.link/iptv/30mr/mxpremium.php?c=2091&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2091&=f.m3u8 
 #EXTINF:-1 group-title="NOTICIAS",FRANCE 24
-http://clubtv.link/iptv/30mr/mxpremium.php?c=2402&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2402&=f.m3u8  
 
 
 #EXTINF:-1 group-title="DEPORTES",ESPN + 
