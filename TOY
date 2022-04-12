@@ -234,16 +234,6 @@ http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=335&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1726&=f.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1787&=f.m3u8 
-#EXTINF:-1 group-title="CINE Y SERIES",HBO
-http://clubtv.link/31fin/dd19/lista2.php?c=a0k3&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO2
-http://clubtv.link/31fin/dd19/lista2.php?c=a0k4&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO FAMILY
-http://clubtv.link/31fin/dd19/lista2.php?c=a0k6&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO PLUS
-http://clubtv.link/31fin/dd19/lista2.php?c=a0k5&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO XTREME
-http://clubtv.link/31fin/dd19/lista2.php?c=a0k7&f=.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
 http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=211&=f.m3u8 
