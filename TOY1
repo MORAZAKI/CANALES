@@ -398,3 +398,20 @@ http://clubtv.link/abri19/1818ab/geomex.php?c=2564&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
 http://clubtv.link/abri19/1818ab/geomex.php?c=2587&f=.m3u8
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021
+http://regioplay.xyz/223022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro RojO
+http://regioplay.xyz/223022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2021/06/hotel_transylvania_transformania.jpg", Hotel Transylvania Transformania
+http://regioplay.xyz/php/SR_REGIO_814022_/hoteltransylvaniatransformania.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado
+http://regioplay.xyz/223022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2
+http://regioplay.xyz/223022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos
+http://regioplay.xyz/223022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era
+http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+
+
+
