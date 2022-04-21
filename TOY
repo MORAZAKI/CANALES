@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO",  OJO REPARANDO 15/ABR/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-
 *** NACIONALES ***
 #EXTINF:-1, ONCE NINOS (CLASE)
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=3315&=f.m3u8
@@ -77,11 +76,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2606&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2703&=f.m3u8  
 #EXTINF:-1, MULTIMEDIOS HD
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2882&=f.m3u8  
-
-
-
-
-
 
 *** INFANTILES ***
 #EXTINF:-1, TOONCAST
@@ -334,7 +328,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=221&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=223&=f.m3u8 
 #EXTINF:-1, VH1 HD
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=334&=f.m3u8  
-
 
 *** NOTICIAS ***
 #EXTINF:-1, FOROTV HD
