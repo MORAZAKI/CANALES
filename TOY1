@@ -4,6 +4,79 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO",  OJO REPARANDO 21/ABR/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
+#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
+http://clubtv.link/ab25c/ab25b/geomex.php?c=3315&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
+http://clubtv.link/ab25c/ab25b/geomex.php?c=3316&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
+http://clubtv.link/ab25c/ab25b/geomex.php?c=7&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
+http://clubtv.link/ab25c/ab25b/geomex.php?c=11&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+http://clubtv.link/ab25c/ab25b/geomex.php?c=17&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 5
+http://clubtv.link/ab25c/ab25b/geomex.php?c=20&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://clubtv.link/ab25c/ab25b/geomex.php?c=21&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",NU9VE
+http://clubtv.link/ab25c/ab25b/geomex.php?c=24&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE
+http://clubtv.link/ab25c/ab25b/geomex.php?c=25&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO
+http://clubtv.link/ab25c/ab25b/geomex.php?c=27&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
+http://clubtv.link/ab25c/ab25b/geomex.php?c=32&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
+http://clubtv.link/ab25c/ab25b/geomex.php?c=44&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
+http://clubtv.link/ab25c/ab25b/geomex.php?c=70&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ MUNDO
+http://clubtv.link/ab25c/ab25b/geomex.php?c=84&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
+http://clubtv.link/ab25c/ab25b/geomex.php?c=317&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
+http://clubtv.link/ab25c/ab25b/geomex.php?c=322&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2298&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2305&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",APREDNE TV
+http://clubtv.link/ab25c/ab25b/geomex.php?c=401&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://clubtv.link/ab25c/ab25b/geomex.php?c=1253&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",NU9VE HD
+http://clubtv.link/ab25c/ab25b/geomex.php?c=1783&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
+http://clubtv.link/ab25c/ab25b/geomex.php?c=1784&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
+http://clubtv.link/ab25c/ab25b/geomex.php?c=1785&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE HD 
+http://clubtv.link/ab25c/ab25b/geomex.php?c=1942&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MVS TV
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2149&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TVC
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2156&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 4 
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2274&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 8
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2307&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2312&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",A+ 
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2316&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TVMAS
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2324&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2331&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2352&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2606&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ACADEMIA
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2703&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
+http://clubtv.link/ab25c/ab25b/geomex.php?c=2882&f=.m3u8
+
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
 http://clubtv.link/ab25c/ab25b/geomex.php?c=108&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
@@ -289,7 +362,6 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=2091&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",FRANCE 24
 http://clubtv.link/ab25c/ab25b/geomex.php?c=2402&f=.m3u8
 
-
 #EXTINF:-1 group-title="DEPORTES",ESPN + 
 http://clubtv.link/ab25c/ab25b/geomex.php?c=167&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 
@@ -324,81 +396,6 @@ http://clubtv.link/ab25c/ab25b/geomex.php?c=2157&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex.php?c=2564&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
 http://clubtv.link/ab25c/ab25b/geomex.php?c=2587&f=.m3u8
-
-
-#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
-http://clubtv.link/ab25c/ab25b/geomex.php?c=3315&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
-http://clubtv.link/ab25c/ab25b/geomex.php?c=3316&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
-http://clubtv.link/ab25c/ab25b/geomex.php?c=7&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
-http://clubtv.link/ab25c/ab25b/geomex.php?c=11&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
-http://clubtv.link/ab25c/ab25b/geomex.php?c=17&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 5
-http://clubtv.link/ab25c/ab25b/geomex.php?c=20&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7
-http://clubtv.link/ab25c/ab25b/geomex.php?c=21&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",NU9VE
-http://clubtv.link/ab25c/ab25b/geomex.php?c=24&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ONCE
-http://clubtv.link/ab25c/ab25b/geomex.php?c=25&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO
-http://clubtv.link/ab25c/ab25b/geomex.php?c=27&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
-http://clubtv.link/ab25c/ab25b/geomex.php?c=32&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
-http://clubtv.link/ab25c/ab25b/geomex.php?c=44&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
-http://clubtv.link/ab25c/ab25b/geomex.php?c=70&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ MUNDO
-http://clubtv.link/ab25c/ab25b/geomex.php?c=84&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
-http://clubtv.link/ab25c/ab25b/geomex.php?c=317&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
-http://clubtv.link/ab25c/ab25b/geomex.php?c=322&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2298&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2305&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",APREDNE TV
-http://clubtv.link/ab25c/ab25b/geomex.php?c=401&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://clubtv.link/ab25c/ab25b/geomex.php?c=1253&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",NU9VE HD
-http://clubtv.link/ab25c/ab25b/geomex.php?c=1783&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
-http://clubtv.link/ab25c/ab25b/geomex.php?c=1784&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
-http://clubtv.link/ab25c/ab25b/geomex.php?c=1785&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ONCE HD 
-http://clubtv.link/ab25c/ab25b/geomex.php?c=1942&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MVS TV
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2149&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TVC
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2156&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 4 
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2274&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 8
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2307&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2312&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",A+ 
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2316&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TVMAS
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2324&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2331&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2352&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2606&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ACADEMIA
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2703&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
-http://clubtv.link/ab25c/ab25b/geomex.php?c=2882&f=.m3u8
-
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021
 http://regioplay.xyz/223022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
