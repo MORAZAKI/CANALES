@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", ULTIMA ACTUALIZACION 17/MAY/2022
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", ULTIMA ACTUALIZACION 03/JUN/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
@@ -77,6 +77,10 @@ http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2606&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2703&=f.m3u8  
 #EXTINF:-1, MULTIMEDIOS HD
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2882&=f.m3u8  
+
+
+
+
 
 
 *** INFANTILES ***
@@ -379,4 +383,3 @@ http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=1649&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2091&=f.m3u8 
 #EXTINF:-1, FRANCE 24
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2402&=f.m3u8  
- 
