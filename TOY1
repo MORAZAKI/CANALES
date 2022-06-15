@@ -307,23 +307,6 @@ http://clubtv.link/jun14/j1414/geomex.php?c=1732&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
 http://clubtv.link/jun14/j1414/geomex.php?c=1787&f=.m3u8
 
-#EXTINF:-1 group-title="CINE Y SERIES",HBO 2 SD =
-http://clubtv.link/jun14/j1414/respaldo.php?c=3322&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Family SD =
-http://clubtv.link/jun14/j1414/respaldo.php?c=3323&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO SD =
-http://clubtv.link/jun14/j1414/respaldo.php?c=3299&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Mundi SD =
-http://clubtv.link/jun14/j1414/respaldo.php?c=3324&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Plus SD = 
-http://clubtv.link/jun14/j1414/respaldo.php?c=3321&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO POP SD =
-http://clubtv.link/jun14/j1414/respaldo.php?c=3159&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Signature SD=
-http://clubtv.link/jun14/j1414/respaldo.php?c=3325&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Xtreme SD =
-http://clubtv.link/jun14/j1414/respaldo.php?c=3326&f=.m3u8
-
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
 http://clubtv.link/jun14/j1414/geomex.php?c=211&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",MTV
