@@ -103,3 +103,36 @@ http://bgapp.live/play/14-700.php?c=54&token=blackgggghost&f=.m3u8|user-agent=Da
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="Lista 01", FX
 http://bgapp.live/play/14-700.php?c=42&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="Peliculas" group-title="Lista 01", Golden
+http://bgapp.live/play/14-700.php?c=57&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" nada="Peliculas" group-title="Lista 01", Golden Edge
+http://bgapp.live/play/14-700.php?c=58&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="Peliculas" group-title="Lista 01", HBO
+http://bgapp.live/play/14-700.php?c=62&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="Peliculas" group-title="Lista 01", HBO 2
+http://bgapp.live/play/14-700.php?c=300&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="HD" group-title="Lista 01", HBO 2
+http://bgapp.live/play/14-700.php?c=732&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" nada="Peliculas" group-title="Lista 01", HBO Family
+http://bgapp.live/play/14-700.php?c=63&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="HD" group-title="Lista 01", HBO
+http://bgapp.live/play/14-700.php?c=654&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="Lista 01", HBO Plus
+http://bgapp.live/play/14-700.php?c=64&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus
+http://bgapp.live/play/14-700.php?c=655&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus Oeste
+http://bgapp.live/play/14-700.php?c=728&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" nada="Peliculas" group-title="Lista 01", HBO Xtreme
+http://bgapp.live/play/14-700.php?c=814&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
