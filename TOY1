@@ -49,3 +49,57 @@ http://bgapp.live/play/14-700.php?c=11&token=blackgggghost&f=.m3u8|user-agent=Da
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Accion
 http://bgapp.live/play/14-700.php?c=699&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="Peliculas" group-title="Lista 01", Cinemax
+http://bgapp.live/play/14-700.php?c=20&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" nada="Noticias" group-title="Lista 01", CNN en Español
+http://bgapp.live/play/14-700.php?c=136&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" nada="España" group-title="Lista 01", Comedy Central (ES)
+http://bgapp.live/play/14-700.php?c=719&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" nada="HD" group-title="Lista 01", De Pelicula
+http://bgapp.live/play/14-700.php?c=481&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" nada="Peliculas" group-title="Lista 01", DHE
+http://bgapp.live/play/14-700.php?c=844&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="HD" group-title="Lista 01", Discovery Channel
+http://bgapp.live/play/14-700.php?c=639&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" nada="Cultura" group-title="Lista 01", Discovery Civilization
+http://bgapp.live/play/14-700.php?c=23&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="Cultura" group-title="Lista 01", Discovery H&H
+http://bgapp.live/play/14-700.php?c=24&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="Infantiles" group-title="Lista 01", Discovery Kids
+http://bgapp.live/play/14-700.php?c=25&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="Lista 01", Disney Junior
+http://bgapp.live/play/14-700.php?c=30&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" nada="Entretenimiento" group-title="Lista 01", E!
+http://bgapp.live/play/14-700.php?c=33&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN
+http://bgapp.live/play/14-700.php?c=34&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="Deportes" group-title="Lista 01", ESPN 2 MX
+http://bgapp.live/play/14-700.php?c=531&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" nada="Deportes" group-title="Lista 01", ESPN Plus
+http://bgapp.live/play/14-700.php?c=37&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports MX
+http://bgapp.live/play/14-700.php?c=527&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports 2 MX
+http://bgapp.live/play/14-700.php?c=528&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="Deportes" group-title="Lista 01", Fox Sports 3
+http://bgapp.live/play/14-700.php?c=54&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="Lista 01", FX
+http://bgapp.live/play/14-700.php?c=42&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
