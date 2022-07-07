@@ -5,134 +5,451 @@
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="Lista 01", A&E
-http://bgapp.live/play/14-700.php?c=1&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="TV PREMIUM", A&E
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cl&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AMC
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b4&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ATRES SERIES
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cp&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ar&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ap&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BBC World
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cd&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Baby TV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c7&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CNN Espaæol
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cc&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CNN International
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ce&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CableNoticias
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bo&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal  Capital
+http://clubtv.link/24jun/2727j/lista1.php?c=a0an&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal 13
+http://clubtv.link/24jun/2727j/lista1.php?c=a0be&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal Institucional
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ai&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal TRO
+http://clubtv.link/24jun/2727j/lista1.php?c=a0al&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Caracol
+http://clubtv.link/24jun/2727j/lista1.php?c=a0aj&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", City TV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c5&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Comedy Central
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b1&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Cristovisiðn
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ax&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DW (Deutsch +)
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ch&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", De PelŦcula
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c0&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", De PelŦcula
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bw&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Channel
+http://clubtv.link/24jun/2727j/lista1.php?c=a0as&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Kids
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ao&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo
+http://clubtv.link/24jun/2727j/lista1.php?c=a0by&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bj&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Disney Channel
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bf&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Disney Xd
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bg&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", El Gourmet
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bk&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Enlace
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b7&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Enlace
+http://clubtv.link/24jun/2727j/lista1.php?c=a0aw&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Epoca
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c6&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Eurochannel
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cf&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Europa Europa
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b5&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX Sports
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ay&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FX Movies
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bv&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Film&Arts
+http://clubtv.link/24jun/2727j/lista1.php?c=a0at&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports
+http://clubtv.link/24jun/2727j/lista1.php?c=a0br&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 3
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ck&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", GOLPERU
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c1&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Globovision
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b9&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Gol TV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cj&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Family
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cq&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO MUNDI
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bx&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO POP
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cv&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Plus
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cs&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Signature
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ct&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cr&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HGTV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bi&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HTV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bm&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Hola TV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0av&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Las Estrellas
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bl&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Las Estrellas
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b8&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Lifetime
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bs&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cb&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Movistar TV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0af&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NTN 24 Horas
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bn&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nat Geo Kids
+http://clubtv.link/24jun/2727j/lista1.php?c=a0aq&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nick Music
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cx&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nuestra Tele
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bz&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nuestra Tele
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bd&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RAI
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cg&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RCN
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bc&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b2&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STAR LIFE
+http://clubtv.link/24jun/2727j/lista1.php?c=a0au&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Seæal Colombia
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bb&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Space
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bu&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Studio Universal
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bt&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TLC
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c9&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TLT
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ba&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cn&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b3&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT SPORTS 2
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bq&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT SPORTS 3
+http://clubtv.link/24jun/2727j/lista1.php?c=a0az&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT Series
+http://clubtv.link/24jun/2727j/lista1.php?c=a0co&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Teleantioquia
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c4&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telecafe
+http://clubtv.link/24jun/2727j/lista1.php?c=a0am&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telecaribe
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ak&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TelefØ
+http://clubtv.link/24jun/2727j/lista1.php?c=a0bp&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telepacifico
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c3&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telesur
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ci&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telesur
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c2&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Televen
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ah&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Tooncast
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cu&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Tooncast
+http://clubtv.link/24jun/2727j/lista1.php?c=a0c8&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Travel and Living Channel
+http://clubtv.link/24jun/2727j/lista1.php?c=a0ca&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Tru TV
+http://clubtv.link/24jun/2727j/lista1.php?c=a0cm&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Win Sports
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" nada="España" group-title="Lista 01", A3Series
-http://bgapp.live/play/14-700.php?c=444&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" nada="Noticias" group-title="Lista 01", ADN 40
-http://bgapp.live/play/14-700.php?c=447&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" nada="Cultura" group-title="Lista 01", Animal Planet
-http://bgapp.live/play/14-700.php?c=3&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" nada="Peliculas" group-title="Lista 01", Az Cinema
-http://bgapp.live/play/14-700.php?c=186&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" nada="Entretenimiento" group-title="Lista 01", Az Clic
-http://bgapp.live/play/14-700.php?c=165&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",UNIVISION
+http://clubtv.link/24jun/2727j/listaz.php?c=1&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CANAL FOX
+http://clubtv.link/24jun/2727j/listaz.php?c=2&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",FX
+http://clubtv.link/24jun/2727j/listaz.php?c=3&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",A&E LATINO
+http://clubtv.link/24jun/2727j/listaz.php?c=4&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",FOX LIFE
+http://clubtv.link/24jun/2727j/listaz.php?c=5&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TBS
+http://clubtv.link/24jun/2727j/listaz.php?c=6&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",SYFY
+http://clubtv.link/24jun/2727j/listaz.php?c=7&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",AXN
+http://clubtv.link/24jun/2727j/listaz.php?c=8&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL
+http://clubtv.link/24jun/2727j/listaz.php?c=9&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner
+http://clubtv.link/24jun/2727j/listaz.php?c=10&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",SONY
+http://clubtv.link/24jun/2727j/listaz.php?c=11&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL
+http://clubtv.link/24jun/2727j/listaz.php?c=12&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT SERIES
+http://clubtv.link/24jun/2727j/listaz.php?c=13&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",E!
+http://clubtv.link/24jun/2727j/listaz.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://clubtv.link/24jun/2727j/listaz.php?c=15&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",HISTORY CHANNEL
+http://clubtv.link/24jun/2727j/listaz.php?c=16&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
+http://clubtv.link/24jun/2727j/listaz.php?c=17&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
+http://clubtv.link/24jun/2727j/listaz.php?c=18&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",ANIMAL PLANET
+http://clubtv.link/24jun/2727j/listaz.php?c=19&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",NICK JR
+http://clubtv.link/24jun/2727j/listaz.php?c=20&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
+http://clubtv.link/24jun/2727j/listaz.php?c=21&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
+http://clubtv.link/24jun/2727j/listaz.php?c=22&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",NICKELODEON
+http://clubtv.link/24jun/2727j/listaz.php?c=23&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL
+http://clubtv.link/24jun/2727j/listaz.php?c=25&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 3
+http://clubtv.link/24jun/2727j/listaz.php?c=26&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2
+http://clubtv.link/24jun/2727j/listaz.php?c=27&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN
+http://clubtv.link/24jun/2727j/listaz.php?c=28&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",CLARO SPORT
+http://clubtv.link/24jun/2727j/listaz.php?c=29&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",HOLA TV
+http://clubtv.link/24jun/2727j/listaz.php?c=30&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT
+http://clubtv.link/24jun/2727j/listaz.php?c=31&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO 2
+http://clubtv.link/24jun/2727j/listaz.php?c=32&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY
+http://clubtv.link/24jun/2727j/listaz.php?c=33&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO XTREME
+http://clubtv.link/24jun/2727j/listaz.php?c=35&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",BABY TV
+http://clubtv.link/24jun/2727j/listaz.php?c=36&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",BOORMERANG MX
+http://clubtv.link/24jun/2727j/listaz.php?c=37&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN DEPORTES
+http://clubtv.link/24jun/2727j/listaz.php?c=39&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",NET GEO
+http://clubtv.link/24jun/2727j/listaz.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",SPACE MX
+http://clubtv.link/24jun/2727j/listaz.php?c=41&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV HITLIST
+http://clubtv.link/24jun/2727j/listaz.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV
+http://clubtv.link/24jun/2727j/listaz.php?c=43&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1
+http://clubtv.link/24jun/2727j/listaz.php?c=44&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VIDEO ROLA
+http://clubtv.link/24jun/2727j/listaz.php?c=45&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",FOODN
+http://clubtv.link/24jun/2727j/listaz.php?c=46&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",DISCOVERY FAMILY
+http://clubtv.link/24jun/2727j/listaz.php?c=47&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",BRAVO TV
+http://clubtv.link/24jun/2727j/listaz.php?c=48&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CNN
+http://clubtv.link/24jun/2727j/listaz.php?c=49&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",ATRES
+http://clubtv.link/24jun/2727j/listaz.php?c=50&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",AZTECA 7
+http://clubtv.link/24jun/2727j/listaz.php?c=51&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",IMAGEN
+http://clubtv.link/24jun/2727j/listaz.php?c=52&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",CANAL 22
+http://clubtv.link/24jun/2727j/listaz.php?c=53&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",ONCE TV MX
+http://clubtv.link/24jun/2727j/listaz.php?c=54&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MLB
+http://clubtv.link/24jun/2727j/listaz.php?c=55&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",NBA
+http://clubtv.link/24jun/2727j/listaz.php?c=56&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORT 3
+http://clubtv.link/24jun/2727j/listaz.php?c=57&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 1
+http://clubtv.link/24jun/2727j/listaz.php?c=58&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN EXTRA
+http://clubtv.link/24jun/2727j/listaz.php?c=59&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2
+http://clubtv.link/24jun/2727j/listaz.php?c=60&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",MULTIMEDIOS MTY
+http://clubtv.link/24jun/2727j/listaz.php?c=61&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",EL FINANCIERO
+http://clubtv.link/24jun/2727j/listaz.php?c=62&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",DW
+http://clubtv.link/24jun/2727j/listaz.php?c=63&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINEMAX
+http://clubtv.link/24jun/2727j/listaz.php?c=65&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINECANAL
+http://clubtv.link/24jun/2727j/listaz.php?c=66&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINE LATINO
+http://clubtv.link/24jun/2727j/listaz.php?c=68&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",ISAT
+http://clubtv.link/24jun/2727j/listaz.php?c=69&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",PARAMOOUNT
+http://clubtv.link/24jun/2727j/listaz.php?c=70&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",PASIONES
+http://clubtv.link/24jun/2727j/listaz.php?c=72&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER
+http://clubtv.link/24jun/2727j/listaz.php?c=73&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",FOX ACCION
+http://clubtv.link/24jun/2727j/listaz.php?c=74&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO 1
+http://clubtv.link/24jun/2727j/listaz.php?c=80&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO Plus
+http://clubtv.link/24jun/2727j/listaz.php?c=81&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",AZTECA UNO
+http://clubtv.link/24jun/2727j/listaz.php?c=82&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",LIFETIME
+http://clubtv.link/24jun/2727j/listaz.php?c=83&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",UNICABLE
+http://clubtv.link/24jun/2727j/listaz.php?c=84&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",UNIMAS
+http://clubtv.link/24jun/2727j/listaz.php?c=85&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",GALAVISION
+http://clubtv.link/24jun/2727j/listaz.php?c=86&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",MC
+http://clubtv.link/24jun/2727j/listaz.php?c=87&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",MULTIPREMIER
+http://clubtv.link/24jun/2727j/listaz.php?c=88&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",TELENOVELA PR
+http://clubtv.link/24jun/2727j/listaz.php?c=89&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY TURBO
+http://clubtv.link/24jun/2727j/listaz.php?c=90&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY H&H
+http://clubtv.link/24jun/2727j/listaz.php?c=91&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY ID
+http://clubtv.link/24jun/2727j/listaz.php?c=92&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY TLC
+http://clubtv.link/24jun/2727j/listaz.php?c=93&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY THEATER
+http://clubtv.link/24jun/2727j/listaz.php?c=94&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",H2
+http://clubtv.link/24jun/2727j/listaz.php?c=95&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",CANAL 5 SD
+http://clubtv.link/24jun/2727j/listaz.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",LAS ESTRELLAS
+http://clubtv.link/24jun/2727j/listaz.php?c=97&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",UNIVERSO
+http://clubtv.link/24jun/2727j/listaz.php?c=99&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",BEIN SPORT 720 HD
+http://clubtv.link/24jun/2727j/listaz.php?c=100&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",NBCSN
+http://clubtv.link/24jun/2727j/listaz.php?c=101&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORT  premium mx
+http://clubtv.link/24jun/2727j/listaz.php?c=102&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORT 2
+http://clubtv.link/24jun/2727j/listaz.php?c=103&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 3
+http://clubtv.link/24jun/2727j/listaz.php?c=104&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",FILM ART
+http://clubtv.link/24jun/2727j/listaz.php?c=106&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",MULTICINEMA
+http://clubtv.link/24jun/2727j/listaz.php?c=107&f=.m3u8
+#EXTINF:-1,*TNT SPORT 2 MX HBO MAX HD *** DEPORTES LATINOS ***
+http://clubtv.link/24jun/2727j/listaz.php?c=108&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" nada="Entretenimiento" group-title="Lista 01", Az Corazón
-http://bgapp.live/play/14-700.php?c=166&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" nada="Mexico" group-title="Lista 01", Azteca 1
-http://bgapp.live/play/14-700.php?c=4&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" nada="HD" group-title="Lista 01", Azteca 7
-http://bgapp.live/play/14-700.php?c=635&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" nada="Musica" group-title="Lista 01", Bandamax
-http://bgapp.live/play/14-700.php?c=8&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="Mexico" group-title="Lista 01", Canal de las Estrellas
-http://bgapp.live/play/14-700.php?c=411&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" nada="Mexico" group-title="Lista 01", Canal Once
-http://bgapp.live/play/14-700.php?c=15&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="Lista 01", Cartoon Network
-http://bgapp.live/play/14-700.php?c=17&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="Infantiles" group-title="Lista 01", Cartoonito (Boomerang)
-http://bgapp.live/play/14-700.php?c=11&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Accion
-http://bgapp.live/play/14-700.php?c=699&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="Peliculas" group-title="Lista 01", Cinemax
-http://bgapp.live/play/14-700.php?c=20&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" nada="Noticias" group-title="Lista 01", CNN en Español
-http://bgapp.live/play/14-700.php?c=136&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" nada="España" group-title="Lista 01", Comedy Central (ES)
-http://bgapp.live/play/14-700.php?c=719&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" nada="HD" group-title="Lista 01", De Pelicula
-http://bgapp.live/play/14-700.php?c=481&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" nada="Peliculas" group-title="Lista 01", DHE
-http://bgapp.live/play/14-700.php?c=844&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="HD" group-title="Lista 01", Discovery Channel
-http://bgapp.live/play/14-700.php?c=639&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" nada="Cultura" group-title="Lista 01", Discovery Civilization
-http://bgapp.live/play/14-700.php?c=23&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="Cultura" group-title="Lista 01", Discovery H&H
-http://bgapp.live/play/14-700.php?c=24&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="Infantiles" group-title="Lista 01", Discovery Kids
-http://bgapp.live/play/14-700.php?c=25&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="Lista 01", Disney Junior
-http://bgapp.live/play/14-700.php?c=30&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" nada="Entretenimiento" group-title="Lista 01", E!
-http://bgapp.live/play/14-700.php?c=33&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN
-http://bgapp.live/play/14-700.php?c=34&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="Deportes" group-title="Lista 01", ESPN 2 MX
-http://bgapp.live/play/14-700.php?c=531&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" nada="Deportes" group-title="Lista 01", ESPN Plus
-http://bgapp.live/play/14-700.php?c=37&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports MX
-http://bgapp.live/play/14-700.php?c=527&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports 2 MX
-http://bgapp.live/play/14-700.php?c=528&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="Deportes" group-title="Lista 01", Fox Sports 3
-http://bgapp.live/play/14-700.php?c=54&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="Lista 01", FX
-http://bgapp.live/play/14-700.php?c=42&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="Peliculas" group-title="Lista 01", Golden
-http://bgapp.live/play/14-700.php?c=57&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" nada="Peliculas" group-title="Lista 01", Golden Edge
-http://bgapp.live/play/14-700.php?c=58&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="Peliculas" group-title="Lista 01", HBO
-http://bgapp.live/play/14-700.php?c=62&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="Peliculas" group-title="Lista 01", HBO 2
-http://bgapp.live/play/14-700.php?c=300&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="HD" group-title="Lista 01", HBO 2
-http://bgapp.live/play/14-700.php?c=732&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" nada="Peliculas" group-title="Lista 01", HBO Family
-http://bgapp.live/play/14-700.php?c=63&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="HD" group-title="Lista 01", HBO
-http://bgapp.live/play/14-700.php?c=654&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="Lista 01", HBO Plus
-http://bgapp.live/play/14-700.php?c=64&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus
-http://bgapp.live/play/14-700.php?c=655&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus Oeste
-http://bgapp.live/play/14-700.php?c=728&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" nada="Peliculas" group-title="Lista 01", HBO Xtreme
-http://bgapp.live/play/14-700.php?c=814&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="12" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832&f=.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="3" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png", Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png", Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg", Eurolatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="23" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="20" tvg-name="On Radio Ksun" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Ksun
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="28" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos&f=.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
 
