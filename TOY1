@@ -3,3 +3,49 @@
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", EN REPARACION :( 07/JUl/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="Lista 01", A&E
+http://bgapp.live/play/14-700.php?c=1&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" nada="España" group-title="Lista 01", A3Series
+http://bgapp.live/play/14-700.php?c=444&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" nada="Noticias" group-title="Lista 01", ADN 40
+http://bgapp.live/play/14-700.php?c=447&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" nada="Cultura" group-title="Lista 01", Animal Planet
+http://bgapp.live/play/14-700.php?c=3&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" nada="Peliculas" group-title="Lista 01", Az Cinema
+http://bgapp.live/play/14-700.php?c=186&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" nada="Entretenimiento" group-title="Lista 01", Az Clic
+http://bgapp.live/play/14-700.php?c=165&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" nada="Entretenimiento" group-title="Lista 01", Az Corazón
+http://bgapp.live/play/14-700.php?c=166&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" nada="Mexico" group-title="Lista 01", Azteca 1
+http://bgapp.live/play/14-700.php?c=4&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" nada="HD" group-title="Lista 01", Azteca 7
+http://bgapp.live/play/14-700.php?c=635&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" nada="Musica" group-title="Lista 01", Bandamax
+http://bgapp.live/play/14-700.php?c=8&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="Mexico" group-title="Lista 01", Canal de las Estrellas
+http://bgapp.live/play/14-700.php?c=411&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" nada="Mexico" group-title="Lista 01", Canal Once
+http://bgapp.live/play/14-700.php?c=15&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="Lista 01", Cartoon Network
+http://bgapp.live/play/14-700.php?c=17&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="Infantiles" group-title="Lista 01", Cartoonito (Boomerang)
+http://bgapp.live/play/14-700.php?c=11&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Accion
+http://bgapp.live/play/14-700.php?c=699&token=blackgggghost&f=.m3u8|user-agent=Dalvik/2.1.0
