@@ -1,459 +1,196 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", EN REPARACION :( 09/JUl/2022
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", SEGUIMOS ARREGLANDO :/ 10/JUl/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
-#EXTINF:-1 group-title="Lista mx1",A&E HD (211)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=62
-#EXTINF:-1 group-title="Lista mx1",A+
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2316
-#EXTINF:-1 group-title="Lista mx1",A3SERIES
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2113
-#EXTINF:-1 group-title="Lista mx1",ADN 40 HD (140)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=40
-#EXTINF:-1 group-title="Lista mx1",ADN 40 HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3087
-#EXTINF:-1 group-title="Lista mx1",ADN 40
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2067
-#EXTINF:-1 group-title="Lista mx1",ADRENALINA HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1799
-#EXTINF:-1 group-title="Lista mx1",ADRENALINA SPORTS NETWORK
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2404
-#EXTINF:-1 group-title="Lista mx1",ALJAZEERA
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=192
-#EXTINF:-1 group-title="Lista mx1",AMC (490)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=131
-#EXTINF:-1 group-title="Lista mx1",AMC HD (444)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=328
-#EXTINF:-1 group-title="Lista mx1",ANIMAL PLANET (373)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=88
-#EXTINF:-1 group-title="Lista mx1",ANIMAL PLANET
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2378
-#EXTINF:-1 group-title="Lista mx1",ANTENA 3
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=199
-#EXTINF:-1 group-title="Lista mx1",A PLUS HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3089
-#EXTINF:-1 group-title="Lista mx1",A PLUS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2319
-#EXTINF:-1 group-title="Lista mx1",ATRESCINE HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3112
-#EXTINF:-1 group-title="Lista mx1",AXN HD (213)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=64
-#EXTINF:-1 group-title="Lista mx1",AYM SPORTS (576)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=180
-#EXTINF:-1 group-title="Lista mx1",AZ CINEMA
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1787
-#EXTINF:-1 group-title="Lista mx1",AZ CLIC HD (725)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=11
-#EXTINF:-1 group-title="Lista mx1",AZ CLICK HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=403
-#EXTINF:-1 group-title="Lista mx1",AZ CLICK
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2293
-#EXTINF:-1 group-title="Lista mx1",AZ CORAZON HD (250)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=70
-#EXTINF:-1 group-title="Lista mx1",AZ CORAZON HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2410
-#EXTINF:-1 group-title="Lista mx1",AZ MUNDO HD (276)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=84
-#EXTINF:-1 group-title="Lista mx1",AZTECA 7 HD (1)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2
-#EXTINF:-1 group-title="Lista mx1",AZTECA 7 HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3078
-#EXTINF:-1 group-title="Lista mx1",AZTECA 7
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2125
-#EXTINF:-1 group-title="Lista mx1",AZTECA UNO HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=649
-#EXTINF:-1 group-title="Lista mx1",AZTECA UNO HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3072
-#EXTINF:-1 group-title="Lista mx1",AZTECA UNO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=7
-#EXTINF:-1 group-title="Lista mx1",AZTECA UNO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2380
-#EXTINF:-1 group-title="Lista mx1",BABY FIRST
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1984
-#EXTINF:-1 group-title="Lista mx1",BABYTV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=116
-#EXTINF:-1 group-title="Lista mx1",BANDAMAX (732)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=221
-#EXTINF:-1 group-title="Lista mx1",BBC WORLD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=191
-#EXTINF:-1 group-title="Lista mx1",BIT ME
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2591
-#EXTINF:-1 group-title="Lista mx1",BLOOMBERG MX HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1649
-#EXTINF:-1 group-title="Lista mx1",BLOOMBERG MX
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2167
-#EXTINF:-1 group-title="Lista mx1",BLOOMBERG
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=190
-#EXTINF:-1 group-title="Lista mx1",BOOMERANG (324)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=115
-#EXTINF:-1 group-title="Lista mx1",CANAL 5 (105)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=20
-#EXTINF:-1 group-title="Lista mx1",CANAL 5 HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3086
-#EXTINF:-1 group-title="Lista mx1",CANAL 5
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2251
-#EXTINF:-1 group-title="Lista mx1",CANAL 6 HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3077
-#EXTINF:-1 group-title="Lista mx1",CANAL 6
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2390
-#EXTINF:-1 group-title="Lista mx1",CANAL DE LAS ESTRELLAS (102)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=17
-#EXTINF:-1 group-title="Lista mx1",CANAL DE LAS ESTRELLAS HD (2)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=402
-#EXTINF:-1 group-title="Lista mx1",CANAL ONCE HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2938
-#EXTINF:-1 group-title="Lista mx1",CANAL ONCE
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=25
-#EXTINF:-1 group-title="Lista mx1",CANAL ONCE
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2354
-#EXTINF:-1 group-title="Lista mx1",CANAL TOTAL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2361
-#EXTINF:-1 group-title="Lista mx1",CANAL TP FAMILIA
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1977
-#EXTINF:-1 group-title="Lista mx1",CANAL TP HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3255
-#EXTINF:-1 group-title="Lista mx1",CANAL TP
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1973
-#EXTINF:-1 group-title="Lista mx1",CARTOON NETWORK (320)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=112
-#EXTINF:-1 group-title="Lista mx1",CINECANAL (480)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=337
-#EXTINF:-1 group-title="Lista mx1",CINECANAL HD (430)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=149
-#EXTINF:-1 group-title="Lista mx1",CINEMAX (481)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=158
-#EXTINF:-1 group-title="Lista mx1",CLARO SPORTS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2564
-#EXTINF:-1 group-title="Lista mx1",CNN ESPANOL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=187
-#EXTINF:-1 group-title="Lista mx1",CNN INTERNACIONAL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=186
-#EXTINF:-1 group-title="Lista mx1",CNN
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=185
-#EXTINF:-1 group-title="Lista mx1",COMEDY CENTRAL HD (217)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=340
-#EXTINF:-1 group-title="Lista mx1",CONGRESO DE LA UNION
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2331
-#EXTINF:-1 group-title="Lista mx1",CURIOSITY STREAM
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2594
-#EXTINF:-1 group-title="Lista mx1",DE PELICULA HD (442)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=121
-#EXTINF:-1 group-title="Lista mx1",DE PELICULA
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=335
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY CHANNEL (371)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=86
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY CIVILIZATION (382)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=99
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY H&H (374)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=96
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY KIDS (303)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=109
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY KIDS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2377
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY SCIENCE (381)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=98
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY THEATER HD (351)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=95
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY TURBO (383)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=100
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY TURBO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2379
-#EXTINF:-1 group-title="Lista mx1",DISCOVERY WORLD HD (356)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=101
-#EXTINF:-1 group-title="Lista mx1",DISNEY CHANNEL (312)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=113
-#EXTINF:-1 group-title="Lista mx1",DISNEY JR (308)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=118
-#EXTINF:-1 group-title="Lista mx1",DISNEY JR HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=849
-#EXTINF:-1 group-title="Lista mx1",DISNEY XD (322)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=111
-#EXTINF:-1 group-title="Lista mx1",DISTRITO COMEDIA (272)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=78
-#EXTINF:-1 group-title="Lista mx1",DW
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=203
-#EXTINF:-1 group-title="Lista mx1",E! ENTERTAINMENT HD (255)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=55
-#EXTINF:-1 group-title="Lista mx1",EL GARAGE TV (269)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=75
-#EXTINF:-1 group-title="Lista mx1",EL GOURMET (268)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=74
-#EXTINF:-1 group-title="Lista mx1",ESPN + HD (516)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=167
-#EXTINF:-1 group-title="Lista mx1",ESPN 2 HD (561)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=169
-#EXTINF:-1 group-title="Lista mx1",ESPN 3 HD (520)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=345
-#EXTINF:-1 group-title="Lista mx1",ESPN INTERNACIONAL HD (558)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=168
-#EXTINF:-1 group-title="Lista mx1",EUROPA EUROPA
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=136
-#EXTINF:-1 group-title="Lista mx1",EXCELSIOR TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1449
-#EXTINF:-1 group-title="Lista mx1",FILM ART
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=137
-#EXTINF:-1 group-title="Lista mx1",FOOD NETWORK
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=97
-#EXTINF:-1 group-title="Lista mx1",FORO TV (104)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=700
-#EXTINF:-1 group-title="Lista mx1",FORO TV HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2916
-#EXTINF:-1 group-title="Lista mx1",FORO TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=19
-#EXTINF:-1 group-title="Lista mx1",FOX ACTION HD (416)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=336
-#EXTINF:-1 group-title="Lista mx1",FOX CHANNEL (251)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=47
-#EXTINF:-1 group-title="Lista mx1",FOX CHANNEL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=201
-#EXTINF:-1 group-title="Lista mx1",FOX CHANNEL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1757
-#EXTINF:-1 group-title="Lista mx1",FOX HD (201)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=46
-#EXTINF:-1 group-title="Lista mx1",FOX HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2368
-#EXTINF:-1 group-title="Lista mx1",FOX LIFE (271)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=77
-#EXTINF:-1 group-title="Lista mx1",FOX MOVIES HD (417)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=146
-#EXTINF:-1 group-title="Lista mx1",FOX NEW LIVE
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=188
-#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM CINEMA
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1729
-#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM CLASSICS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1732
-#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM COMEDY HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1725
-#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM FAMILY O HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1724
-#EXTINF:-1 group-title="Lista mx1",FOX SERIES HD (415)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=139
-#EXTINF:-1 group-title="Lista mx1",FOX SPORT 3 (178)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=178
-#EXTINF:-1 group-title="Lista mx1",FOX SPORTS 2 HD (527)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=172
-#EXTINF:-1 group-title="Lista mx1",FOX SPORTS 2 OP2
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=173
-#EXTINF:-1 group-title="Lista mx1",FOX SPORTS HD (522)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=170
-#EXTINF:-1 group-title="Lista mx1",FOX SPORTS OP2
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=171
-#EXTINF:-1 group-title="Lista mx1",FRANCE 24
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2402
-#EXTINF:-1 group-title="Lista mx1",FUEL TV HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2587
-#EXTINF:-1 group-title="Lista mx1",FX (258)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=56
-#EXTINF:-1 group-title="Lista mx1",FX HD (209)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=60
-#EXTINF:-1 group-title="Lista mx1",FXM
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=332
-#EXTINF:-1 group-title="Lista mx1",FX
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=209
-#EXTINF:-1 group-title="Lista mx1",GALA TV (109)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=24
-#EXTINF:-1 group-title="Lista mx1",GLITZ (270)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=76
-#EXTINF:-1 group-title="Lista mx1",GOLDEN EDGE (484)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=124
-#EXTINF:-1 group-title="Lista mx1",GOLDEN HD (436)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=122
-#EXTINF:-1 group-title="Lista mx1",GOLDEN
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=123
-#EXTINF:-1 group-title="Lista mx1",GOLF CHANNEL LATIN AMERICA (179)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=179
-#EXTINF:-1 group-title="Lista mx1",HAVOC
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2148
-#EXTINF:-1 group-title="Lista mx1",HGTV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3105
-#EXTINF:-1 group-title="Lista mx1",HISTORY CHANNEL HD (353)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=89
-#EXTINF:-1 group-title="Lista mx1",HLN
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=197
-#EXTINF:-1 group-title="Lista mx1",HOLA TV!
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1734
-#EXTINF:-1 group-title="Lista mx1",HOLA TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=219
-#EXTINF:-1 group-title="Lista mx1",ID (263)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=68
-#EXTINF:-1 group-title="Lista mx1",IMAGEN TELEVISION HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3097
-#EXTINF:-1 group-title="Lista mx1",IMAGEN TELEVISION
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2407
-#EXTINF:-1 group-title="Lista mx1",IMAGEN TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2298
-#EXTINF:-1 group-title="Lista mx1",INGENIO TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=401
-#EXTINF:-1 group-title="Lista mx1",INVESTIGATION DISCOVERY
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2376
-#EXTINF:-1 group-title="Lista mx1",ISAT (495)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=135
-#EXTINF:-1 group-title="Lista mx1",JUSTICIA TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=196
-#EXTINF:-1 group-title="Lista mx1",LAS ESTRELLAS HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3085
-#EXTINF:-1 group-title="Lista mx1",LAS ESTRELLAS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2250
-#EXTINF:-1 group-title="Lista mx1",LIFETIME (379)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=94
-#EXTINF:-1 group-title="Lista mx1",MASCHIC
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1842
-#EXTINF:-1 group-title="Lista mx1",MEXIQUENSES
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=44
-#EXTINF:-1 group-title="Lista mx1",MILENIO NOTICIAS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1250
-#EXTINF:-1 group-title="Lista mx1",MILENIO TV (603)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1252
-#EXTINF:-1 group-title="Lista mx1",MILENIO TV 4:3
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1989
-#EXTINF:-1 group-title="Lista mx1",MORBIDO TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=140
-#EXTINF:-1 group-title="Lista mx1",MTV HD (726)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=212
-#EXTINF:-1 group-title="Lista mx1",MTV HITS (727)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=213
-#EXTINF:-1 group-title="Lista mx1",MTV LIVE HD (701)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=211
-#EXTINF:-1 group-title="Lista mx1",MULTIMEDIOS MONTERREY (2305)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2305
-#EXTINF:-1 group-title="Lista mx1",MULTIMEDIOS PLUS (167)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1253
-#EXTINF:-1 group-title="Lista mx1",MVSTV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2149
-#EXTINF:-1 group-title="Lista mx1",MVS TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2306
-#EXTINF:-1 group-title="Lista mx1",NAT GEO KIDS (2373)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2373
-#EXTINF:-1 group-title="Lista mx1",NAT GEO KIDS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2370
-#EXTINF:-1 group-title="Lista mx1",NAT GEO WILD HD (355)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=92
-#EXTINF:-1 group-title="Lista mx1",NATGEO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1650
-#EXTINF:-1 group-title="Lista mx1",NATIONAL GEOGRAPHIC (377)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=91
-#EXTINF:-1 group-title="Lista mx1",NICK (317)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=110
-#EXTINF:-1 group-title="Lista mx1",NICK 2
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2147
-#EXTINF:-1 group-title="Lista mx1",NICK HD (315)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=331
-#EXTINF:-1 group-title="Lista mx1",NICK JR (310)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=117
-#EXTINF:-1 group-title="Lista mx1",NICKTOONS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1708
-#EXTINF:-1 group-title="Lista mx1",NTN 24
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=194
-#EXTINF:-1 group-title="Lista mx1",NUEVE HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=3058
-#EXTINF:-1 group-title="Lista mx1",NUEVE
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2039
-#EXTINF:-1 group-title="Lista mx1",NUEVE
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2061
-#EXTINF:-1 group-title="Lista mx1",ONCE NINOS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2222
-#EXTINF:-1 group-title="Lista mx1",ONCE TV (111)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1942
-#EXTINF:-1 group-title="Lista mx1",PARAMOUNT CHANNEL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1726
-#EXTINF:-1 group-title="Lista mx1",PLANET X HD (528)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=950
-#EXTINF:-1 group-title="Lista mx1",RITMOSON (731)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=218
-#EXTINF:-1 group-title="Lista mx1",RT NEWS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=999
-#EXTINF:-1 group-title="Lista mx1",RT NEWS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2091
-#EXTINF:-1 group-title="Lista mx1",SONY HD (203)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=48
-#EXTINF:-1 group-title="Lista mx1",SPACE (491)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=130
-#EXTINF:-1 group-title="Lista mx1",SPACE HD (445)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=129
-#EXTINF:-1 group-title="Lista mx1",STAR TVE
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2375
-#EXTINF:-1 group-title="Lista mx1",STUDIO UNIVERSAL (492)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=132
-#EXTINF:-1 group-title="Lista mx1",STUDIO UNIVERSAL HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1982
-#EXTINF:-1 group-title="Lista mx1",SUNDANCE TV
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=69
-#EXTINF:-1 group-title="Lista mx1",SYFY (257)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=59
-#EXTINF:-1 group-title="Lista mx1",TBS VERY FUNNY (273)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=81
-#EXTINF:-1 group-title="Lista mx1",TCM (496)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=128
-#EXTINF:-1 group-title="Lista mx1",TELEFORMULA (161)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=32
-#EXTINF:-1 group-title="Lista mx1",TELEHIT HD (702)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=220
-#EXTINF:-1 group-title="Lista mx1",TELEMAR
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2089
-#EXTINF:-1 group-title="Lista mx1",TELEMUNDO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=85
-#EXTINF:-1 group-title="Lista mx1",TELERITMO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1943
-#EXTINF:-1 group-title="Lista mx1",TELEVISA GUANAJUATO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2355
-#EXTINF:-1 group-title="Lista mx1",TELEVISA MONTERREY
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2307
-#EXTINF:-1 group-title="Lista mx1",TELEVISA PUEBLA
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2312
-#EXTINF:-1 group-title="Lista mx1",THE FILM ZONE HD (440)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=138
-#EXTINF:-1 group-title="Lista mx1",TIIN (325)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=114
-#EXTINF:-1 group-title="Lista mx1",TLNOVELAS (275)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=83
-#EXTINF:-1 group-title="Lista mx1",TNT (482)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=127
-#EXTINF:-1 group-title="Lista mx1",TNT HD (435)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=126
-#EXTINF:-1 group-title="Lista mx1",TNT SERIES (266)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=71
-#EXTINF:-1 group-title="Lista mx1",TOONCAST (328)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=108
-#EXTINF:-1 group-title="Lista mx1",TRUTV HD (215)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=79
-#EXTINF:-1 group-title="Lista mx1",TUDN HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1975
-#EXTINF:-1 group-title="Lista mx1",TUDN MEXICO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=174
-#EXTINF:-1 group-title="Lista mx1",TVC DEPORTES
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2157
-#EXTINF:-1 group-title="Lista mx1",TVCUATRO GUANAJUATO HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2274
-#EXTINF:-1 group-title="Lista mx1",TVCUATRO GUANAJUATO
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2357
-#EXTINF:-1 group-title="Lista mx1",TVC
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2156
-#EXTINF:-1 group-title="Lista mx1",TVE (651)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=198
-#EXTINF:-1 group-title="Lista mx1",TVMAS
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2324
-#EXTINF:-1 group-title="Lista mx1",UNICABLE
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=1499
-#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL (256)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=58
-#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL HD (207)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=57
-#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL HD
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=2369
-#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=207
-#EXTINF:-1 group-title="Lista mx1",VH1 CLASSICS (728)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=214
-#EXTINF:-1 group-title="Lista mx1",VH1 HD (703)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=334
-#EXTINF:-1 group-title="Lista mx1",VH1
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=217
-#EXTINF:-1 group-title="Lista mx1",WARNER CHANNEL HD (205)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=52
-#EXTINF:-1 group-title="Lista mx1",WARNER CHANNEL
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=205
-#EXTINF:-1 group-title="Lista mx1",WOBI HD (387)
-http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=102
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO",UNIVISION
+http://clubtv.link/24jun/2727j/lista2.php?c=1
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="SERIES",CANAL FOX
+http://clubtv.link/24jun/2727j/lista2.php?c=2
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.ibb.co/6sg7VMK/Sin-t-tulo-1.png" group-title="SERIES",FX
+http://clubtv.link/24jun/2727j/lista2.php?c=3
+#EXTINF:-1 tvg-id="" tvg-name="A&E LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="SERIES",A&E LATINO
+http://clubtv.link/24jun/2727j/lista2.php?c=4
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/2560px-Fox_life_logo.svg.png" group-title="SERIES",FOX LIFE
+http://clubtv.link/24jun/2727j/lista2.php?c=5
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/2375px-TBS_logo_2016.svg.png" group-title="SERIES",TBS
+http://clubtv.link/24jun/2727j/lista2.php?c=6
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/2560px-SYFY.svg.png" group-title="SERIES",SYFY
+http://clubtv.link/24jun/2727j/lista2.php?c=7
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="SERIES",AXN
+http://clubtv.link/24jun/2727j/lista2.php?c=8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png" group-title="SERIES",UNIVERSAL
+http://clubtv.link/24jun/2727j/lista2.php?c=9
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SERIES",Warner
+http://clubtv.link/24jun/2727j/lista2.php?c=10
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sony_Pictures_Television_logo.svg/722px-Sony_Pictures_Television_logo.svg.png" group-title="SERIES",SONY
+http://clubtv.link/24jun/2727j/lista2.php?c=11
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="SERIES",STUDIO UNIVERSAL
+http://clubtv.link/24jun/2727j/lista2.php?c=12
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SERIES",TNT SERIES
+http://clubtv.link/24jun/2727j/lista2.php?c=13
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/398px-E%21_Logo_2012.svg.png" group-title="ENTRETENIMIENTO",E!
+http://clubtv.link/24jun/2727j/lista2.php?c=14
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://clubtv.link/24jun/2727j/lista2.php?c=15
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1220px-History_Logo.svg.png" group-title="MUNDO Y CULTURA",HISTORY CHANNEL
+http://clubtv.link/24jun/2727j/lista2.php?c=16
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="MUNDO Y CULTURA",NATIONAL GEOGRAPHIC
+http://clubtv.link/24jun/2727j/lista2.php?c=17
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
+http://clubtv.link/24jun/2727j/lista2.php?c=18
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2181px-2018_Animal_Planet_logo.svg.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
+http://clubtv.link/24jun/2727j/lista2.php?c=19
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="NIÑOS",NICK JR
+http://clubtv.link/24jun/2727j/lista2.php?c=20
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/267px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="NIÑOS",DISCOVERY KIDS
+http://clubtv.link/24jun/2727j/lista2.php?c=21
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="NIÑOS",DISNEY JUNIOR
+http://clubtv.link/24jun/2727j/lista2.php?c=22
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="NIÑOS",NICKELODEON
+http://clubtv.link/24jun/2727j/lista2.php?c=23
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="NIÑOS",DISNEY CHANNEL
+http://clubtv.link/24jun/2727j/lista2.php?c=25
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 3
+http://clubtv.link/24jun/2727j/lista2.php?c=26
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 2
+http://clubtv.link/24jun/2727j/lista2.php?c=27
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN
+http://clubtv.link/24jun/2727j/lista2.php?c=28
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="DEPORTES",CLARO SPORT
+http://clubtv.link/24jun/2727j/lista2.php?c=29
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png" group-title="ENTRETENIMIENTO",HOLA TV
+http://clubtv.link/24jun/2727j/lista2.php?c=30
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="CINEMA",TNT
+http://clubtv.link/24jun/2727j/lista2.php?c=31
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINEMA",HBO 2
+http://clubtv.link/24jun/2727j/lista2.php?c=32
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1651px-HBO_Family.svg.png" group-title="CINEMA",HBO FAMILY
+http://clubtv.link/24jun/2727j/lista2.php?c=33
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1894px-HBO_Xtreme.svg.png" group-title="CINEMA",HBO XTREME
+http://clubtv.link/24jun/2727j/lista2.php?c=35
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="NIÑOS",BABY TV
+http://clubtv.link/24jun/2727j/lista2.php?c=36
+#EXTINF:-1 tvg-id="" tvg-name="BOORMERANG MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="NIÑOS",BOORMERANG MX
+http://clubtv.link/24jun/2727j/lista2.php?c=37
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES",ESPN DEPORTES
+http://clubtv.link/24jun/2727j/lista2.php?c=39
+#EXTINF:-1 tvg-id="" tvg-name="NET GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="MUNDO Y CULTURA",NET GEO
+http://clubtv.link/24jun/2727j/lista2.php?c=40
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE -SPACE MX" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="CINEMA",[SD:] CINE -SPACE MX
+http://clubtv.link/24jun/2727j/lista2.php?c=41
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA",MTV HITLIST
+http://clubtv.link/24jun/2727j/lista2.php?c=42
+#EXTINF:-1 tvg-id="" tvg-name=" MTV" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/mtv-logo.png" group-title="MUSICA", MTV
+http://clubtv.link/24jun/2727j/lista2.php?c=43
+#EXTINF:-1 tvg-id="" tvg-name=" VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICA", VH1
+http://clubtv.link/24jun/2727j/lista2.php?c=44
+#EXTINF:-1 tvg-id="" tvg-name="VIDEO ROLA" tvg-logo="https://iconape.com/wp-content/files/bv/363063/png/363063.png" group-title="MUSICA",VIDEO ROLA
+http://clubtv.link/24jun/2727j/lista2.php?c=45
+#EXTINF:-1 tvg-id="" tvg-name="FOODN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="SERIES",FOODN
+http://clubtv.link/24jun/2727j/lista2.php?c=46
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/4/47/1200px-Discovery_Family_logo.svg.png" group-title="SERIES",DISCOVERY FAMILY
+http://clubtv.link/24jun/2727j/lista2.php?c=47
+#EXTINF:-1 tvg-id="" tvg-name=" BRAVO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="SERIES", BRAVO TV
+http://clubtv.link/24jun/2727j/lista2.php?c=48
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="SERIES",CNN
+http://clubtv.link/24jun/2727j/lista2.php?c=49
+#EXTINF:-1 tvg-id="" tvg-name="ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO",ATRES
+http://clubtv.link/24jun/2727j/lista2.php?c=50
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="** MEXICO LOCALES**",AZTECA 7
+http://clubtv.link/24jun/2727j/lista2.php?c=51
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="** MEXICO LOCALES**",IMAGEN
+http://clubtv.link/24jun/2727j/lista2.php?c=52
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/1200px-Logo_XEIMT-TV.svg.png" group-title="** MEXICO LOCALES**",CANAL 22
+http://clubtv.link/24jun/2727j/lista2.php?c=53
+#EXTINF:-1 tvg-id="" tvg-name="ONCE TV MX" tvg-logo="http://historiamediosdecomunicacionjeho.weebly.com/uploads/2/0/9/1/20915528/1370538728.png" group-title="** MEXICO LOCALES**",ONCE TV MX
+http://clubtv.link/24jun/2727j/lista2.php?c=54
+#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://i.ibb.co/VLG8mSm/Sin-t-tulo-1.png" group-title="DEPORTES",MLB
+http://clubtv.link/24jun/2727j/lista2.php?c=55
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="DEPORTES",NBA
+http://clubtv.link/24jun/2727j/lista2.php?c=56
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORT 3
+http://clubtv.link/24jun/2727j/lista2.php?c=57
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES -  ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DEPORTES",[HD:] DEPORTES -  ESPN 1
+http://clubtv.link/24jun/2727j/lista2.php?c=58
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES",[HD:] DEPORTES - ESPN EXTRA
+http://clubtv.link/24jun/2727j/lista2.php?c=59
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",[HD:] DEPORTES - ESPN 2
+http://clubtv.link/24jun/2727j/lista2.php?c=60
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="** MEXICO LOCALES**",MULTIMEDIOS MTY
+http://clubtv.link/24jun/2727j/lista2.php?c=61
+#EXTINF:-1 tvg-id="" tvg-name="EL FINANCIERO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pEl3wRknL.png" group-title="SERIES",EL FINANCIERO
+http://clubtv.link/24jun/2727j/lista2.php?c=62
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="SERIES",DW
+http://clubtv.link/24jun/2727j/lista2.php?c=63
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINEMA",CINEMAX
+http://clubtv.link/24jun/2727j/lista2.php?c=65
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINEMA",CINECANAL
+http://clubtv.link/24jun/2727j/lista2.php?c=66
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINEMA",CINE LATINO
+http://clubtv.link/24jun/2727j/lista2.php?c=68
+#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="ENTRETENIMIENTO",ISAT
+http://clubtv.link/24jun/2727j/lista2.php?c=69
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOOUNT" tvg-logo="https://i.ibb.co/TvmFx17/Sin-t-tulo-1.png" group-title="CINEMA",PARAMOOUNT
+http://clubtv.link/24jun/2727j/lista2.php?c=70
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO",PASIONES
+http://clubtv.link/24jun/2727j/lista2.php?c=72
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/0rBBVV9/Sin-t-tulo-1.png" group-title="CINEMA",GOLDEN PREMIER
+http://clubtv.link/24jun/2727j/lista2.php?c=73
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="CINEMA",FOX ACCION
+http://clubtv.link/24jun/2727j/lista2.php?c=74
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1.png" group-title="CINEMA",HBO 1
+http://clubtv.link/24jun/2727j/lista2.php?c=80
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/mCtBKcV/Sin-t-tulo-1.png" group-title="CINEMA",HBO Plus
+http://clubtv.link/24jun/2727j/lista2.php?c=81
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotipo_de_TV_Azteca.png/1200px-Logotipo_de_TV_Azteca.png" group-title="** MEXICO LOCALES**",AZTECA UNO
+http://clubtv.link/24jun/2727j/lista2.php?c=82
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="ENTRETENIMIENTO",LIFETIME
+http://clubtv.link/24jun/2727j/lista2.php?c=83
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] ENTRE - UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",[HD:] ENTRE - UNICABLE
+http://clubtv.link/24jun/2727j/lista2.php?c=84
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS
+http://clubtv.link/24jun/2727j/lista2.php?c=85
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="SERIES",GALAVISION
+http://clubtv.link/24jun/2727j/lista2.php?c=86
+#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/488gdKy/Sin-t-tulo-1.png" group-title="CINEMA",MC
+http://clubtv.link/24jun/2727j/lista2.php?c=87
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINEMA",MULTIPREMIER
+http://clubtv.link/24jun/2727j/lista2.php?c=88
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELA PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="SERIES",TELENOVELA PR
+http://clubtv.link/24jun/2727j/lista2.php?c=89
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
+http://clubtv.link/24jun/2727j/lista2.php?c=90
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="MUNDO Y CULTURA",DISCOVERY H&H
+http://clubtv.link/24jun/2727j/lista2.php?c=91
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY ID
+http://clubtv.link/24jun/2727j/lista2.php?c=92
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/300px-TLC_Logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TLC
+http://clubtv.link/24jun/2727j/lista2.php?c=93
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY THEATER
+http://clubtv.link/24jun/2727j/lista2.php?c=94
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="MUNDO Y CULTURA",H2
+http://clubtv.link/24jun/2727j/lista2.php?c=95
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="** MEXICO LOCALES**",CANAL 5 SD
+http://clubtv.link/24jun/2727j/lista2.php?c=96
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="** MEXICO LOCALES**",LAS ESTRELLAS
+http://clubtv.link/24jun/2727j/lista2.php?c=97
+#EXTINF:-1 tvg-id="" tvg-name=" UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1200px-UNIVERSO_LOGO_color_black.png" group-title="SERIES", UNIVERSO
+http://clubtv.link/24jun/2727j/lista2.php?c=99
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 720 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES",BEIN SPORT 720 HD
+http://clubtv.link/24jun/2727j/lista2.php?c=100
+#EXTINF:-1 tvg-id="" tvg-name=" NBCSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="SERIES", NBCSN
+http://clubtv.link/24jun/2727j/lista2.php?c=101
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT  premium mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX SPORT  premium mx
+http://clubtv.link/24jun/2727j/lista2.php?c=102
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORT 2
+http://clubtv.link/24jun/2727j/lista2.php?c=103
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="DEPORTES",[HD:] DEPORTES - ESPN 3
+http://clubtv.link/24jun/2727j/lista2.php?c=104
+#EXTINF:-1 tvg-id="" tvg-name="FILM ART" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="ENTRETENIMIENTO",FILM ART
+http://clubtv.link/24jun/2727j/lista2.php?c=106
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" group-title="CINEMA",MULTICINEMA
+http://clubtv.link/24jun/2727j/lista2.php?c=107
+
