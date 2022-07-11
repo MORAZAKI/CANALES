@@ -4,7 +4,6 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", SEGUIMOS ARREGLANDO :/ 10/JUL/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO",UNIVISION
 http://clubtv.link/24jun/2727j/lista2.php?c=1
 #EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="SERIES",CANAL FOX
@@ -111,8 +110,6 @@ http://clubtv.link/24jun/2727j/lista2.php?c=54
 http://clubtv.link/24jun/2727j/lista2.php?c=55
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="DEPORTES",NBA
 http://clubtv.link/24jun/2727j/lista2.php?c=56
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORT 3
-http://clubtv.link/24jun/2727j/lista2.php?c=57
 #EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES -  ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DEPORTES",[HD:] DEPORTES -  ESPN 1
 http://clubtv.link/24jun/2727j/lista2.php?c=58
 #EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES",[HD:] DEPORTES - ESPN EXTRA
@@ -137,8 +134,6 @@ http://clubtv.link/24jun/2727j/lista2.php?c=69
 http://clubtv.link/24jun/2727j/lista2.php?c=70
 #EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO",PASIONES
 http://clubtv.link/24jun/2727j/lista2.php?c=72
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/0rBBVV9/Sin-t-tulo-1.png" group-title="CINEMA",GOLDEN PREMIER
-http://clubtv.link/24jun/2727j/lista2.php?c=73
 #EXTINF:-1 tvg-id="" tvg-name="FOX ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="CINEMA",FOX ACCION
 http://clubtv.link/24jun/2727j/lista2.php?c=74
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1.png" group-title="CINEMA",HBO 1
@@ -189,4 +184,3 @@ http://clubtv.link/24jun/2727j/lista2.php?c=104
 http://clubtv.link/24jun/2727j/lista2.php?c=106
 #EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" group-title="CINEMA",MULTICINEMA
 http://clubtv.link/24jun/2727j/lista2.php?c=107
-
