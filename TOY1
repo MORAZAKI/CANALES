@@ -423,3 +423,19 @@ http://clubtv.link/jul19/julio19/geomex3.php?c=2564&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
 http://clubtv.link/jul19/julio19/geomex3.php?c=2587&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ihaFtfr.png" group-title="PELÍCULAS",Doctor Strange 2
+http://clubtv.link/movies/docstrange2
+#EXTINF:-1 tvg-logo="https://imgur.com/tkSIakq.png" group-title="PELÍCULAS",The Batman
+http://clubtv.link/jul19/julio19/peliculas2.php?c=tmhhy77/tmhhy77.mp4
+#EXTINF:-1 group-title="PELÍCULAS" , CRUELLA
+http://clubtv.link/jul19/julio19/peliculas3.php?c=cruella%202021.mkv
+#EXTINF:-1 group-title="PELÍCULAS" , Godzilla vs Kong
+http://clubtv.link/jul19/julio19/peliculas3.php?c=godzilla%20vs%20kong%202021.mkv
+#EXTINF:-1 group-title="PELÍCULAS" , Mujer Maravilla
+http://clubtv.link/jul19/julio19/peliculas3.php?c=wonder%20woman%202020.mkv
+#EXTINF:1,Ralph El Demoledor
+http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
+
+
+
+
