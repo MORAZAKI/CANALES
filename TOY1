@@ -56,8 +56,8 @@ http://clubtv.link/jul19/julio19/geomex3.php?c=401&f=.m3u8
 http://clubtv.link/jul19/julio19/geomex3.php?c=1253&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",NU9VE HD
 http://clubtv.link/jul19/julio19/geomex3.php?c=1783&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
-http://clubtv.link/jul19/julio19/geomex3.php?c=1784&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Las Estrellas
+http://clubtv.link/jul19/julio19/lista3.php?c=145&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
 http://clubtv.link/jul19/julio19/geomex3.php?c=1785&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",ONCE HD 
