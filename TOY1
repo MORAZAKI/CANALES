@@ -22,7 +22,7 @@ http://clubtv.link/jul19/julio19/geomex3.php?c=3316&f=.m3u8
 http://clubtv.link/jul19/julio19/geomex3.php?c=7&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZ CLIC HD
 http://clubtv.link/jul19/julio19/geomex3.php?c=11&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS -2 HORAS
 http://clubtv.link/jul19/julio19/geomex3.php?c=17&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL 5
 http://clubtv.link/jul19/julio19/geomex3.php?c=20&f=.m3u8
@@ -82,8 +82,6 @@ http://clubtv.link/jul19/julio19/geomex3.php?c=2331&f=.m3u8
 http://clubtv.link/jul19/julio19/geomex3.php?c=2352&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
 http://clubtv.link/jul19/julio19/geomex3.php?c=2606&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ACADEMIA
-http://clubtv.link/jul19/julio19/geomex3.php?c=2703&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
 http://clubtv.link/jul19/julio19/geomex3.php?c=2882&f=.m3u8
 
@@ -158,7 +156,6 @@ http://clubtv.link/jul19/julio19/geomex3.php?c=2375&f=.m3u8
 http://clubtv.link/jul19/julio19/geomex3.php?c=2379&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
 http://clubtv.link/jul19/julio19/geomex3.php?c=2594&f=.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
 http://clubtv.link/jul19/julio19/distro.php?c=euronews-spa&f=.m3u8
