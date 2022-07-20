@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", PROBANDO SEÑAL 19/JUL/2022
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", PROBANDO SEÑAL 20/JUL/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
@@ -39,630 +38,375 @@ http://clubtv.link/jul19/julio19/distro.php?c=chiquilines&f=.m3u8
 http://clubtv.link/jul19/julio19/distro.php?c=glewedtv-spanish&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", A&E
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cl&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AMC
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b4&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ATRES SERIES
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cp&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ar&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ap&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BBC World
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cd&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Baby TV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c7&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CNN Espaæol
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cc&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CNN International
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ce&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CableNoticias
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bo&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal  Capital
+http://clubtv.link/jul19/julio19/lista1.php?c=a0an&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal 13
+http://clubtv.link/jul19/julio19/lista1.php?c=a0be&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal Institucional
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ai&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal TRO
+http://clubtv.link/jul19/julio19/lista1.php?c=a0al&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Caracol
+http://clubtv.link/jul19/julio19/lista1.php?c=a0aj&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", City TV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c5&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Comedy Central
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b1&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Cristovisiðn
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ax&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DW (Deutsch +)
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ch&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", De PelŦcula
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c0&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", De PelŦcula
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bw&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Channel
+http://clubtv.link/jul19/julio19/lista1.php?c=a0as&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Kids
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ao&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo
+http://clubtv.link/jul19/julio19/lista1.php?c=a0by&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bj&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Disney Channel
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bf&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Disney Xd
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bg&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", El Gourmet
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bk&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Enlace
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b7&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Enlace
+http://clubtv.link/jul19/julio19/lista1.php?c=a0aw&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Epoca
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c6&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Eurochannel
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cf&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Europa Europa
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b5&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX Sports
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ay&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FX Movies
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bv&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Film&Arts
+http://clubtv.link/jul19/julio19/lista1.php?c=a0at&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports
+http://clubtv.link/jul19/julio19/lista1.php?c=a0br&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 3
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ck&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", GOLPERU
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c1&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Globovision
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b9&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Gol TV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cj&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Family
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cq&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO MUNDI
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bx&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO POP
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cv&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Plus
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cs&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Signature
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ct&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cr&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HGTV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bi&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HTV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bm&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Hola TV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0av&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Las Estrellas
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bl&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Las Estrellas
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b8&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Lifetime
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bs&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cb&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Movistar TV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0af&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NTN 24 Horas
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bn&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nat Geo Kids
+http://clubtv.link/jul19/julio19/lista1.php?c=a0aq&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nick Music
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cx&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nuestra Tele
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bz&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nuestra Tele
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bd&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RAI
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cg&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RCN
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bc&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b2&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STAR LIFE
+http://clubtv.link/jul19/julio19/lista1.php?c=a0au&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Seæal Colombia
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bb&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Space
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bu&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Studio Universal
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bt&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TLC
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c9&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TLT
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ba&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cn&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b3&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT SPORTS 2
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bq&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT SPORTS 3
+http://clubtv.link/jul19/julio19/lista1.php?c=a0az&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT Series
+http://clubtv.link/jul19/julio19/lista1.php?c=a0co&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Teleantioquia
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c4&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telecafe
+http://clubtv.link/jul19/julio19/lista1.php?c=a0am&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telecaribe
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ak&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TelefØ
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bp&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telepacifico
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c3&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telesur
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ci&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telesur
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c2&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Televen
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ah&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Tooncast
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cu&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Tooncast
+http://clubtv.link/jul19/julio19/lista1.php?c=a0c8&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Travel and Living Channel
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ca&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Tru TV
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cm&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Win Sports
+http://clubtv.link/jul19/julio19/lista1.php?c=a0b0&f=.m3u8
 
 
 
-#EXTINF:-1 group-title="Lista 08",A&E
-http://clubtv.link/jul19/julio19/lista3.php?c=1&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",AXN
-http://clubtv.link/jul19/julio19/lista3.php?c=2&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Animal Planet
-http://clubtv.link/jul19/julio19/lista3.php?c=3&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Az Corazon
-http://clubtv.link/jul19/julio19/lista3.php?c=4&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Az Mundo
-http://clubtv.link/jul19/julio19/lista3.php?c=5&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",AMC
-http://clubtv.link/jul19/julio19/lista3.php?c=6&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Antena 3 Internacional
-http://clubtv.link/jul19/julio19/lista3.php?c=7&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",BBC World
-http://clubtv.link/jul19/julio19/lista3.php?c=8&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Baby TV
-http://clubtv.link/jul19/julio19/lista3.php?c=9&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Bloomberg
-http://clubtv.link/jul19/julio19/lista3.php?c=10&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CNN Espanol
-http://clubtv.link/jul19/julio19/lista3.php?c=11&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CNN Internacional
-http://clubtv.link/jul19/julio19/lista3.php?c=12&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Cable Noticias
-http://clubtv.link/jul19/julio19/lista3.php?c=13&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Canal Claro
-http://clubtv.link/jul19/julio19/lista3.php?c=14&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Caracol
-http://clubtv.link/jul19/julio19/lista3.php?c=16&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Caracol Internacional
-http://clubtv.link/jul19/julio19/lista3.php?c=17&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Cartoon Network
-http://clubtv.link/jul19/julio19/lista3.php?c=18&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Cine Canal
-http://clubtv.link/jul19/julio19/lista3.php?c=19&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Cine Latino
-http://clubtv.link/jul19/julio19/lista3.php?c=20&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Cinema Dinamita
-http://clubtv.link/jul19/julio19/lista3.php?c=21&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Cinema Plus
-http://clubtv.link/jul19/julio19/lista3.php?c=22&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",City TV
-http://clubtv.link/jul19/julio19/lista3.php?c=23&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Claro Cinema
-http://clubtv.link/jul19/julio19/lista3.php?c=24&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Claro Music 2
-http://clubtv.link/jul19/julio19/lista3.php?c=26&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Claro Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=27&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Claro Sports Latinoamerica
-http://clubtv.link/jul19/julio19/lista3.php?c=28&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Comedy Central
-http://clubtv.link/jul19/julio19/lista3.php?c=29&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",DHE
-http://clubtv.link/jul19/julio19/lista3.php?c=31&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",DW
-http://clubtv.link/jul19/julio19/lista3.php?c=32&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Concert Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=30&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",DW America
-http://clubtv.link/jul19/julio19/lista3.php?c=33&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",De Pelicula Plus
-http://clubtv.link/jul19/julio19/lista3.php?c=34&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=36&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery Home and Health
-http://clubtv.link/jul19/julio19/lista3.php?c=37&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery Kids
-http://clubtv.link/jul19/julio19/lista3.php?c=38&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery Science
-http://clubtv.link/jul19/julio19/lista3.php?c=39&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery Turbo
-http://clubtv.link/jul19/julio19/lista3.php?c=41&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery World
-http://clubtv.link/jul19/julio19/lista3.php?c=42&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery Theater
-http://clubtv.link/jul19/julio19/lista3.php?c=40&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Disney
-http://clubtv.link/jul19/julio19/lista3.php?c=43&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Disney JR
-http://clubtv.link/jul19/julio19/lista3.php?c=44&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Disney XD
-http://clubtv.link/jul19/julio19/lista3.php?c=45&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",E !
-http://clubtv.link/jul19/julio19/lista3.php?c=46&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",El Gourmet
-http://clubtv.link/jul19/julio19/lista3.php?c=47&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Mas Chic
-http://clubtv.link/jul19/julio19/lista3.php?c=48&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MTV Hits
-http://clubtv.link/jul19/julio19/lista3.php?c=49&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MTV
-http://clubtv.link/jul19/julio19/lista3.php?c=50&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Lifetime
-http://clubtv.link/jul19/julio19/lista3.php?c=51&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Investigation Discovery
-http://clubtv.link/jul19/julio19/lista3.php?c=52&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",I.Sat
-http://clubtv.link/jul19/julio19/lista3.php?c=53&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Hola TV
-http://clubtv.link/jul19/julio19/lista3.php?c=54&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",H2
-http://clubtv.link/jul19/julio19/lista3.php?c=55&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",History Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=56&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HTV
-http://clubtv.link/jul19/julio19/lista3.php?c=57&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HLN
-http://clubtv.link/jul19/julio19/lista3.php?c=58&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO plus
-http://clubtv.link/jul19/julio19/lista3.php?c=59&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO Subtitulado
-http://clubtv.link/jul19/julio19/lista3.php?c=60&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO Signature
-http://clubtv.link/jul19/julio19/lista3.php?c=61&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO Family
-http://clubtv.link/jul19/julio19/lista3.php?c=62&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO 2
-http://clubtv.link/jul19/julio19/lista3.php?c=63&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO
-http://clubtv.link/jul19/julio19/lista3.php?c=64&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Golf Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=65&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Golden Premium
-http://clubtv.link/jul19/julio19/lista3.php?c=66&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Golden
-http://clubtv.link/jul19/julio19/lista3.php?c=67&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Glitz
-http://clubtv.link/jul19/julio19/lista3.php?c=68&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fx Movie Mex
-http://clubtv.link/jul19/julio19/lista3.php?c=69&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",France 24
-http://clubtv.link/jul19/julio19/lista3.php?c=71&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Sports 3 Sur
-http://clubtv.link/jul19/julio19/lista3.php?c=72&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Sports 2 MX
-http://clubtv.link/jul19/julio19/lista3.php?c=74&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Sports 2 Sur
-http://clubtv.link/jul19/julio19/lista3.php?c=75&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Sports 1 Sur
-http://clubtv.link/jul19/julio19/lista3.php?c=76&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Sports 1 MX
-http://clubtv.link/jul19/julio19/lista3.php?c=77&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Series Subtitulado
-http://clubtv.link/jul19/julio19/lista3.php?c=78&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Series
-http://clubtv.link/jul19/julio19/lista3.php?c=79&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox News
-http://clubtv.link/jul19/julio19/lista3.php?c=80&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Movies
-http://clubtv.link/jul19/julio19/lista3.php?c=81&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Life Mex
-http://clubtv.link/jul19/julio19/lista3.php?c=82&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Life
-http://clubtv.link/jul19/julio19/lista3.php?c=83&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Family
-http://clubtv.link/jul19/julio19/lista3.php?c=84&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Comedy
-http://clubtv.link/jul19/julio19/lista3.php?c=85&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Classics
-http://clubtv.link/jul19/julio19/lista3.php?c=86&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Cinema Subtitulado
-http://clubtv.link/jul19/julio19/lista3.php?c=87&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Cinema
-http://clubtv.link/jul19/julio19/lista3.php?c=88&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Action MX
-http://clubtv.link/jul19/julio19/lista3.php?c=89&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Premium Action
-http://clubtv.link/jul19/julio19/lista3.php?c=90&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox
-http://clubtv.link/jul19/julio19/lista3.php?c=91&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",FX
-http://clubtv.link/jul19/julio19/lista3.php?c=92&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Euro Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=93&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Espn Plus Sur
-http://clubtv.link/jul19/julio19/lista3.php?c=94&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Espn 3 Sur
-http://clubtv.link/jul19/julio19/lista3.php?c=95&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Espn 2 Sur
-http://clubtv.link/jul19/julio19/lista3.php?c=96&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Espn 1 Sur
-http://clubtv.link/jul19/julio19/lista3.php?c=97&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Win Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=98&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Warner Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=99&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Vh1 Classic
-http://clubtv.link/jul19/julio19/lista3.php?c=100&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Vh1
-http://clubtv.link/jul19/julio19/lista3.php?c=101&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Univision
-http://clubtv.link/jul19/julio19/lista3.php?c=102&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Universal Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=103&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Unicable
-http://clubtv.link/jul19/julio19/lista3.php?c=104&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Tru TV
-http://clubtv.link/jul19/julio19/lista3.php?c=105&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Tve
-http://clubtv.link/jul19/julio19/lista3.php?c=106&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Tooncast
-http://clubtv.link/jul19/julio19/lista3.php?c=107&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Telemundo
-http://clubtv.link/jul19/julio19/lista3.php?c=108&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",TNT Series
-http://clubtv.link/jul19/julio19/lista3.php?c=109&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",TNT
-http://clubtv.link/jul19/julio19/lista3.php?c=110&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",TLC
-http://clubtv.link/jul19/julio19/lista3.php?c=111&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",TCM
-http://clubtv.link/jul19/julio19/lista3.php?c=112&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",TBS
-http://clubtv.link/jul19/julio19/lista3.php?c=113&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Sundance Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=114&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Studio Universal
-http://clubtv.link/jul19/julio19/lista3.php?c=115&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Space
-http://clubtv.link/jul19/julio19/lista3.php?c=116&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Sony
-http://clubtv.link/jul19/julio19/lista3.php?c=117&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",RCN Telenovelas
-http://clubtv.link/jul19/julio19/lista3.php?c=118&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Pasiones
-http://clubtv.link/jul19/julio19/lista3.php?c=119&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Paramount Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=120&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Nickelodeon
-http://clubtv.link/jul19/julio19/lista3.php?c=121&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Nick Jr
-http://clubtv.link/jul19/julio19/lista3.php?c=122&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Nick 2
-http://clubtv.link/jul19/julio19/lista3.php?c=123&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Nat Geo Wild
-http://clubtv.link/jul19/julio19/lista3.php?c=124&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Nat Geo Mex
-http://clubtv.link/jul19/julio19/lista3.php?c=125&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Nat Geo Kids Mex
-http://clubtv.link/jul19/julio19/lista3.php?c=126&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Nat Geo Kids
-http://clubtv.link/jul19/julio19/lista3.php?c=127&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",National Geographic Channel
-http://clubtv.link/jul19/julio19/lista3.php?c=128&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Multipremier
-http://clubtv.link/jul19/julio19/lista3.php?c=129&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Mtv Live
-http://clubtv.link/jul19/julio19/lista3.php?c=130&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO Pop
-http://clubtv.link/jul19/julio19/lista3.php?c=131&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO Xtreme
-http://clubtv.link/jul19/julio19/lista3.php?c=132&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HBO Mundi
-http://clubtv.link/jul19/julio19/lista3.php?c=133&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Azteca 7
-http://clubtv.link/jul19/julio19/lista3.php?c=134&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Azteca Uno
-http://clubtv.link/jul19/julio19/lista3.php?c=135&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | ADN 40
-http://clubtv.link/jul19/julio19/lista3.php?c=136&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Az Clic
-http://clubtv.link/jul19/julio19/lista3.php?c=139&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Az Cinema
-http://clubtv.link/jul19/julio19/lista3.php?c=140&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | A3 Series
-http://clubtv.link/jul19/julio19/lista3.php?c=141&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Antena 3
-http://clubtv.link/jul19/julio19/lista3.php?c=142&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Aym Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=143&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Canal 5
-http://clubtv.link/jul19/julio19/lista3.php?c=144&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Las Estrellas
-http://clubtv.link/jul19/julio19/lista3.php?c=145&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Galatv
-http://clubtv.link/jul19/julio19/lista3.php?c=146&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Foro TV
-http://clubtv.link/jul19/julio19/lista3.php?c=147&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Europa Europa
-http://clubtv.link/jul19/julio19/lista3.php?c=148&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Distrito Comedia
-http://clubtv.link/jul19/julio19/lista3.php?c=149&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Multimedios
-http://clubtv.link/jul19/julio19/lista3.php?c=150&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Televisa MTY
-http://clubtv.link/jul19/julio19/lista3.php?c=151&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Garage TV
-http://clubtv.link/jul19/julio19/lista3.php?c=152&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Congreso de la Unión
-http://clubtv.link/jul19/julio19/lista3.php?c=153&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Imagen TV
-http://clubtv.link/jul19/julio19/lista3.php?c=154&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Latin American Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=155&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Teleritmo
-http://clubtv.link/jul19/julio19/lista3.php?c=156&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Milenio TV
-http://clubtv.link/jul19/julio19/lista3.php?c=157&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Espn Plus
-http://clubtv.link/jul19/julio19/lista3.php?c=160&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Espn
-http://clubtv.link/jul19/julio19/lista3.php?c=161&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Espn 2
-http://clubtv.link/jul19/julio19/lista3.php?c=162&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Fox Sports 3
-http://clubtv.link/jul19/julio19/lista3.php?c=165&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | RT Noticias
-http://clubtv.link/jul19/julio19/lista3.php?c=166&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Espn 3
-http://clubtv.link/jul19/julio19/lista3.php?c=167&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | RT en Espanol
-http://clubtv.link/jul19/julio19/lista3.php?c=168&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Tl Novelas
-http://clubtv.link/jul19/julio19/lista3.php?c=169&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | A Plus
-http://clubtv.link/jul19/julio19/lista3.php?c=170&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Cinemax
-http://clubtv.link/jul19/julio19/lista3.php?c=171&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Nicktoons
-http://clubtv.link/jul19/julio19/lista3.php?c=172&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Bandamax
-http://clubtv.link/jul19/julio19/lista3.php?c=173&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Food Network
-http://clubtv.link/jul19/julio19/lista3.php?c=174&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Boomerang
-http://clubtv.link/jul19/julio19/lista3.php?c=176&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Ingenio TV
-http://clubtv.link/jul19/julio19/lista3.php?c=177&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Ritmoson
-http://clubtv.link/jul19/julio19/lista3.php?c=178&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Telehit
-http://clubtv.link/jul19/julio19/lista3.php?c=179&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | TVC
-http://clubtv.link/jul19/julio19/lista3.php?c=180&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | TVC Deportes
-http://clubtv.link/jul19/julio19/lista3.php?c=181&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Telefórmula
-http://clubtv.link/jul19/julio19/lista3.php?c=182&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Golden
-http://clubtv.link/jul19/julio19/lista3.php?c=183&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | Golden Edge
-http://clubtv.link/jul19/julio19/lista3.php?c=184&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Bein Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=185&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Directv Sports Plus
-http://clubtv.link/jul19/julio19/lista3.php?c=186&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Directv Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=187&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Directv Sports 2
-http://clubtv.link/jul19/julio19/lista3.php?c=188&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Univision UDN
-http://clubtv.link/jul19/julio19/lista3.php?c=189&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Univision TDN
-http://clubtv.link/jul19/julio19/lista3.php?c=190&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",PE | TV Peru
-http://clubtv.link/jul19/julio19/lista3.php?c=191&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",PE | Peru Magico
-http://clubtv.link/jul19/julio19/lista3.php?c=192&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",PE | Panamericana
-http://clubtv.link/jul19/julio19/lista3.php?c=193&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",PE | Movistar Deportes
-http://clubtv.link/jul19/julio19/lista3.php?c=194&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",PE | Gol Peru
-http://clubtv.link/jul19/julio19/lista3.php?c=195&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",COL | Trece
-http://clubtv.link/jul19/julio19/lista3.php?c=198&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",COL | RCN Internacional
-http://clubtv.link/jul19/julio19/lista3.php?c=200&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",COL | RCN
-http://clubtv.link/jul19/julio19/lista3.php?c=201&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",COL | Caracol 2
-http://clubtv.link/jul19/julio19/lista3.php?c=204&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",COL | Caracol
-http://clubtv.link/jul19/julio19/lista3.php?c=205&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CL | Fox Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=211&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CL | Chilevision
-http://clubtv.link/jul19/julio19/lista3.php?c=212&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CL | CDO Premium
-http://clubtv.link/jul19/julio19/lista3.php?c=213&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CL | CDO Basico
-http://clubtv.link/jul19/julio19/lista3.php?c=214&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CL | CDF Premium
-http://clubtv.link/jul19/julio19/lista3.php?c=215&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CL | CDF Basico
-http://clubtv.link/jul19/julio19/lista3.php?c=216&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CL | CDF
-http://clubtv.link/jul19/julio19/lista3.php?c=217&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",AR | TNT Sports
-http://clubtv.link/jul19/julio19/lista3.php?c=219&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Wobi
-http://clubtv.link/jul19/julio19/lista3.php?c=337&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",VH1 HD
-http://clubtv.link/jul19/julio19/lista3.php?c=336&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Start TVE
-http://clubtv.link/jul19/julio19/lista3.php?c=335&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",TV Mas
-http://clubtv.link/jul19/julio19/lista3.php?c=334&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MVS
-http://clubtv.link/jul19/julio19/lista3.php?c=333&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Golden Plus
-http://clubtv.link/jul19/julio19/lista3.php?c=327&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Discovery Civilization
-http://clubtv.link/jul19/julio19/lista3.php?c=325&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",De Pelicula
-http://clubtv.link/jul19/julio19/lista3.php?c=324&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Gol TV Internacional
-http://clubtv.link/jul19/julio19/lista3.php?c=338&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Tigo Sports 1
-http://clubtv.link/jul19/julio19/lista3.php?c=339&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Tigo Sports py
-http://clubtv.link/jul19/julio19/lista3.php?c=340&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Tigo Sports 3
-http://clubtv.link/jul19/julio19/lista3.php?c=341&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Estrella tv
-http://clubtv.link/jul19/julio19/lista3.php?c=342&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Bein sports ñ T
-http://clubtv.link/jul19/julio19/lista3.php?c=343&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fightbox
-http://clubtv.link/jul19/julio19/lista3.php?c=346&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fight Time
-http://clubtv.link/jul19/julio19/lista3.php?c=347&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MLB Network
-http://clubtv.link/jul19/julio19/lista3.php?c=349&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Motorsports TV
-http://clubtv.link/jul19/julio19/lista3.php?c=350&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",RedBull
-http://clubtv.link/jul19/julio19/lista3.php?c=351&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",UFC TV
-http://clubtv.link/jul19/julio19/lista3.php?c=353&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Bitme
-http://clubtv.link/jul19/julio19/lista3.php?c=354&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Locomotion
-http://clubtv.link/jul19/julio19/lista3.php?c=355&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",movistar liga de Campeones
-http://clubtv.link/jul19/julio19/lista3.php?c=357&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",nueve mx
-http://clubtv.link/jul19/julio19/lista3.php?c=356&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",ISAT
-http://clubtv.link/jul19/julio19/lista3.php?c=369&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Film&Arts
-http://clubtv.link/jul19/julio19/lista3.php?c=370&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Syfy
-http://clubtv.link/jul19/julio19/lista3.php?c=371&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Ultra Tainment
-http://clubtv.link/jul19/julio19/lista3.php?c=373&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Win Sports+
-http://clubtv.link/jul19/julio19/lista3.php?c=374&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | EDUCA canal 1
-http://clubtv.link/jul19/julio19/lista3.php?c=376&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | EDUCA canal 2
-http://clubtv.link/jul19/julio19/lista3.php?c=377&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",MX | EDUCA canal 3
-http://clubtv.link/jul19/julio19/lista3.php?c=378&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Canal Once
-http://clubtv.link/jul19/julio19/lista3.php?c=380&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Once Niños
-http://clubtv.link/jul19/julio19/lista3.php?c=381&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",afizzionados
-http://clubtv.link/jul19/julio19/lista3.php?c=382&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Fox Deportes
-http://clubtv.link/jul19/julio19/lista3.php?c=384&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",HGTV
-http://clubtv.link/jul19/julio19/lista3.php?c=385&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",prueba
-http://clubtv.link/jul19/julio19/lista3.php?c=408&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Lazy Town
-http://clubtv.link/jul19/julio19/lista3.php?c=235&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Barnie y sus amigos
-http://clubtv.link/jul19/julio19/lista3.php?c=236&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Dora la exploradora
-http://clubtv.link/jul19/julio19/lista3.php?c=237&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",PJ Masks
-http://clubtv.link/jul19/julio19/lista3.php?c=238&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",caillou
-http://clubtv.link/jul19/julio19/lista3.php?c=239&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Jorge el Curioso
-http://clubtv.link/jul19/julio19/lista3.php?c=240&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",peppa pig
-http://clubtv.link/jul19/julio19/lista3.php?c=241&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",happy tree friends
-http://clubtv.link/jul19/julio19/lista3.php?c=242&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Los picapiedras
-http://clubtv.link/jul19/julio19/lista3.php?c=243&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Le temes a la oscuridad
-http://clubtv.link/jul19/julio19/lista3.php?c=244&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Pantera Rosa 80s
-http://clubtv.link/jul19/julio19/lista3.php?c=245&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Correcaminos
-http://clubtv.link/jul19/julio19/lista3.php?c=246&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Power Rangers
-http://clubtv.link/jul19/julio19/lista3.php?c=247&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Cuentos Hermanos Grimm
-http://clubtv.link/jul19/julio19/lista3.php?c=248&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Robotech
-http://clubtv.link/jul19/julio19/lista3.php?c=249&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Estrenos 2018
-http://clubtv.link/jul19/julio19/lista3.php?c=250&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",El Chapulin Colorado
-http://clubtv.link/jul19/julio19/lista3.php?c=251&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Death Note
-http://clubtv.link/jul19/julio19/lista3.php?c=252&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",CSI Miami
-http://clubtv.link/jul19/julio19/lista3.php?c=253&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Alf
-http://clubtv.link/jul19/julio19/lista3.php?c=254&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",X-men 90s
-http://clubtv.link/jul19/julio19/lista3.php?c=255&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Vete a la Versh
-http://clubtv.link/jul19/julio19/lista3.php?c=256&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",The Walking Dead
-http://clubtv.link/jul19/julio19/lista3.php?c=257&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Super campeones
-http://clubtv.link/jul19/julio19/lista3.php?c=258&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",strangerthings
-http://clubtv.link/jul19/julio19/lista3.php?c=259&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Spiderman 80s
-http://clubtv.link/jul19/julio19/lista3.php?c=260&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Sounth Park
-http://clubtv.link/jul19/julio19/lista3.php?c=261&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Smallville
-http://clubtv.link/jul19/julio19/lista3.php?c=262&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Shera
-http://clubtv.link/jul19/julio19/lista3.php?c=263&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Señor de los cielos
-http://clubtv.link/jul19/julio19/lista3.php?c=264&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Sailormoon
-http://clubtv.link/jul19/julio19/lista3.php?c=265&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Pokemon
-http://clubtv.link/jul19/julio19/lista3.php?c=266&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Pinky y Cerebro
-http://clubtv.link/jul19/julio19/lista3.php?c=267&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Peliculas Terror
-http://clubtv.link/jul19/julio19/lista3.php?c=268&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Pablo Escobar
-http://clubtv.link/jul19/julio19/lista3.php?c=269&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Naruto
-http://clubtv.link/jul19/julio19/lista3.php?c=270&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Mazinger Z
-http://clubtv.link/jul19/julio19/lista3.php?c=271&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Malcolm el de enmedio
-http://clubtv.link/jul19/julio19/lista3.php?c=272&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Luis Miguel
-http://clubtv.link/jul19/julio19/lista3.php?c=273&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Los Thundercats
-http://clubtv.link/jul19/julio19/lista3.php?c=275&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Los Simpsons
-http://clubtv.link/jul19/julio19/lista3.php?c=276&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",La Rosa de Guadalupe
-http://clubtv.link/jul19/julio19/lista3.php?c=277&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Heman
-http://clubtv.link/jul19/julio19/lista3.php?c=278&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Game Of Throne
-http://clubtv.link/jul19/julio19/lista3.php?c=279&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Futurama
-http://clubtv.link/jul19/julio19/lista3.php?c=280&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Dragon Ball Z
-http://clubtv.link/jul19/julio19/lista3.php?c=281&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Dragon Ball Super
-http://clubtv.link/jul19/julio19/lista3.php?c=282&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Dragon Ball GT
-http://clubtv.link/jul19/julio19/lista3.php?c=283&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Dragon ball
-http://clubtv.link/jul19/julio19/lista3.php?c=284&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Dinosaurios
-http://clubtv.link/jul19/julio19/lista3.php?c=285&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Coraje el perro cobarde
-http://clubtv.link/jul19/julio19/lista3.php?c=286&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Años Maravillosos
-http://clubtv.link/jul19/julio19/lista3.php?c=287&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",La casa de papel
-http://clubtv.link/jul19/julio19/lista3.php?c=288&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",El chema
-http://clubtv.link/jul19/julio19/lista3.php?c=289&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",El chavo
-http://clubtv.link/jul19/julio19/lista3.php?c=290&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",caballerosdel zodiaco
-http://clubtv.link/jul19/julio19/lista3.php?c=291&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Breaking bad
-http://clubtv.link/jul19/julio19/lista3.php?c=292&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Bob Esponja 24/7
-http://clubtv.link/jul19/julio19/lista3.php?c=293&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",El mago enmascarado
-http://clubtv.link/jul19/julio19/lista3.php?c=401&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",The Mandalorian
-http://clubtv.link/jul19/julio19/lista3.php?c=402&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Peliculas Infantiles
-http://clubtv.link/jul19/julio19/lista3.php?c=403&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Las chicas Superpoderosas
-http://clubtv.link/jul19/julio19/lista3.php?c=404&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Laboratorio de Dexter
-http://clubtv.link/jul19/julio19/lista3.php?c=405&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Los Aventureros del Aire
-http://clubtv.link/jul19/julio19/lista3.php?c=406&f=.m3u8
-#EXTINF:-1 group-title="Lista 08",Patoaventuras
-http://clubtv.link/jul19/julio19/lista3.php?c=407&f=.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",UNIVISION
+http://clubtv.link/jul19/julio19/listaz.php?c=1&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CANAL FOX
+http://clubtv.link/jul19/julio19/listaz.php?c=2&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",FX
+http://clubtv.link/jul19/julio19/listaz.php?c=3&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",A&E LATINO
+http://clubtv.link/jul19/julio19/listaz.php?c=4&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",FOX LIFE
+http://clubtv.link/jul19/julio19/listaz.php?c=5&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TBS
+http://clubtv.link/jul19/julio19/listaz.php?c=6&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",SYFY
+http://clubtv.link/jul19/julio19/listaz.php?c=7&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",AXN
+http://clubtv.link/jul19/julio19/listaz.php?c=8&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL
+http://clubtv.link/jul19/julio19/listaz.php?c=9&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner
+http://clubtv.link/jul19/julio19/listaz.php?c=10&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",SONY
+http://clubtv.link/jul19/julio19/listaz.php?c=11&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL
+http://clubtv.link/jul19/julio19/listaz.php?c=12&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT SERIES
+http://clubtv.link/jul19/julio19/listaz.php?c=13&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",E!
+http://clubtv.link/jul19/julio19/listaz.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://clubtv.link/jul19/julio19/listaz.php?c=15&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",HISTORY CHANNEL
+http://clubtv.link/jul19/julio19/listaz.php?c=16&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
+http://clubtv.link/jul19/julio19/listaz.php?c=17&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
+http://clubtv.link/jul19/julio19/listaz.php?c=18&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",ANIMAL PLANET
+http://clubtv.link/jul19/julio19/listaz.php?c=19&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",NICK JR
+http://clubtv.link/jul19/julio19/listaz.php?c=20&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
+http://clubtv.link/jul19/julio19/listaz.php?c=21&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
+http://clubtv.link/jul19/julio19/listaz.php?c=22&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",NICKELODEON
+http://clubtv.link/jul19/julio19/listaz.php?c=23&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL
+http://clubtv.link/jul19/julio19/listaz.php?c=25&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 3
+http://clubtv.link/jul19/julio19/listaz.php?c=26&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2
+http://clubtv.link/jul19/julio19/listaz.php?c=27&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN
+http://clubtv.link/jul19/julio19/listaz.php?c=28&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",CLARO SPORT
+http://clubtv.link/jul19/julio19/listaz.php?c=29&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",HOLA TV
+http://clubtv.link/jul19/julio19/listaz.php?c=30&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT
+http://clubtv.link/jul19/julio19/listaz.php?c=31&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO 2
+http://clubtv.link/jul19/julio19/listaz.php?c=32&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY
+http://clubtv.link/jul19/julio19/listaz.php?c=33&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO XTREME
+http://clubtv.link/jul19/julio19/listaz.php?c=35&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",BABY TV
+http://clubtv.link/jul19/julio19/listaz.php?c=36&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",BOORMERANG MX
+http://clubtv.link/jul19/julio19/listaz.php?c=37&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN DEPORTES
+http://clubtv.link/jul19/julio19/listaz.php?c=39&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",NET GEO
+http://clubtv.link/jul19/julio19/listaz.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",SPACE MX
+http://clubtv.link/jul19/julio19/listaz.php?c=41&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV HITLIST
+http://clubtv.link/jul19/julio19/listaz.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV
+http://clubtv.link/jul19/julio19/listaz.php?c=43&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1
+http://clubtv.link/jul19/julio19/listaz.php?c=44&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VIDEO ROLA
+http://clubtv.link/jul19/julio19/listaz.php?c=45&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",FOODN
+http://clubtv.link/jul19/julio19/listaz.php?c=46&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",DISCOVERY FAMILY
+http://clubtv.link/jul19/julio19/listaz.php?c=47&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",BRAVO TV
+http://clubtv.link/jul19/julio19/listaz.php?c=48&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CNN
+http://clubtv.link/jul19/julio19/listaz.php?c=49&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",ATRES
+http://clubtv.link/jul19/julio19/listaz.php?c=50&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",AZTECA 7
+http://clubtv.link/jul19/julio19/listaz.php?c=51&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",IMAGEN
+http://clubtv.link/jul19/julio19/listaz.php?c=52&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",CANAL 22
+http://clubtv.link/jul19/julio19/listaz.php?c=53&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",ONCE TV MX
+http://clubtv.link/jul19/julio19/listaz.php?c=54&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MLB
+http://clubtv.link/jul19/julio19/listaz.php?c=55&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",NBA
+http://clubtv.link/jul19/julio19/listaz.php?c=56&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORT 3
+http://clubtv.link/jul19/julio19/listaz.php?c=57&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 1
+http://clubtv.link/jul19/julio19/listaz.php?c=58&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN EXTRA
+http://clubtv.link/jul19/julio19/listaz.php?c=59&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2
+http://clubtv.link/jul19/julio19/listaz.php?c=60&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",MULTIMEDIOS MTY
+http://clubtv.link/jul19/julio19/listaz.php?c=61&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",EL FINANCIERO
+http://clubtv.link/jul19/julio19/listaz.php?c=62&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",DW
+http://clubtv.link/jul19/julio19/listaz.php?c=63&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINEMAX
+http://clubtv.link/jul19/julio19/listaz.php?c=65&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINECANAL
+http://clubtv.link/jul19/julio19/listaz.php?c=66&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINE LATINO
+http://clubtv.link/jul19/julio19/listaz.php?c=68&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",ISAT
+http://clubtv.link/jul19/julio19/listaz.php?c=69&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",PARAMOOUNT
+http://clubtv.link/jul19/julio19/listaz.php?c=70&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",PASIONES
+http://clubtv.link/jul19/julio19/listaz.php?c=72&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER
+http://clubtv.link/jul19/julio19/listaz.php?c=73&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",FOX ACCION
+http://clubtv.link/jul19/julio19/listaz.php?c=74&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO 1
+http://clubtv.link/jul19/julio19/listaz.php?c=80&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO Plus
+http://clubtv.link/jul19/julio19/listaz.php?c=81&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",AZTECA UNO
+http://clubtv.link/jul19/julio19/listaz.php?c=82&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",LIFETIME
+http://clubtv.link/jul19/julio19/listaz.php?c=83&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",UNICABLE
+http://clubtv.link/jul19/julio19/listaz.php?c=84&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",UNIMAS
+http://clubtv.link/jul19/julio19/listaz.php?c=85&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",GALAVISION
+http://clubtv.link/jul19/julio19/listaz.php?c=86&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",MC
+http://clubtv.link/jul19/julio19/listaz.php?c=87&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",MULTIPREMIER
+http://clubtv.link/jul19/julio19/listaz.php?c=88&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",TELENOVELA PR
+http://clubtv.link/jul19/julio19/listaz.php?c=89&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY TURBO
+http://clubtv.link/jul19/julio19/listaz.php?c=90&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY H&H
+http://clubtv.link/jul19/julio19/listaz.php?c=91&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY ID
+http://clubtv.link/jul19/julio19/listaz.php?c=92&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY TLC
+http://clubtv.link/jul19/julio19/listaz.php?c=93&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY THEATER
+http://clubtv.link/jul19/julio19/listaz.php?c=94&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",H2
+http://clubtv.link/jul19/julio19/listaz.php?c=95&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",CANAL 5 SD
+http://clubtv.link/jul19/julio19/listaz.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",LAS ESTRELLAS
+http://clubtv.link/jul19/julio19/listaz.php?c=97&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",UNIVERSO
+http://clubtv.link/jul19/julio19/listaz.php?c=99&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",BEIN SPORT 720 HD
+http://clubtv.link/jul19/julio19/listaz.php?c=100&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",NBCSN
+http://clubtv.link/jul19/julio19/listaz.php?c=101&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORT  premium mx
+http://clubtv.link/jul19/julio19/listaz.php?c=102&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORT 2
+http://clubtv.link/jul19/julio19/listaz.php?c=103&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 3
+http://clubtv.link/jul19/julio19/listaz.php?c=104&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",FILM ART
+http://clubtv.link/jul19/julio19/listaz.php?c=106&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",MULTICINEMA
+http://clubtv.link/jul19/julio19/listaz.php?c=107&f=.m3u8
+#EXTINF:-1,*TNT SPORT 2 MX HBO MAX HD *** DEPORTES LATINOS ***
+http://clubtv.link/jul19/julio19/listaz.php?c=108&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ihaFtfr.png" group-title="PELÍCULAS",Doctor Strange 2
