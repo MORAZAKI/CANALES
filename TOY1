@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", RESTABLECIENDO SERVICIO 24/JUL/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-
 #EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
 http://clubtv.link/jul19/julio19/geomex2.php?c=3315&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
@@ -431,3 +430,15 @@ http://clubtv.link/jul19/julio19/geomex2.php?c=2564&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
 http://clubtv.link/jul19/julio19/geomex2.php?c=2587&f=.m3u8
 
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Family
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cq&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO MUNDI
+http://clubtv.link/jul19/julio19/lista1.php?c=a0bx&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO POP
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cv&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Plus
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cs&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Signature
+http://clubtv.link/jul19/julio19/lista1.php?c=a0ct&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO XTREME
+http://clubtv.link/jul19/julio19/lista1.php?c=a0cr&f=.m3u8
