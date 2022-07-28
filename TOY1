@@ -1,428 +1,448 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", RESTABLECIENDO SERVICIO 27/JUL/2022
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", RESTABLECIENDO SERVICIO 28/JUL/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
 #EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
-http://clubtv.link/jul19/ju27/geomex2.php?c=3315&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=3315&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
-http://clubtv.link/jul19/ju27/geomex2.php?c=3316&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=3316&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=7&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=7&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZ CLIC HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=11&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=11&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
-http://clubtv.link/jul19/ju27/geomex2.php?c=17&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=17&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL 5
-http://clubtv.link/jul19/ju27/geomex2.php?c=20&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=20&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA 7
-http://clubtv.link/jul19/ju27/geomex2.php?c=21&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=21&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",NU9VE
-http://clubtv.link/jul19/ju27/geomex2.php?c=24&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=24&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",ONCE
-http://clubtv.link/jul19/ju27/geomex2.php?c=25&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=25&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA UNO
-http://clubtv.link/jul19/ju27/geomex2.php?c=27&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=27&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=32&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=32&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
-http://clubtv.link/jul19/ju27/geomex2.php?c=44&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=44&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZ CORAZON 
-http://clubtv.link/jul19/ju27/geomex2.php?c=70&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=70&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZ MUNDO
-http://clubtv.link/jul19/ju27/geomex2.php?c=84&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=84&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=317&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=317&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
-http://clubtv.link/jul19/ju27/geomex2.php?c=322&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=322&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",IMAGEN TV  
-http://clubtv.link/jul19/ju27/geomex2.php?c=2298&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2298&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
-http://clubtv.link/jul19/ju27/geomex2.php?c=2305&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2305&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",APREDNE TV
-http://clubtv.link/jul19/ju27/geomex2.php?c=401&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=401&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://clubtv.link/jul19/ju27/geomex2.php?c=1253&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1253&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",NU9VE HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=1783&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1783&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=1784&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1784&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
-http://clubtv.link/jul19/ju27/geomex2.php?c=1785&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1785&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",ONCE HD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=1942&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1942&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MVS TV
-http://clubtv.link/jul19/ju27/geomex2.php?c=2149&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2149&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",TVC
-http://clubtv.link/jul19/ju27/geomex2.php?c=2156&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2156&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL 4 
-http://clubtv.link/jul19/ju27/geomex2.php?c=2274&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2274&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL 8
-http://clubtv.link/jul19/ju27/geomex2.php?c=2307&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2307&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
-http://clubtv.link/jul19/ju27/geomex2.php?c=2312&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2312&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",A+ 
-http://clubtv.link/jul19/ju27/geomex2.php?c=2316&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2316&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",TVMAS
-http://clubtv.link/jul19/ju27/geomex2.php?c=2324&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2324&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
-http://clubtv.link/jul19/ju27/geomex2.php?c=2331&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2331&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://clubtv.link/jul19/ju27/geomex2.php?c=2352&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2352&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
-http://clubtv.link/jul19/ju27/geomex2.php?c=2606&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2606&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",ACADEMIA
-http://clubtv.link/jul19/ju27/geomex2.php?c=2703&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2703&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=2882&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2882&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
-http://clubtv.link/jul19/ju27/geomex2.php?c=108&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=108&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
-http://clubtv.link/jul19/ju27/geomex2.php?c=109&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=109&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",NICK
-http://clubtv.link/jul19/ju27/geomex2.php?c=110&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=110&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISNEY XD
-http://clubtv.link/jul19/ju27/geomex2.php?c=111&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=111&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
-http://clubtv.link/jul19/ju27/geomex2.php?c=112&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=112&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
-http://clubtv.link/jul19/ju27/geomex2.php?c=113&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",sunERANG
-http://clubtv.link/jul19/ju27/geomex2.php?c=115&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=113&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",Cartoonito
+http://clubtv.link/julio28j/ju28a/geomex.php?c=115&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",BABY TV 
-http://clubtv.link/jul19/ju27/geomex2.php?c=116&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=116&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",NICK JR
-http://clubtv.link/jul19/ju27/geomex2.php?c=117&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=117&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISNEY JR
-http://clubtv.link/jul19/ju27/geomex2.php?c=118&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=118&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",NICKTOONS SD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=1708&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1708&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",BABY FIRST
-http://clubtv.link/jul19/ju27/geomex2.php?c=1984&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1984&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",NICK 2  
-http://clubtv.link/jul19/ju27/geomex2.php?c=2147&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2147&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",NAT GEO KIDS  
-http://clubtv.link/jul19/ju27/geomex2.php?c=2373&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2373&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",BIT ME  
-http://clubtv.link/jul19/ju27/geomex2.php?c=2591&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2591&f=.m3u8
+
 
 #EXTINF:-1 group-title="CULTURA",DISCOVERY ID
-http://clubtv.link/jul19/ju27/geomex2.php?c=68&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=68&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",GARAGE TV 
-http://clubtv.link/jul19/ju27/geomex2.php?c=75&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=75&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
-http://clubtv.link/jul19/ju27/geomex2.php?c=86&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=86&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
-http://clubtv.link/jul19/ju27/geomex2.php?c=88&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=88&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",HISTORY
-http://clubtv.link/jul19/ju27/geomex2.php?c=89&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=89&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",NAT GEO  
-http://clubtv.link/jul19/ju27/geomex2.php?c=91&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=91&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",NAT GEO WILD
-http://clubtv.link/jul19/ju27/geomex2.php?c=92&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=92&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER
-http://clubtv.link/jul19/ju27/geomex2.php?c=95&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=95&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",H&H
-http://clubtv.link/jul19/ju27/geomex2.php?c=96&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=96&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",TLC
-http://clubtv.link/jul19/ju27/geomex2.php?c=97&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=97&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE  
-http://clubtv.link/jul19/ju27/geomex2.php?c=98&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=98&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY CIVILIZATION
-http://clubtv.link/jul19/ju27/geomex2.php?c=99&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=99&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD
-http://clubtv.link/jul19/ju27/geomex2.php?c=101&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=101&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",TVE
-http://clubtv.link/jul19/ju27/geomex2.php?c=198&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=198&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",SHOPPING
-http://clubtv.link/jul19/ju27/geomex2.php?c=1943&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1943&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",FOOD NETWORK 
-http://clubtv.link/jul19/ju27/geomex2.php?c=2145&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2145&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",STAR TVE 
-http://clubtv.link/jul19/ju27/geomex2.php?c=2375&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2375&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
-http://clubtv.link/jul19/ju27/geomex2.php?c=2379&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2379&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
-http://clubtv.link/jul19/ju27/geomex2.php?c=2594&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2594&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
-http://clubtv.link/jul19/ju27/distro.php?c=euronews-spa&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
-http://clubtv.link/jul19/ju27/distro.php?c=top-cine-latam&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=top-cine-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
-http://clubtv.link/jul19/ju27/distro.php?c=juntos&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=juntos&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
-http://clubtv.link/jul19/ju27/distro.php?c=cine-real-latam&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=cine-real-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
-http://clubtv.link/jul19/ju27/distro.php?c=cine-sureno&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=cine-sureno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
-http://clubtv.link/jul19/ju27/distro.php?c=casa-comedy&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=casa-comedy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
-http://clubtv.link/jul19/ju27/distro.php?c=spanglish&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=spanglish&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
-http://clubtv.link/jul19/ju27/distro.php?c=horrofy&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=horrofy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
-http://clubtv.link/jul19/ju27/distro.php?c=wapptv&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=wapptv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
-http://clubtv.link/jul19/ju27/distro.php?c=tu.cine-latam&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=tu.cine-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
-http://clubtv.link/jul19/ju27/distro.php?c=el-conflicto-tv&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=el-conflicto-tv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
-http://clubtv.link/jul19/ju27/distro.php?c=saber-mas&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=saber-mas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
-http://clubtv.link/jul19/ju27/distro.php?c=flash-1&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=flash-1&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
-http://clubtv.link/jul19/ju27/distro.php?c=mmc&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=mmc&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
-http://clubtv.link/jul19/ju27/distro.php?c=chiquilines&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=chiquilines&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/jul19/ju27/distro.php?c=glewedtv-spanish&f=.m3u8
+http://clubtv.link/julio28j/ju28a/distro.php?c=glewedtv-spanish&f=.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
-http://clubtv.link/jul19/ju27/geomex2.php?c=85&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=85&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FOX  
-http://clubtv.link/jul19/ju27/geomex2.php?c=46&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=46&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SONY  
-http://clubtv.link/jul19/ju27/geomex2.php?c=48&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=48&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER  
-http://clubtv.link/jul19/ju27/geomex2.php?c=52&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=52&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E!
-http://clubtv.link/jul19/ju27/geomex2.php?c=55&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=55&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL
-http://clubtv.link/jul19/ju27/geomex2.php?c=57&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=57&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY
-http://clubtv.link/jul19/ju27/geomex2.php?c=59&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=59&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FX
-http://clubtv.link/jul19/ju27/geomex2.php?c=60&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=60&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
-http://clubtv.link/jul19/ju27/geomex2.php?c=62&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=62&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
-http://clubtv.link/jul19/ju27/geomex2.php?c=64&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=64&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=66&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=66&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
-http://clubtv.link/jul19/ju27/geomex2.php?c=69&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=69&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",sun SERIES
-http://clubtv.link/jul19/ju27/geomex2.php?c=71&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=71&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",GLITZ
-http://clubtv.link/jul19/ju27/geomex2.php?c=76&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=76&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET 
-http://clubtv.link/jul19/ju27/geomex2.php?c=74&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=74&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
-http://clubtv.link/jul19/ju27/geomex2.php?c=77&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=77&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=78&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=78&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
-http://clubtv.link/jul19/ju27/geomex2.php?c=79&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=79&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TL NOVELAS SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=83&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=83&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME 
-http://clubtv.link/jul19/ju27/geomex2.php?c=94&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=94&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ANTENA 3
-http://clubtv.link/jul19/ju27/geomex2.php?c=199&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=199&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FOX HD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=201&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=201&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER HD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=205&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=205&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=207&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=207&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FX HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=209&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=209&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=215&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=215&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=219&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=219&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://clubtv.link/jul19/ju27/geomex2.php?c=340&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=340&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=341&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=341&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
-http://clubtv.link/jul19/ju27/geomex2.php?c=1499&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1499&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
-http://clubtv.link/jul19/ju27/geomex2.php?c=1842&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1842&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
-http://clubtv.link/jul19/ju27/geomex2.php?c=2113&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2113&f=.m3u8
 
 
 #EXTINF:-1 group-title="CINE Y SERIES",TNT 
-http://clubtv.link/jul19/ju27/geomex2.php?c=126&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=126&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES
-http://clubtv.link/jul19/ju27/geomex2.php?c=71&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=71&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
-http://clubtv.link/jul19/ju27/geomex2.php?c=3112&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=3112&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",TBS SD  
-http://clubtv.link/jul19/ju27/geomex2.php?c=81&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=81&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA + 
-http://clubtv.link/jul19/ju27/geomex2.php?c=121&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=121&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN +
-http://clubtv.link/jul19/ju27/geomex2.php?c=122&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=122&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
-http://clubtv.link/jul19/ju27/geomex2.php?c=123&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=123&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
-http://clubtv.link/jul19/ju27/geomex2.php?c=124&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=124&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",sun 
-http://clubtv.link/jul19/ju27/geomex2.php?c=126&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=126&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",TCM
-http://clubtv.link/jul19/ju27/geomex2.php?c=128&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=128&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",SPACE
-http://clubtv.link/jul19/ju27/geomex2.php?c=129&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=129&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AMC 
-http://clubtv.link/jul19/ju27/geomex2.php?c=131&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=131&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL
-http://clubtv.link/jul19/ju27/geomex2.php?c=132&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=132&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",I SAT  
-http://clubtv.link/jul19/ju27/geomex2.php?c=135&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=135&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
-http://clubtv.link/jul19/ju27/geomex2.php?c=136&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=136&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
-http://clubtv.link/jul19/ju27/geomex2.php?c=137&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=137&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FXM
-http://clubtv.link/jul19/ju27/geomex2.php?c=138&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=138&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=332&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=332&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
-http://clubtv.link/jul19/ju27/geomex2.php?c=139&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=139&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
-http://clubtv.link/jul19/ju27/geomex2.php?c=140&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=140&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
-http://clubtv.link/jul19/ju27/geomex2.php?c=146&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=146&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
-http://clubtv.link/jul19/ju27/geomex2.php?c=149&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=149&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
-http://clubtv.link/jul19/ju27/geomex2.php?c=158&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=158&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AMC  
-http://clubtv.link/jul19/ju27/geomex2.php?c=328&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=328&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=335&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=335&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
-http://clubtv.link/jul19/ju27/geomex2.php?c=336&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=336&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
-http://clubtv.link/jul19/ju27/geomex2.php?c=1726&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1726&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=1729&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1729&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=1732&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1732&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
-http://clubtv.link/jul19/ju27/geomex2.php?c=1787&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1787&f=.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Family
+http://clubtv.link/julio28j/ju28a/lista1.php?c=a0cq&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO MUNDI
+http://clubtv.link/julio28j/ju28a/lista1.php?c=a0bx&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO POP
+http://clubtv.link/julio28j/ju28a/lista1.php?c=a0cv&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=a0cs&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Signature
+http://clubtv.link/julio28j/ju28a/lista1.php?c=a0ct&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", HBO XTREME
+http://clubtv.link/julio28j/ju28a/lista1.php?c=a0cr&f=.m3u8
 
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
-http://clubtv.link/jul19/ju27/geomex2.php?c=211&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=211&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",MTV
-http://clubtv.link/jul19/ju27/geomex2.php?c=212&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=212&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",MTV HITS SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=213&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=213&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",VH1 CLASSIC SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=214&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=214&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",VH1 SD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=217&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=217&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",TELEHIT URBANO SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=218&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=218&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",TELEHIT +
-http://clubtv.link/jul19/ju27/geomex2.php?c=220&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=220&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",BANDAMAX SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=221&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=221&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",AZ CLIC
-http://clubtv.link/jul19/ju27/geomex2.php?c=223&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=223&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",VH1 HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=334&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=334&f=.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS",FOROTV HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=4&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=4&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",FOROTV SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=19&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=19&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",ADN40
-http://clubtv.link/jul19/ju27/geomex2.php?c=40&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=40&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",ADN 40 HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=184&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=184&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN
-http://clubtv.link/jul19/ju27/geomex2.php?c=185&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=185&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=186&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=186&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Ñ SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=187&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=187&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",WOBI 
-http://clubtv.link/jul19/ju27/geomex2.php?c=102&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=102&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",FOXN EWS
-http://clubtv.link/jul19/ju27/geomex2.php?c=188&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=188&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
-http://clubtv.link/jul19/ju27/geomex2.php?c=190&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=190&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",BBC SD
-http://clubtv.link/jul19/ju27/geomex2.php?c=191&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=191&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
-http://clubtv.link/jul19/ju27/geomex2.php?c=192&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=192&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",NTN 24
-http://clubtv.link/jul19/ju27/geomex2.php?c=194&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=194&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
-http://clubtv.link/jul19/ju27/geomex2.php?c=196&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=196&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",HLN
-http://clubtv.link/jul19/ju27/geomex2.php?c=197&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=197&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",DW 
-http://clubtv.link/jul19/ju27/geomex2.php?c=203&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=203&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",RT
-http://clubtv.link/jul19/ju27/geomex2.php?c=999&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=999&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",MILENIO HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=1250&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1250&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",MILENIO SD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=1252&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1252&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
-http://clubtv.link/jul19/ju27/geomex2.php?c=1449&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1449&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=1649&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1649&f=.m3u8
  #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
-http://clubtv.link/jul19/ju27/geomex2.php?c=2091&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2091&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",FRANCE 24
-http://clubtv.link/jul19/ju27/geomex2.php?c=2402&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2402&f=.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES",ESPN + 
-http://clubtv.link/jul19/ju27/geomex2.php?c=167&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=167&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 
-http://clubtv.link/jul19/ju27/geomex2.php?c=168&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=168&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://clubtv.link/jul19/ju27/geomex2.php?c=169&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=169&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS
-http://clubtv.link/jul19/ju27/geomex2.php?c=170&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=170&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
-http://clubtv.link/jul19/ju27/geomex2.php?c=172&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=172&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",TUDN
-http://clubtv.link/jul19/ju27/geomex2.php?c=174&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=174&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
-http://clubtv.link/jul19/ju27/geomex2.php?c=178&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=178&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",GOLF
-http://clubtv.link/jul19/ju27/geomex2.php?c=179&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=179&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",AYM SPORTS
-http://clubtv.link/jul19/ju27/geomex2.php?c=180&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=180&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 3 
-http://clubtv.link/jul19/ju27/geomex2.php?c=345&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=345&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",TUDN HD (2)
-http://clubtv.link/jul19/ju27/geomex2.php?c=1049&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1049&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",ADRENALINA SPORTS HD
-http://clubtv.link/jul19/ju27/geomex2.php?c=1799&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=1799&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",LAS
-http://clubtv.link/jul19/ju27/geomex2.php?c=2089&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2089&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",HAVOC
-http://clubtv.link/jul19/ju27/geomex2.php?c=2148&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2148&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
-http://clubtv.link/jul19/ju27/geomex2.php?c=2157&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2157&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD  
-http://clubtv.link/jul19/ju27/geomex2.php?c=2564&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2564&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
-http://clubtv.link/jul19/ju27/geomex2.php?c=2587&f=.m3u8
+http://clubtv.link/julio28j/ju28a/geomex.php?c=2587&f=.m3u8
 
-#EXTINF:-1 group-title="CINE Y SERIES", HBO Family
-http://clubtv.link/jul19/ju27/lista1.php?c=a0cq&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO MUNDI
-http://clubtv.link/jul19/ju27/lista1.php?c=a0bx&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO POP
-http://clubtv.link/jul19/ju27/lista1.php?c=a0cv&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO Plus
-http://clubtv.link/jul19/ju27/lista1.php?c=a0cs&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO Signature
-http://clubtv.link/jul19/ju27/lista1.php?c=a0ct&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO XTREME
-http://clubtv.link/jul19/ju27/lista1.php?c=a0cr&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO 2 SD =
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3322&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Family SD =
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3323&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO SD =
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3299&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Mundi SD =
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3324&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Plus SD = 
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3321&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO POP SD =
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3159&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Signature SD=
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3325&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Xtreme SD =
+http://clubtv.link/julio28j/ju28a/respaldo.php?c=3326&f=.m3u8
+
+
