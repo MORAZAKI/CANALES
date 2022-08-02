@@ -3,3 +3,601 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", ULTIMA ACTUALIZACION 02/AGO/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
+#EXTINF:-1 group-title="TV PREMIUM",A&E
+http://clubtv.link/julio28j/ju28a/lista1.php?c=1&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AXN
+http://clubtv.link/julio28j/ju28a/lista1.php?c=2&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Animal Planet
+http://clubtv.link/julio28j/ju28a/lista1.php?c=3&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Az Corazon
+http://clubtv.link/julio28j/ju28a/lista1.php?c=4&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Az Mundo
+http://clubtv.link/julio28j/ju28a/lista1.php?c=5&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AMC
+http://clubtv.link/julio28j/ju28a/lista1.php?c=6&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Antena 3 Internacional
+http://clubtv.link/julio28j/ju28a/lista1.php?c=7&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BBC World
+http://clubtv.link/julio28j/ju28a/lista1.php?c=8&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Baby TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=9&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Bloomberg
+http://clubtv.link/julio28j/ju28a/lista1.php?c=10&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CNN Espanol
+http://clubtv.link/julio28j/ju28a/lista1.php?c=11&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CNN Internacional
+http://clubtv.link/julio28j/ju28a/lista1.php?c=12&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cable Noticias
+http://clubtv.link/julio28j/ju28a/lista1.php?c=13&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal Claro
+http://clubtv.link/julio28j/ju28a/lista1.php?c=14&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Caracol
+http://clubtv.link/julio28j/ju28a/lista1.php?c=16&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Caracol Internacional
+http://clubtv.link/julio28j/ju28a/lista1.php?c=17&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cartoon Network
+http://clubtv.link/julio28j/ju28a/lista1.php?c=18&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cine Canal
+http://clubtv.link/julio28j/ju28a/lista1.php?c=19&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cine Latino
+http://clubtv.link/julio28j/ju28a/lista1.php?c=20&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cinema Dinamita
+http://clubtv.link/julio28j/ju28a/lista1.php?c=21&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cinema Plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=22&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",City TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=23&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Claro Cinema
+http://clubtv.link/julio28j/ju28a/lista1.php?c=24&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Claro Music 2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=26&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Claro Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=27&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Claro Sports Latinoamerica
+http://clubtv.link/julio28j/ju28a/lista1.php?c=28&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Comedy Central
+http://clubtv.link/julio28j/ju28a/lista1.php?c=29&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DHE
+http://clubtv.link/julio28j/ju28a/lista1.php?c=31&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DW
+http://clubtv.link/julio28j/ju28a/lista1.php?c=32&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Concert Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=30&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DW America
+http://clubtv.link/julio28j/ju28a/lista1.php?c=33&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",De Pelicula Plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=34&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=36&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Home and Health
+http://clubtv.link/julio28j/ju28a/lista1.php?c=37&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids
+http://clubtv.link/julio28j/ju28a/lista1.php?c=38&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Science
+http://clubtv.link/julio28j/ju28a/lista1.php?c=39&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
+http://clubtv.link/julio28j/ju28a/lista1.php?c=41&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery World
+http://clubtv.link/julio28j/ju28a/lista1.php?c=42&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Theater
+http://clubtv.link/julio28j/ju28a/lista1.php?c=40&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Disney
+http://clubtv.link/julio28j/ju28a/lista1.php?c=43&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Disney JR
+http://clubtv.link/julio28j/ju28a/lista1.php?c=44&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Disney XD
+http://clubtv.link/julio28j/ju28a/lista1.php?c=45&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",E !
+http://clubtv.link/julio28j/ju28a/lista1.php?c=46&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",El Gourmet
+http://clubtv.link/julio28j/ju28a/lista1.php?c=47&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Mas Chic
+http://clubtv.link/julio28j/ju28a/lista1.php?c=48&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MTV Hits
+http://clubtv.link/julio28j/ju28a/lista1.php?c=49&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MTV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=50&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Lifetime
+http://clubtv.link/julio28j/ju28a/lista1.php?c=51&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Investigation Discovery
+http://clubtv.link/julio28j/ju28a/lista1.php?c=52&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",I.Sat
+http://clubtv.link/julio28j/ju28a/lista1.php?c=53&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Hola TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=54&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",H2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=55&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",History Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=56&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HTV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=57&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HLN
+http://clubtv.link/julio28j/ju28a/lista1.php?c=58&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=59&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO Subtitulado
+http://clubtv.link/julio28j/ju28a/lista1.php?c=60&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO Signature
+http://clubtv.link/julio28j/ju28a/lista1.php?c=61&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO Family
+http://clubtv.link/julio28j/ju28a/lista1.php?c=62&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO 2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=63&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO
+http://clubtv.link/julio28j/ju28a/lista1.php?c=64&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Golf Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=65&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Golden Premium
+http://clubtv.link/julio28j/ju28a/lista1.php?c=66&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Golden
+http://clubtv.link/julio28j/ju28a/lista1.php?c=67&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Glitz
+http://clubtv.link/julio28j/ju28a/lista1.php?c=68&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fx Movie Mex
+http://clubtv.link/julio28j/ju28a/lista1.php?c=69&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",France 24
+http://clubtv.link/julio28j/ju28a/lista1.php?c=71&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 3 Sur
+http://clubtv.link/julio28j/ju28a/lista1.php?c=72&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 2 MX
+http://clubtv.link/julio28j/ju28a/lista1.php?c=74&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 2 Sur
+http://clubtv.link/julio28j/ju28a/lista1.php?c=75&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 1 Sur
+http://clubtv.link/julio28j/ju28a/lista1.php?c=76&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 1 MX
+http://clubtv.link/julio28j/ju28a/lista1.php?c=77&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Series Subtitulado
+http://clubtv.link/julio28j/ju28a/lista1.php?c=78&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Series
+http://clubtv.link/julio28j/ju28a/lista1.php?c=79&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox News
+http://clubtv.link/julio28j/ju28a/lista1.php?c=80&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Movies
+http://clubtv.link/julio28j/ju28a/lista1.php?c=81&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Life Mex
+http://clubtv.link/julio28j/ju28a/lista1.php?c=82&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Life
+http://clubtv.link/julio28j/ju28a/lista1.php?c=83&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Family
+http://clubtv.link/julio28j/ju28a/lista1.php?c=84&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Comedy
+http://clubtv.link/julio28j/ju28a/lista1.php?c=85&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Classics
+http://clubtv.link/julio28j/ju28a/lista1.php?c=86&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Cinema Subtitulado
+http://clubtv.link/julio28j/ju28a/lista1.php?c=87&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Cinema
+http://clubtv.link/julio28j/ju28a/lista1.php?c=88&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Action MX
+http://clubtv.link/julio28j/ju28a/lista1.php?c=89&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Premium Action
+http://clubtv.link/julio28j/ju28a/lista1.php?c=90&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox
+http://clubtv.link/julio28j/ju28a/lista1.php?c=91&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FX
+http://clubtv.link/julio28j/ju28a/lista1.php?c=92&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Euro Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=93&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Espn Plus Sur
+http://clubtv.link/julio28j/ju28a/lista1.php?c=94&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Espn 3 Sur
+http://clubtv.link/julio28j/ju28a/lista1.php?c=95&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Espn 2 Sur
+http://clubtv.link/julio28j/ju28a/lista1.php?c=96&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Espn 1 Sur
+http://clubtv.link/julio28j/ju28a/lista1.php?c=97&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Win Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=98&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Warner Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=99&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Vh1 Classic
+http://clubtv.link/julio28j/ju28a/lista1.php?c=100&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Vh1
+http://clubtv.link/julio28j/ju28a/lista1.php?c=101&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Univision
+http://clubtv.link/julio28j/ju28a/lista1.php?c=102&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Universal Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=103&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Unicable
+http://clubtv.link/julio28j/ju28a/lista1.php?c=104&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Tru TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=105&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Tve
+http://clubtv.link/julio28j/ju28a/lista1.php?c=106&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Tooncast
+http://clubtv.link/julio28j/ju28a/lista1.php?c=107&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Telemundo
+http://clubtv.link/julio28j/ju28a/lista1.php?c=108&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNT Series
+http://clubtv.link/julio28j/ju28a/lista1.php?c=109&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNT
+http://clubtv.link/julio28j/ju28a/lista1.php?c=110&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLC
+http://clubtv.link/julio28j/ju28a/lista1.php?c=111&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TCM
+http://clubtv.link/julio28j/ju28a/lista1.php?c=112&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TBS
+http://clubtv.link/julio28j/ju28a/lista1.php?c=113&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Sundance Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=114&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Studio Universal
+http://clubtv.link/julio28j/ju28a/lista1.php?c=115&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Space
+http://clubtv.link/julio28j/ju28a/lista1.php?c=116&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Sony
+http://clubtv.link/julio28j/ju28a/lista1.php?c=117&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",RCN Telenovelas
+http://clubtv.link/julio28j/ju28a/lista1.php?c=118&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Pasiones
+http://clubtv.link/julio28j/ju28a/lista1.php?c=119&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Paramount Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=120&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Nickelodeon
+http://clubtv.link/julio28j/ju28a/lista1.php?c=121&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Nick Jr
+http://clubtv.link/julio28j/ju28a/lista1.php?c=122&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Nick 2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=123&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Nat Geo Wild
+http://clubtv.link/julio28j/ju28a/lista1.php?c=124&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Nat Geo Mex
+http://clubtv.link/julio28j/ju28a/lista1.php?c=125&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Nat Geo Kids Mex
+http://clubtv.link/julio28j/ju28a/lista1.php?c=126&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Nat Geo Kids
+http://clubtv.link/julio28j/ju28a/lista1.php?c=127&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",National Geographic Channel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=128&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Multipremier
+http://clubtv.link/julio28j/ju28a/lista1.php?c=129&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Mtv Live
+http://clubtv.link/julio28j/ju28a/lista1.php?c=130&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO Pop
+http://clubtv.link/julio28j/ju28a/lista1.php?c=131&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO Xtreme
+http://clubtv.link/julio28j/ju28a/lista1.php?c=132&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO Mundi
+http://clubtv.link/julio28j/ju28a/lista1.php?c=133&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Azteca 7
+http://clubtv.link/julio28j/ju28a/lista1.php?c=134&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Azteca Uno
+http://clubtv.link/julio28j/ju28a/lista1.php?c=135&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | ADN 40
+http://clubtv.link/julio28j/ju28a/lista1.php?c=136&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Az Clic
+http://clubtv.link/julio28j/ju28a/lista1.php?c=139&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Az Cinema
+http://clubtv.link/julio28j/ju28a/lista1.php?c=140&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | A3 Series
+http://clubtv.link/julio28j/ju28a/lista1.php?c=141&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Antena 3
+http://clubtv.link/julio28j/ju28a/lista1.php?c=142&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Aym Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=143&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Canal 5
+http://clubtv.link/julio28j/ju28a/lista1.php?c=144&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Las Estrellas
+http://clubtv.link/julio28j/ju28a/lista1.php?c=145&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Galatv
+http://clubtv.link/julio28j/ju28a/lista1.php?c=146&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Foro TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=147&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Europa Europa
+http://clubtv.link/julio28j/ju28a/lista1.php?c=148&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Distrito Comedia
+http://clubtv.link/julio28j/ju28a/lista1.php?c=149&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Multimedios
+http://clubtv.link/julio28j/ju28a/lista1.php?c=150&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Televisa MTY
+http://clubtv.link/julio28j/ju28a/lista1.php?c=151&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Garage TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=152&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Congreso de la Unión
+http://clubtv.link/julio28j/ju28a/lista1.php?c=153&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Imagen TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=154&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Latin American Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=155&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Teleritmo
+http://clubtv.link/julio28j/ju28a/lista1.php?c=156&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Milenio TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=157&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Espn Plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=160&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Espn
+http://clubtv.link/julio28j/ju28a/lista1.php?c=161&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Espn 2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=162&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Fox Sports 3
+http://clubtv.link/julio28j/ju28a/lista1.php?c=165&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | RT Noticias
+http://clubtv.link/julio28j/ju28a/lista1.php?c=166&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Espn 3
+http://clubtv.link/julio28j/ju28a/lista1.php?c=167&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | RT en Espanol
+http://clubtv.link/julio28j/ju28a/lista1.php?c=168&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Tl Novelas
+http://clubtv.link/julio28j/ju28a/lista1.php?c=169&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | A Plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=170&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Cinemax
+http://clubtv.link/julio28j/ju28a/lista1.php?c=171&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Nicktoons
+http://clubtv.link/julio28j/ju28a/lista1.php?c=172&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Bandamax
+http://clubtv.link/julio28j/ju28a/lista1.php?c=173&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Food Network
+http://clubtv.link/julio28j/ju28a/lista1.php?c=174&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Boomerang
+http://clubtv.link/julio28j/ju28a/lista1.php?c=176&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Ingenio TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=177&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Ritmoson
+http://clubtv.link/julio28j/ju28a/lista1.php?c=178&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Telehit
+http://clubtv.link/julio28j/ju28a/lista1.php?c=179&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | TVC
+http://clubtv.link/julio28j/ju28a/lista1.php?c=180&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | TVC Deportes
+http://clubtv.link/julio28j/ju28a/lista1.php?c=181&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Telefórmula
+http://clubtv.link/julio28j/ju28a/lista1.php?c=182&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Golden
+http://clubtv.link/julio28j/ju28a/lista1.php?c=183&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | Golden Edge
+http://clubtv.link/julio28j/ju28a/lista1.php?c=184&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Bein Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=185&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Directv Sports Plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=186&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Directv Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=187&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Directv Sports 2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=188&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Univision UDN
+http://clubtv.link/julio28j/ju28a/lista1.php?c=189&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Univision TDN
+http://clubtv.link/julio28j/ju28a/lista1.php?c=190&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PE | TV Peru
+http://clubtv.link/julio28j/ju28a/lista1.php?c=191&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PE | Peru Magico
+http://clubtv.link/julio28j/ju28a/lista1.php?c=192&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PE | Panamericana
+http://clubtv.link/julio28j/ju28a/lista1.php?c=193&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PE | Movistar Deportes
+http://clubtv.link/julio28j/ju28a/lista1.php?c=194&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PE | Gol Peru
+http://clubtv.link/julio28j/ju28a/lista1.php?c=195&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COL | Trece
+http://clubtv.link/julio28j/ju28a/lista1.php?c=198&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COL | RCN Internacional
+http://clubtv.link/julio28j/ju28a/lista1.php?c=200&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COL | RCN
+http://clubtv.link/julio28j/ju28a/lista1.php?c=201&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COL | Caracol 2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=204&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COL | Caracol
+http://clubtv.link/julio28j/ju28a/lista1.php?c=205&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CL | Fox Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=211&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CL | Chilevision
+http://clubtv.link/julio28j/ju28a/lista1.php?c=212&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CL | CDO Premium
+http://clubtv.link/julio28j/ju28a/lista1.php?c=213&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CL | CDO Basico
+http://clubtv.link/julio28j/ju28a/lista1.php?c=214&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CL | CDF Premium
+http://clubtv.link/julio28j/ju28a/lista1.php?c=215&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CL | CDF Basico
+http://clubtv.link/julio28j/ju28a/lista1.php?c=216&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CL | CDF
+http://clubtv.link/julio28j/ju28a/lista1.php?c=217&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AR | TNT Sports
+http://clubtv.link/julio28j/ju28a/lista1.php?c=219&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Wobi
+http://clubtv.link/julio28j/ju28a/lista1.php?c=337&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",VH1 HD
+http://clubtv.link/julio28j/ju28a/lista1.php?c=336&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Start TVE
+http://clubtv.link/julio28j/ju28a/lista1.php?c=335&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TV Mas
+http://clubtv.link/julio28j/ju28a/lista1.php?c=334&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MVS
+http://clubtv.link/julio28j/ju28a/lista1.php?c=333&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Golden Plus
+http://clubtv.link/julio28j/ju28a/lista1.php?c=327&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Civilization
+http://clubtv.link/julio28j/ju28a/lista1.php?c=325&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",De Pelicula
+http://clubtv.link/julio28j/ju28a/lista1.php?c=324&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Gol TV Internacional
+http://clubtv.link/julio28j/ju28a/lista1.php?c=338&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Tigo Sports 1
+http://clubtv.link/julio28j/ju28a/lista1.php?c=339&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Tigo Sports py
+http://clubtv.link/julio28j/ju28a/lista1.php?c=340&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Tigo Sports 3
+http://clubtv.link/julio28j/ju28a/lista1.php?c=341&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Estrella tv
+http://clubtv.link/julio28j/ju28a/lista1.php?c=342&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Bein sports ñ T
+http://clubtv.link/julio28j/ju28a/lista1.php?c=343&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fightbox
+http://clubtv.link/julio28j/ju28a/lista1.php?c=346&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fight Time
+http://clubtv.link/julio28j/ju28a/lista1.php?c=347&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MLB Network
+http://clubtv.link/julio28j/ju28a/lista1.php?c=349&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Motorsports TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=350&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",RedBull
+http://clubtv.link/julio28j/ju28a/lista1.php?c=351&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UFC TV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=353&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Bitme
+http://clubtv.link/julio28j/ju28a/lista1.php?c=354&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Locomotion
+http://clubtv.link/julio28j/ju28a/lista1.php?c=355&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",movistar liga de Campeones
+http://clubtv.link/julio28j/ju28a/lista1.php?c=357&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",nueve mx
+http://clubtv.link/julio28j/ju28a/lista1.php?c=356&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ISAT
+http://clubtv.link/julio28j/ju28a/lista1.php?c=369&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Film&Arts
+http://clubtv.link/julio28j/ju28a/lista1.php?c=370&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Syfy
+http://clubtv.link/julio28j/ju28a/lista1.php?c=371&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Ultra Tainment
+http://clubtv.link/julio28j/ju28a/lista1.php?c=373&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Win Sports+
+http://clubtv.link/julio28j/ju28a/lista1.php?c=374&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | EDUCA canal 1
+http://clubtv.link/julio28j/ju28a/lista1.php?c=376&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | EDUCA canal 2
+http://clubtv.link/julio28j/ju28a/lista1.php?c=377&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MX | EDUCA canal 3
+http://clubtv.link/julio28j/ju28a/lista1.php?c=378&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal Once
+http://clubtv.link/julio28j/ju28a/lista1.php?c=380&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Once Niños
+http://clubtv.link/julio28j/ju28a/lista1.php?c=381&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",afizzionados
+http://clubtv.link/julio28j/ju28a/lista1.php?c=382&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Deportes
+http://clubtv.link/julio28j/ju28a/lista1.php?c=384&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HGTV
+http://clubtv.link/julio28j/ju28a/lista1.php?c=385&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",prueba
+http://clubtv.link/julio28j/ju28a/lista1.php?c=408&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Lazy Town
+http://clubtv.link/julio28j/ju28a/lista1.php?c=235&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Barnie y sus amigos
+http://clubtv.link/julio28j/ju28a/lista1.php?c=236&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Dora la exploradora
+http://clubtv.link/julio28j/ju28a/lista1.php?c=237&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PJ Masks
+http://clubtv.link/julio28j/ju28a/lista1.php?c=238&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",caillou
+http://clubtv.link/julio28j/ju28a/lista1.php?c=239&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Jorge el Curioso
+http://clubtv.link/julio28j/ju28a/lista1.php?c=240&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",peppa pig
+http://clubtv.link/julio28j/ju28a/lista1.php?c=241&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",happy tree friends
+http://clubtv.link/julio28j/ju28a/lista1.php?c=242&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Los picapiedras
+http://clubtv.link/julio28j/ju28a/lista1.php?c=243&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Le temes a la oscuridad
+http://clubtv.link/julio28j/ju28a/lista1.php?c=244&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Pantera Rosa 80s
+http://clubtv.link/julio28j/ju28a/lista1.php?c=245&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Correcaminos
+http://clubtv.link/julio28j/ju28a/lista1.php?c=246&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Power Rangers
+http://clubtv.link/julio28j/ju28a/lista1.php?c=247&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cuentos Hermanos Grimm
+http://clubtv.link/julio28j/ju28a/lista1.php?c=248&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Robotech
+http://clubtv.link/julio28j/ju28a/lista1.php?c=249&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Estrenos 2018
+http://clubtv.link/julio28j/ju28a/lista1.php?c=250&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",El Chapulin Colorado
+http://clubtv.link/julio28j/ju28a/lista1.php?c=251&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Death Note
+http://clubtv.link/julio28j/ju28a/lista1.php?c=252&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CSI Miami
+http://clubtv.link/julio28j/ju28a/lista1.php?c=253&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Alf
+http://clubtv.link/julio28j/ju28a/lista1.php?c=254&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",X-men 90s
+http://clubtv.link/julio28j/ju28a/lista1.php?c=255&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Vete a la Versh
+http://clubtv.link/julio28j/ju28a/lista1.php?c=256&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",The Walking Dead
+http://clubtv.link/julio28j/ju28a/lista1.php?c=257&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Super campeones
+http://clubtv.link/julio28j/ju28a/lista1.php?c=258&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",strangerthings
+http://clubtv.link/julio28j/ju28a/lista1.php?c=259&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Spiderman 80s
+http://clubtv.link/julio28j/ju28a/lista1.php?c=260&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Sounth Park
+http://clubtv.link/julio28j/ju28a/lista1.php?c=261&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Smallville
+http://clubtv.link/julio28j/ju28a/lista1.php?c=262&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Shera
+http://clubtv.link/julio28j/ju28a/lista1.php?c=263&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Señor de los cielos
+http://clubtv.link/julio28j/ju28a/lista1.php?c=264&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Sailormoon
+http://clubtv.link/julio28j/ju28a/lista1.php?c=265&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Pokemon
+http://clubtv.link/julio28j/ju28a/lista1.php?c=266&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Pinky y Cerebro
+http://clubtv.link/julio28j/ju28a/lista1.php?c=267&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Peliculas Terror
+http://clubtv.link/julio28j/ju28a/lista1.php?c=268&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Pablo Escobar
+http://clubtv.link/julio28j/ju28a/lista1.php?c=269&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Naruto
+http://clubtv.link/julio28j/ju28a/lista1.php?c=270&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Mazinger Z
+http://clubtv.link/julio28j/ju28a/lista1.php?c=271&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Malcolm el de enmedio
+http://clubtv.link/julio28j/ju28a/lista1.php?c=272&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Luis Miguel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=273&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Los Thundercats
+http://clubtv.link/julio28j/ju28a/lista1.php?c=275&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Los Simpsons
+http://clubtv.link/julio28j/ju28a/lista1.php?c=276&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",La Rosa de Guadalupe
+http://clubtv.link/julio28j/ju28a/lista1.php?c=277&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Heman
+http://clubtv.link/julio28j/ju28a/lista1.php?c=278&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Game Of Throne
+http://clubtv.link/julio28j/ju28a/lista1.php?c=279&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Futurama
+http://clubtv.link/julio28j/ju28a/lista1.php?c=280&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Dragon Ball Z
+http://clubtv.link/julio28j/ju28a/lista1.php?c=281&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Dragon Ball Super
+http://clubtv.link/julio28j/ju28a/lista1.php?c=282&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Dragon Ball GT
+http://clubtv.link/julio28j/ju28a/lista1.php?c=283&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Dragon ball
+http://clubtv.link/julio28j/ju28a/lista1.php?c=284&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Dinosaurios
+http://clubtv.link/julio28j/ju28a/lista1.php?c=285&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Coraje el perro cobarde
+http://clubtv.link/julio28j/ju28a/lista1.php?c=286&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Años Maravillosos
+http://clubtv.link/julio28j/ju28a/lista1.php?c=287&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",La casa de papel
+http://clubtv.link/julio28j/ju28a/lista1.php?c=288&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",El chema
+http://clubtv.link/julio28j/ju28a/lista1.php?c=289&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",El chavo
+http://clubtv.link/julio28j/ju28a/lista1.php?c=290&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",caballerosdel zodiaco
+http://clubtv.link/julio28j/ju28a/lista1.php?c=291&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Breaking bad
+http://clubtv.link/julio28j/ju28a/lista1.php?c=292&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Bob Esponja 24/7
+http://clubtv.link/julio28j/ju28a/lista1.php?c=293&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",El mago enmascarado
+http://clubtv.link/julio28j/ju28a/lista1.php?c=401&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",The Mandalorian
+http://clubtv.link/julio28j/ju28a/lista1.php?c=402&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Peliculas Infantiles
+http://clubtv.link/julio28j/ju28a/lista1.php?c=403&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Las chicas Superpoderosas
+http://clubtv.link/julio28j/ju28a/lista1.php?c=404&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Laboratorio de Dexter
+http://clubtv.link/julio28j/ju28a/lista1.php?c=405&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Los Aventureros del Aire
+http://clubtv.link/julio28j/ju28a/lista1.php?c=406&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Patoaventuras
+http://clubtv.link/julio28j/ju28a/lista1.php?c=407&f=.m3u8
