@@ -72,280 +72,385 @@ http://clubtv.link/agos8/agosto8/distro.php?c=mmc&f=.m3u8
 http://clubtv.link/agos8/agosto8/distro.php?c=chiquilines&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
 http://clubtv.link/agos8/agosto8/distro.php?c=glewedtv-spanish&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",A3S
-http://clubtv.link/agos8/agosto8/lista1.php?c=41
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ADN40
-http://clubtv.link/agos8/agosto8/lista1.php?c=42
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Affizionados
-http://clubtv.link/agos8/agosto8/lista1.php?c=43
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AMC
-http://clubtv.link/agos8/agosto8/lista1.php?c=44
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Animal Planet
-http://clubtv.link/agos8/agosto8/lista1.php?c=45
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Antena 3
-http://clubtv.link/agos8/agosto8/lista1.php?c=46
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AXN
-http://clubtv.link/agos8/agosto8/lista1.php?c=47
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AXN White
-http://clubtv.link/agos8/agosto8/lista1.php?c=48
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AyM Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=49
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AZ Cinema
-http://clubtv.link/agos8/agosto8/lista1.php?c=50
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AZ Corazon
-http://clubtv.link/agos8/agosto8/lista1.php?c=51
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AZ Mundo
-http://clubtv.link/agos8/agosto8/lista1.php?c=52
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Azteca 1
-http://clubtv.link/agos8/agosto8/lista1.php?c=53
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Azteca 7
-http://clubtv.link/agos8/agosto8/lista1.php?c=54
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Bandamax
-http://clubtv.link/agos8/agosto8/lista1.php?c=55
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",beIN Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=56
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",beIN Sports La Liga
-http://clubtv.link/agos8/agosto8/lista1.php?c=57
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Boomerang
-http://clubtv.link/agos8/agosto8/lista1.php?c=58
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Canal 11
-http://clubtv.link/agos8/agosto8/lista1.php?c=59
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Canal 5
-http://clubtv.link/agos8/agosto8/lista1.php?c=60
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Canal De Las Estrellas
-http://clubtv.link/agos8/agosto8/lista1.php?c=61
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Cartoon Network
-http://clubtv.link/agos8/agosto8/lista1.php?c=63
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",CineCanal
-http://clubtv.link/agos8/agosto8/lista1.php?c=64
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",CineLatino
-http://clubtv.link/agos8/agosto8/lista1.php?c=65
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Cinemax
-http://clubtv.link/agos8/agosto8/lista1.php?c=66
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",CNN en Espanol
-http://clubtv.link/agos8/agosto8/lista1.php?c=67
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Comedy Central
-http://clubtv.link/agos8/agosto8/lista1.php?c=68
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",De Pelicula
-http://clubtv.link/agos8/agosto8/lista1.php?c=69
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=70
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HGTV
-http://clubtv.link/agos8/agosto8/lista1.php?c=71
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery en Espanol
-http://clubtv.link/agos8/agosto8/lista1.php?c=72
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Familia
-http://clubtv.link/agos8/agosto8/lista1.php?c=73
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery H&H
-http://clubtv.link/agos8/agosto8/lista1.php?c=74
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery ID
-http://clubtv.link/agos8/agosto8/lista1.php?c=75
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Kids
-http://clubtv.link/agos8/agosto8/lista1.php?c=76
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Science
-http://clubtv.link/agos8/agosto8/lista1.php?c=77
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Theater
-http://clubtv.link/agos8/agosto8/lista1.php?c=78
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery TLC
-http://clubtv.link/agos8/agosto8/lista1.php?c=79
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Turbo
-http://clubtv.link/agos8/agosto8/lista1.php?c=80
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery World
-http://clubtv.link/agos8/agosto8/lista1.php?c=81
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Disney Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=82
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Disney Jr
-http://clubtv.link/agos8/agosto8/lista1.php?c=83
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Disney XD
-http://clubtv.link/agos8/agosto8/lista1.php?c=84
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Distrito Comedia
-http://clubtv.link/agos8/agosto8/lista1.php?c=85
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",E!
-http://clubtv.link/agos8/agosto8/lista1.php?c=86
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",El Garage
-http://clubtv.link/agos8/agosto8/lista1.php?c=87
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",El Gourmet
-http://clubtv.link/agos8/agosto8/lista1.php?c=88
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=90
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN 3
-http://clubtv.link/agos8/agosto8/lista1.php?c=91
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN Deportes
-http://clubtv.link/agos8/agosto8/lista1.php?c=92
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN Plus
-http://clubtv.link/agos8/agosto8/lista1.php?c=93
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Estrella TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=94
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Food Network
-http://clubtv.link/agos8/agosto8/lista1.php?c=95
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Foro TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=96
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX
-http://clubtv.link/agos8/agosto8/lista1.php?c=97
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Crime
-http://clubtv.link/agos8/agosto8/lista1.php?c=98
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Un1versal Cinema
-http://clubtv.link/agos8/agosto8/lista1.php?c=99
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Reality
-http://clubtv.link/agos8/agosto8/lista1.php?c=101
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Premier
-http://clubtv.link/agos8/agosto8/lista1.php?c=103
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=105
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX Sports 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=106
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX Sports 3
-http://clubtv.link/agos8/agosto8/lista1.php?c=107
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FX
-http://clubtv.link/agos8/agosto8/lista1.php?c=111
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FXM
-http://clubtv.link/agos8/agosto8/lista1.php?c=112
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Gala TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=113
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Glitz
-http://clubtv.link/agos8/agosto8/lista1.php?c=114
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Gol TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=115
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Golden EDGE
-http://clubtv.link/agos8/agosto8/lista1.php?c=116
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Golden Plus
-http://clubtv.link/agos8/agosto8/lista1.php?c=117
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO
-http://clubtv.link/agos8/agosto8/lista1.php?c=118
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=119
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO Family
-http://clubtv.link/agos8/agosto8/lista1.php?c=120
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO Plus
-http://clubtv.link/agos8/agosto8/lista1.php?c=121
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",History 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=122
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",History Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=123
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Hola TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=124
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Imagen
-http://clubtv.link/agos8/agosto8/lista1.php?c=125
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Lifetime
-http://clubtv.link/agos8/agosto8/lista1.php?c=126
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",MasChic
-http://clubtv.link/agos8/agosto8/lista1.php?c=127
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO XTREME
-http://clubtv.link/agos8/agosto8/lista1.php?c=128
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO POP
-http://clubtv.link/agos8/agosto8/lista1.php?c=129
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Mexiquense
-http://clubtv.link/agos8/agosto8/lista1.php?c=130
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Multimedios
-http://clubtv.link/agos8/agosto8/lista1.php?c=131
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nat Geo Kids
-http://clubtv.link/agos8/agosto8/lista1.php?c=132
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nat Geo Mundo
-http://clubtv.link/agos8/agosto8/lista1.php?c=133
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nat Geo Wild
-http://clubtv.link/agos8/agosto8/lista1.php?c=134
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",National Geographic
-http://clubtv.link/agos8/agosto8/lista1.php?c=135
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nick
-http://clubtv.link/agos8/agosto8/lista1.php?c=136
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nick Jr
-http://clubtv.link/agos8/agosto8/lista1.php?c=137
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nicktoons
-http://clubtv.link/agos8/agosto8/lista1.php?c=138
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Pasiones
-http://clubtv.link/agos8/agosto8/lista1.php?c=139
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Ritmoson
-http://clubtv.link/agos8/agosto8/lista1.php?c=141
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Showtime
-http://clubtv.link/agos8/agosto8/lista1.php?c=142
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Sony
-http://clubtv.link/agos8/agosto8/lista1.php?c=143
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Space
-http://clubtv.link/agos8/agosto8/lista1.php?c=144
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Starz
-http://clubtv.link/agos8/agosto8/lista1.php?c=145
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Starz Encore
-http://clubtv.link/agos8/agosto8/lista1.php?c=146
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Studio Universal
-http://clubtv.link/agos8/agosto8/lista1.php?c=147
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Sundance
-http://clubtv.link/agos8/agosto8/lista1.php?c=148
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",SyFy
-http://clubtv.link/agos8/agosto8/lista1.php?c=149
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TBS
-http://clubtv.link/agos8/agosto8/lista1.php?c=150
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TCM
-http://clubtv.link/agos8/agosto8/lista1.php?c=151
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Teleformula
-http://clubtv.link/agos8/agosto8/lista1.php?c=152
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Telehit
-http://clubtv.link/agos8/agosto8/lista1.php?c=153
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Telemundo Int
-http://clubtv.link/agos8/agosto8/lista1.php?c=154
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TLnovelas
-http://clubtv.link/agos8/agosto8/lista1.php?c=155
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TNT
-http://clubtv.link/agos8/agosto8/lista1.php?c=156
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TNT Series
-http://clubtv.link/agos8/agosto8/lista1.php?c=157
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Tooncast
-http://clubtv.link/agos8/agosto8/lista1.php?c=158
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TruTV
-http://clubtv.link/agos8/agosto8/lista1.php?c=159
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TUDN
-http://clubtv.link/agos8/agosto8/lista1.php?c=160
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TVC
-http://clubtv.link/agos8/agosto8/lista1.php?c=161
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TVC Deportes
-http://clubtv.link/agos8/agosto8/lista1.php?c=162
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TyC Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=163
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Unicable
-http://clubtv.link/agos8/agosto8/lista1.php?c=173
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",UniMas
-http://clubtv.link/agos8/agosto8/lista1.php?c=174
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=175
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",VH1
-http://clubtv.link/agos8/agosto8/lista1.php?c=176
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",VH1 Classic
-http://clubtv.link/agos8/agosto8/lista1.php?c=177
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Warner
-http://clubtv.link/agos8/agosto8/lista1.php?c=178
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Win Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=179
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY TURBO
-http://clubtv.link/agos8/agosto8/lista1.php?c=3130
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ANIMAL PLANET
-http://clubtv.link/agos8/agosto8/lista1.php?c=3131
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY CHANNEL
-http://clubtv.link/agos8/agosto8/lista1.php?c=3132
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HGTV
-http://clubtv.link/agos8/agosto8/lista1.php?c=3133
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY FAMILIA
-http://clubtv.link/agos8/agosto8/lista1.php?c=3134
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY H&H
-http://clubtv.link/agos8/agosto8/lista1.php?c=3135
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY THEATHER
-http://clubtv.link/agos8/agosto8/lista1.php?c=3137
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",UNIVERSAL CINEMA ( STAR CINEMA)
-http://clubtv.link/agos8/agosto8/lista1.php?c=3144
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO 
-http://clubtv.link/agos8/agosto8/lista1.php?c=3145
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=3146
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO FAMILY
-http://clubtv.link/agos8/agosto8/lista1.php?c=3147
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO MUNDI 
-http://clubtv.link/agos8/agosto8/lista1.php?c=3148
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO POP
-http://clubtv.link/agos8/agosto8/lista1.php?c=3149
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO SIGNATURE
-http://clubtv.link/agos8/agosto8/lista1.php?c=3150
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO PLUS
-http://clubtv.link/agos8/agosto8/lista1.php?c=3151
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO XTREME
-http://clubtv.link/agos8/agosto8/lista1.php?c=3152
-
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s8.png" group-title="Lista 06", A&E
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s8&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q7.png" group-title="Lista 06", A&E HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q7&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pr.png" group-title="Lista 06", AMC
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pr&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q8.png" group-title="Lista 06", AMC HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q8&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png" group-title="Lista 06", AXN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pp&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png" group-title="Lista 06", AZ click HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qe&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v4.png" group-title="Lista 06", Amixtv
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0v4&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sb.png" group-title="Lista 06", Animal Planet
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sb&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png" group-title="Lista 06", Animal Planet HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q4&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nv.png" group-title="Lista 06", Antena 3
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p2.png" group-title="Lista 06", Antena 7- RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0p2&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o1.png" group-title="Lista 06", Atres Series
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o1&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pg.png" group-title="Lista 06", Azcorazon
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pg&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s4.png" group-title="Lista 06", Azmundo
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s4&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pt.png" group-title="Lista 06", BBC World
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pt&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r3.png" group-title="Lista 06", Baby First
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r3&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ns.png" group-title="Lista 06", Baby TV
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ns&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v6.png" group-title="Lista 06", Beinsports
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0v6&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qt.png" group-title="Lista 06", CANAL 13 - NI
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qt&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png" group-title="Lista 06", CARTOON NT HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0op&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pc.png" group-title="Lista 06", CCN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pc&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qq.png" group-title="Lista 06", CDN2- RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qq&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s1.png" group-title="Lista 06", CDN37 - RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s1&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png" group-title="Lista 06", CINECANAL HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sl&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o7.png" group-title="Lista 06", CNN Internacional
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o7&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ps.png" group-title="Lista 06", CNNE
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ps&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o0.png" group-title="Lista 06", Canal 10 - ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o0&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o8.png" group-title="Lista 06", Canal 10 HD - ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o8&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qj.png" group-title="Lista 06", Canal 11 - GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qj&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ql.png" group-title="Lista 06", Canal 12 - ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ql&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p5.png" group-title="Lista 06", Canal 13 - PAN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0p5&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qi.png" group-title="Lista 06", Canal 13-GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qi&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qo.png" group-title="Lista 06", Canal 14 - NIC
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qo&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r2.png" group-title="Lista 06", Canal 19  ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r2&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ru.png" group-title="Lista 06", Canal 2 - ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ru&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rx.png" group-title="Lista 06", Canal 2 - NIC
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rx&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p6.png" group-title="Lista 06", Canal 2 - PAN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0p6&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rs.png" group-title="Lista 06", Canal 3 - GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rs&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rt.png" group-title="Lista 06", Canal 4 - ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rt&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qk.png" group-title="Lista 06", Canal 6 - ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qk&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qs.png" group-title="Lista 06", Canal 6 - NI
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qs&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rr.png" group-title="Lista 06", Canal 7 - GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rr&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rp.png" group-title="Lista 06", Canal Antigua - GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rp&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rq.png" group-title="Lista 06", Canal Azteca - GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rq&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oy.png" group-title="Lista 06", Canal Claro
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0oy&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oo.png" group-title="Lista 06", Canal Claro HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0oo&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0np.png" group-title="Lista 06", Canal del Congreso
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0np&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png" group-title="Lista 06", Cartoon Network
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0p8&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pa.png" group-title="Lista 06", Cartoonito
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pa&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tl.png" group-title="Lista 06", Cine Latino
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0tl&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sh.png" group-title="Lista 06", Claro Cinema
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sh&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0re.png" group-title="Lista 06", Claro Musica
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0re&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0on.png" group-title="Lista 06", Claro Sports  HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0on&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o2.png" group-title="Lista 06", Claro Sports PAN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o2&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ra.png" group-title="Lista 06", Claro Sports SD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ra&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s0.png" group-title="Lista 06", Color Vision 9 - RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s0&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0su.png" group-title="Lista 06", Comedy Central HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0su&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oq.png" group-title="Lista 06", Concert Channel HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0oq&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ok.png" group-title="Lista 06", DHE
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ok&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qd.png" group-title="Lista 06", DHE HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qd&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png" group-title="Lista 06", DISC THEATHER HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sr&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qp.png" group-title="Lista 06", Digital 15 - RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qp&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sa.png" group-title="Lista 06", Discovery Channel
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sa&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tb.png" group-title="Lista 06", Discovery Channel HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0tb&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tf.png" group-title="Lista 06", Discovery ID HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0tf&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ob.png" group-title="Lista 06", Discovery Kids HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ob&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ny.png" group-title="Lista 06", Discovery Science
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ny&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tc.png" group-title="Lista 06", Discovery World HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0tc&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pb.png" group-title="Lista 06", Disney JR
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pb&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s7.png" group-title="Lista 06", E!
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s7&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q5.png" group-title="Lista 06", E! Entertairment HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q5&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png" group-title="Lista 06", ESPN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0se&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0py.png" group-title="Lista 06", ESPN  +
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0py&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png" group-title="Lista 06", ESPN 2
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sf&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t6.png" group-title="Lista 06", ESPN 2 HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t6&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rb.png" group-title="Lista 06", ESPN 3
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rb&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t5.png" group-title="Lista 06", ESPN 3 HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t5&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t4.png" group-title="Lista 06", ESPN HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t4&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r6.png" group-title="Lista 06", EURO Channel
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r6&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pw.png" group-title="Lista 06", EWTN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pw&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png" group-title="Lista 06", El Gourmet
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r8&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qb.png" group-title="Lista 06", Europa HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qb&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sg.png" group-title="Lista 06", Exa TV
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sg&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sp.png" group-title="Lista 06", FOX SPORTS 2 HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sp&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t7.png" group-title="Lista 06", FOX SPORTS 3 HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t7&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rc.png" group-title="Lista 06", FOX Sports 2
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rc&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t3.png" group-title="Lista 06", FUTV HD CR
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t3&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r4.png" group-title="Lista 06", FX
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r4&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qa.png" group-title="Lista 06", FX HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qa&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oj.png" group-title="Lista 06", Film & Arts
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0oj&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q6.png" group-title="Lista 06", Film & arts HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q6&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pm.png" group-title="Lista 06", Fox Sport 3
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pm&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pu.png" group-title="Lista 06", France24
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pu&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="Lista 06", Golden
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rh&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o3.png" group-title="Lista 06", Golf Channel
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o3&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qg.png" group-title="Lista 06", Golf Channel HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qg&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oz.png" group-title="Lista 06", Guatevision - GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0oz&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png" group-title="Lista 06", H2
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r7&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="Lista 06", HBO Family HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ou&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="Lista 06", HBO HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0or&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="Lista 06", HBO Plus HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ot&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="Lista 06", HBO XTREME
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ov&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="Lista 06", HBO2 HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0os&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0st.png" group-title="Lista 06", HOLA! TV HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0st&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rg.png" group-title="Lista 06", HTV
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rg&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sc.png" group-title="Lista 06", History Channel
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sc&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png" group-title="Lista 06", History HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0px&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nz.png" group-title="Lista 06", Hola!TV
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nz&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ss.png" group-title="Lista 06", Home & Health HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ss&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nx.png" group-title="Lista 06", Home Garden Latino
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nx&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pl.png" group-title="Lista 06", LIFE TIME
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pl&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rd.png" group-title="Lista 06", Latin America Sport
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rd&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qx.png" group-title="Lista 06", MASTV - PAN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qx&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rf.png" group-title="Lista 06", MTV 00s
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rf&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sw.png" group-title="Lista 06", MTV 00s HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sw&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0po.png" group-title="Lista 06", MTV 80s
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0po&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pz.png" group-title="Lista 06", MTV HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pz&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pn.png" group-title="Lista 06", MTV Hits
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pn&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sv.png" group-title="Lista 06", MTV SIM HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nu.png" group-title="Lista 06", Mas Chic
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nu&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tj.png" group-title="Lista 06", Movistar La liga
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0tj&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o5.png" group-title="Lista 06", Multicinema
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o5&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0og.png" group-title="Lista 06", Multimedios
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0og&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tm.png" group-title="Lista 06", Multipremier
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0tm&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qw.png" group-title="Lista 06", NEXT - PAN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qw&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t8.png" group-title="Lista 06", Nat Geo HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t8&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pk.png" group-title="Lista 06", National Geographic
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pk&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p9.png" group-title="Lista 06", Nick Jr
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0p9&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0so.png" group-title="Lista 06", Nick SIM HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0so&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o4.png" group-title="Lista 06", PXTV
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o4&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png" group-title="Lista 06", Paramount
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ol&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png" group-title="Lista 06", Paramount HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t9&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0td.png" group-title="Lista 06", Pasiones HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0td&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nq.png" group-title="Lista 06", RCN - GUA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nq&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r5.png" group-title="Lista 06", RCN Novelas
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r5&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ti.png" group-title="Lista 06", RT Noticas
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ti&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pd.png" group-title="Lista 06", SEMILLITAS
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pd&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nn.png" group-title="Lista 06", SERTV - PAN
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nn&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s5.png" group-title="Lista 06", SONY
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s5&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sk.png" group-title="Lista 06", SONY HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sk&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ph.png" group-title="Lista 06", SPACE
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ph&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png" group-title="Lista 06", STAR CHANNEL HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0si&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rm.png" group-title="Lista 06", Sembrador
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rm&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qc.png" group-title="Lista 06", Sony Movies HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qc&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qf.png" group-title="Lista 06", Star TVE HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qf&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q2.png" group-title="Lista 06", Studio Universal HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q2&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r9.png" group-title="Lista 06", Sun Channel
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r9&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s9.png" group-title="Lista 06", SyFy
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s9&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q3.png" group-title="Lista 06", SyFy HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q3&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pv.png" group-title="Lista 06", TBN Enlace
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pj.png" group-title="Lista 06", TBS
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pj&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ri.png" group-title="Lista 06", TCM
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ri&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oa.png" group-title="Lista 06", TD+2 HD CR
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0oa&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o9.png" group-title="Lista 06", TD+HD CR
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o9&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sd.png" group-title="Lista 06", TLC
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sd&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pq.png" group-title="Lista 06", TNT
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pq&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sq.png" group-title="Lista 06", TNT HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sq&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pi.png" group-title="Lista 06", TNT Series
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pi&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ta.png" group-title="Lista 06", TNT Series HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ta&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0no.png" group-title="Lista 06", TV Oriente ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0no&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nw.png" group-title="Lista 06", TVChile
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nw&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o6.png" group-title="Lista 06", TVE
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0o6&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nr.png" group-title="Lista 06", TVM25 -  ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nr&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q1.png" group-title="Lista 06", Teen Nick HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q1&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p1.png" group-title="Lista 06", Tele Antillas - RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0p1&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rz.png" group-title="Lista 06", TeleMicro - RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rz&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qu.png" group-title="Lista 06", Telecentro - RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qu&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pf.png" group-title="Lista 06", Telemundo
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pf&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q9.png" group-title="Lista 06", Telemundo HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0q9&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p3.png" group-title="Lista 06", Telesistema RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0p3&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qr.png" group-title="Lista 06", Teleuniverso - RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0qr&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0of.png" group-title="Lista 06", Televida RD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0of&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sn.png" group-title="Lista 06", Tigo Sports HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sn&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s3.png" group-title="Lista 06", Tooncast
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s3&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pe.png" group-title="Lista 06", Tru TV
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0pe&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0om.png" group-title="Lista 06", UNIVERSAL CINEMA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0om&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v2.png" group-title="Lista 06", UNIVERSAL CINEMA HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0v2&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rl.png" group-title="Lista 06", UNIVERSAL COMEDY
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rl&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t1.png" group-title="Lista 06", UNIVERSAL COMEDY HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t1&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sj.png" group-title="Lista 06", UNIVERSAL CRIME
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sj&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t0.png" group-title="Lista 06", UNIVERSAL CRIME HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0t0&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ui.png" group-title="Lista 06", UNIVERSAL PREMIERE HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0ui&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uj.png" group-title="Lista 06", UNIVERSAL PREMIERE O HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0uj&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rj.png" group-title="Lista 06", UNIVERSAL REALITY
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rj&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sz.png" group-title="Lista 06", UNIVERSAL REALITY HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0sz&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v0.png" group-title="Lista 06", Univision HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0v0&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rn.png" group-title="Lista 06", VENUS
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0rn&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png" group-title="Lista 06", VTV Canal 35 ESA
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0r1&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tk.png" group-title="Lista 06", WARNER HD
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0tk&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s6.png" group-title="Lista 06", Warner
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0s6&f=.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nt.png" group-title="Lista 06", ZooMoo
+http://clubtv.link/agos8/agosto8/lista2.php?c=a0nt&f=.m3u8
