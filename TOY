@@ -1,314 +1,255 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", ULTIMA ACTUALIZACION 02/AGO/2022
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", ULTIMA ACTUALIZACION 09/AGO/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
-http://clubtv.link/agos8/agosto8/distro.php?c=euronews-spa&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
-http://clubtv.link/agos8/agosto8/distro.php?c=top-cine-latam&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
-http://clubtv.link/agos8/agosto8/distro.php?c=juntos&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
-http://clubtv.link/agos8/agosto8/distro.php?c=cine-real-latam&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
-http://clubtv.link/agos8/agosto8/distro.php?c=cine-sureno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
-http://clubtv.link/agos8/agosto8/distro.php?c=casa-comedy&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
-http://clubtv.link/agos8/agosto8/distro.php?c=spanglish&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
-http://clubtv.link/agos8/agosto8/distro.php?c=horrofy&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
-http://clubtv.link/agos8/agosto8/distro.php?c=wapptv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
-http://clubtv.link/agos8/agosto8/distro.php?c=tu.cine-latam&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
-http://clubtv.link/agos8/agosto8/distro.php?c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
-http://clubtv.link/agos8/agosto8/distro.php?c=saber-mas&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
-http://clubtv.link/agos8/agosto8/distro.php?c=flash-1&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
-http://clubtv.link/agos8/agosto8/distro.php?c=mmc&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
-http://clubtv.link/agos8/agosto8/distro.php?c=chiquilines&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/agos8/agosto8/distro.php?c=glewedtv-spanish&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",A3S
-http://clubtv.link/agos8/agosto8/lista1.php?c=41
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ADN40
-http://clubtv.link/agos8/agosto8/lista1.php?c=42
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Affizionados
-http://clubtv.link/agos8/agosto8/lista1.php?c=43
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AMC
-http://clubtv.link/agos8/agosto8/lista1.php?c=44
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Animal Planet
-http://clubtv.link/agos8/agosto8/lista1.php?c=45
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Antena 3
-http://clubtv.link/agos8/agosto8/lista1.php?c=46
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AXN
-http://clubtv.link/agos8/agosto8/lista1.php?c=47
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AXN White
-http://clubtv.link/agos8/agosto8/lista1.php?c=48
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AyM Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=49
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AZ Cinema
-http://clubtv.link/agos8/agosto8/lista1.php?c=50
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AZ Corazon
-http://clubtv.link/agos8/agosto8/lista1.php?c=51
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",AZ Mundo
-http://clubtv.link/agos8/agosto8/lista1.php?c=52
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Azteca 1
-http://clubtv.link/agos8/agosto8/lista1.php?c=53
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Azteca 7
-http://clubtv.link/agos8/agosto8/lista1.php?c=54
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Bandamax
-http://clubtv.link/agos8/agosto8/lista1.php?c=55
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",beIN Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=56
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",beIN Sports La Liga
-http://clubtv.link/agos8/agosto8/lista1.php?c=57
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Boomerang
-http://clubtv.link/agos8/agosto8/lista1.php?c=58
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Canal 11
-http://clubtv.link/agos8/agosto8/lista1.php?c=59
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Canal 5
-http://clubtv.link/agos8/agosto8/lista1.php?c=60
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Canal De Las Estrellas
-http://clubtv.link/agos8/agosto8/lista1.php?c=61
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Cartoon Network
-http://clubtv.link/agos8/agosto8/lista1.php?c=63
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",CineCanal
-http://clubtv.link/agos8/agosto8/lista1.php?c=64
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",CineLatino
-http://clubtv.link/agos8/agosto8/lista1.php?c=65
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Cinemax
-http://clubtv.link/agos8/agosto8/lista1.php?c=66
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",CNN en Espanol
-http://clubtv.link/agos8/agosto8/lista1.php?c=67
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Comedy Central
-http://clubtv.link/agos8/agosto8/lista1.php?c=68
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",De Pelicula
-http://clubtv.link/agos8/agosto8/lista1.php?c=69
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=70
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HGTV
-http://clubtv.link/agos8/agosto8/lista1.php?c=71
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery en Espanol
-http://clubtv.link/agos8/agosto8/lista1.php?c=72
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Familia
-http://clubtv.link/agos8/agosto8/lista1.php?c=73
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery H&H
-http://clubtv.link/agos8/agosto8/lista1.php?c=74
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery ID
-http://clubtv.link/agos8/agosto8/lista1.php?c=75
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Kids
-http://clubtv.link/agos8/agosto8/lista1.php?c=76
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Science
-http://clubtv.link/agos8/agosto8/lista1.php?c=77
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Theater
-http://clubtv.link/agos8/agosto8/lista1.php?c=78
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery TLC
-http://clubtv.link/agos8/agosto8/lista1.php?c=79
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery Turbo
-http://clubtv.link/agos8/agosto8/lista1.php?c=80
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Discovery World
-http://clubtv.link/agos8/agosto8/lista1.php?c=81
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Disney Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=82
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Disney Jr
-http://clubtv.link/agos8/agosto8/lista1.php?c=83
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Disney XD
-http://clubtv.link/agos8/agosto8/lista1.php?c=84
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Distrito Comedia
-http://clubtv.link/agos8/agosto8/lista1.php?c=85
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",E!
-http://clubtv.link/agos8/agosto8/lista1.php?c=86
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",El Garage
-http://clubtv.link/agos8/agosto8/lista1.php?c=87
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",El Gourmet
-http://clubtv.link/agos8/agosto8/lista1.php?c=88
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=90
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN 3
-http://clubtv.link/agos8/agosto8/lista1.php?c=91
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN Deportes
-http://clubtv.link/agos8/agosto8/lista1.php?c=92
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ESPN Plus
-http://clubtv.link/agos8/agosto8/lista1.php?c=93
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Estrella TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=94
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Food Network
-http://clubtv.link/agos8/agosto8/lista1.php?c=95
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Foro TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=96
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX
-http://clubtv.link/agos8/agosto8/lista1.php?c=97
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Crime
-http://clubtv.link/agos8/agosto8/lista1.php?c=98
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Un1versal Cinema
-http://clubtv.link/agos8/agosto8/lista1.php?c=99
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Reality
-http://clubtv.link/agos8/agosto8/lista1.php?c=101
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Premier
-http://clubtv.link/agos8/agosto8/lista1.php?c=103
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=105
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX Sports 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=106
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FOX Sports 3
-http://clubtv.link/agos8/agosto8/lista1.php?c=107
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FX
-http://clubtv.link/agos8/agosto8/lista1.php?c=111
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",FXM
-http://clubtv.link/agos8/agosto8/lista1.php?c=112
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Gala TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=113
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Glitz
-http://clubtv.link/agos8/agosto8/lista1.php?c=114
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Gol TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=115
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Golden EDGE
-http://clubtv.link/agos8/agosto8/lista1.php?c=116
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Golden Plus
-http://clubtv.link/agos8/agosto8/lista1.php?c=117
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO
-http://clubtv.link/agos8/agosto8/lista1.php?c=118
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=119
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO Family
-http://clubtv.link/agos8/agosto8/lista1.php?c=120
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO Plus
-http://clubtv.link/agos8/agosto8/lista1.php?c=121
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",History 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=122
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",History Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=123
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Hola TV
-http://clubtv.link/agos8/agosto8/lista1.php?c=124
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Imagen
-http://clubtv.link/agos8/agosto8/lista1.php?c=125
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Lifetime
-http://clubtv.link/agos8/agosto8/lista1.php?c=126
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",MasChic
-http://clubtv.link/agos8/agosto8/lista1.php?c=127
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO XTREME
-http://clubtv.link/agos8/agosto8/lista1.php?c=128
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO POP
-http://clubtv.link/agos8/agosto8/lista1.php?c=129
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Mexiquense
-http://clubtv.link/agos8/agosto8/lista1.php?c=130
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Multimedios
-http://clubtv.link/agos8/agosto8/lista1.php?c=131
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nat Geo Kids
-http://clubtv.link/agos8/agosto8/lista1.php?c=132
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nat Geo Mundo
-http://clubtv.link/agos8/agosto8/lista1.php?c=133
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nat Geo Wild
-http://clubtv.link/agos8/agosto8/lista1.php?c=134
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",National Geographic
-http://clubtv.link/agos8/agosto8/lista1.php?c=135
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nick
-http://clubtv.link/agos8/agosto8/lista1.php?c=136
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nick Jr
-http://clubtv.link/agos8/agosto8/lista1.php?c=137
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Nicktoons
-http://clubtv.link/agos8/agosto8/lista1.php?c=138
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Pasiones
-http://clubtv.link/agos8/agosto8/lista1.php?c=139
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Ritmoson
-http://clubtv.link/agos8/agosto8/lista1.php?c=141
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Showtime
-http://clubtv.link/agos8/agosto8/lista1.php?c=142
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Sony
-http://clubtv.link/agos8/agosto8/lista1.php?c=143
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Space
-http://clubtv.link/agos8/agosto8/lista1.php?c=144
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Starz
-http://clubtv.link/agos8/agosto8/lista1.php?c=145
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Starz Encore
-http://clubtv.link/agos8/agosto8/lista1.php?c=146
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Studio Universal
-http://clubtv.link/agos8/agosto8/lista1.php?c=147
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Sundance
-http://clubtv.link/agos8/agosto8/lista1.php?c=148
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",SyFy
-http://clubtv.link/agos8/agosto8/lista1.php?c=149
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TBS
-http://clubtv.link/agos8/agosto8/lista1.php?c=150
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TCM
-http://clubtv.link/agos8/agosto8/lista1.php?c=151
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Teleformula
-http://clubtv.link/agos8/agosto8/lista1.php?c=152
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Telehit
-http://clubtv.link/agos8/agosto8/lista1.php?c=153
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Telemundo Int
-http://clubtv.link/agos8/agosto8/lista1.php?c=154
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TLnovelas
-http://clubtv.link/agos8/agosto8/lista1.php?c=155
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TNT
-http://clubtv.link/agos8/agosto8/lista1.php?c=156
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TNT Series
-http://clubtv.link/agos8/agosto8/lista1.php?c=157
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Tooncast
-http://clubtv.link/agos8/agosto8/lista1.php?c=158
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TruTV
-http://clubtv.link/agos8/agosto8/lista1.php?c=159
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TUDN
-http://clubtv.link/agos8/agosto8/lista1.php?c=160
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TVC
-http://clubtv.link/agos8/agosto8/lista1.php?c=161
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TVC Deportes
-http://clubtv.link/agos8/agosto8/lista1.php?c=162
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",TyC Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=163
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Unicable
-http://clubtv.link/agos8/agosto8/lista1.php?c=173
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",UniMas
-http://clubtv.link/agos8/agosto8/lista1.php?c=174
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Universal Channel
-http://clubtv.link/agos8/agosto8/lista1.php?c=175
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",VH1
-http://clubtv.link/agos8/agosto8/lista1.php?c=176
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",VH1 Classic
-http://clubtv.link/agos8/agosto8/lista1.php?c=177
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Warner
-http://clubtv.link/agos8/agosto8/lista1.php?c=178
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",Win Sports
-http://clubtv.link/agos8/agosto8/lista1.php?c=179
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY TURBO
-http://clubtv.link/agos8/agosto8/lista1.php?c=3130
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",ANIMAL PLANET
-http://clubtv.link/agos8/agosto8/lista1.php?c=3131
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY CHANNEL
-http://clubtv.link/agos8/agosto8/lista1.php?c=3132
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HGTV
-http://clubtv.link/agos8/agosto8/lista1.php?c=3133
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY FAMILIA
-http://clubtv.link/agos8/agosto8/lista1.php?c=3134
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY H&H
-http://clubtv.link/agos8/agosto8/lista1.php?c=3135
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",DISCOVERY THEATHER
-http://clubtv.link/agos8/agosto8/lista1.php?c=3137
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",UNIVERSAL CINEMA ( STAR CINEMA)
-http://clubtv.link/agos8/agosto8/lista1.php?c=3144
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO 
-http://clubtv.link/agos8/agosto8/lista1.php?c=3145
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO 2
-http://clubtv.link/agos8/agosto8/lista1.php?c=3146
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO FAMILY
-http://clubtv.link/agos8/agosto8/lista1.php?c=3147
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO MUNDI 
-http://clubtv.link/agos8/agosto8/lista1.php?c=3148
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO POP
-http://clubtv.link/agos8/agosto8/lista1.php?c=3149
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO SIGNATURE
-http://clubtv.link/agos8/agosto8/lista1.php?c=3150
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO PLUS
-http://clubtv.link/agos8/agosto8/lista1.php?c=3151
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",HBO XTREME
-http://clubtv.link/agos8/agosto8/lista1.php?c=3152
-
+#EXTINF:-1  group-title="VIX",  40 Y 20
+http://clubtv.link/agos8/agosto9/vix.php?c=340.frequency.stream/340&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Adrenalina Sport
+http://clubtv.link/agos8/agosto9/vix.php?c=393.frequency.stream/393&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Afizzionados
+http://clubtv.link/agos8/agosto9/vix.php?c=348.frequency.stream/348&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Alegrijes Y Rebujos
+http://clubtv.link/agos8/agosto9/vix.php?c=319.frequency.stream/319&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Amigas Y Rivales
+http://clubtv.link/agos8/agosto9/vix.php?c=320.frequency.stream/320&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Amores Verdaderos
+http://clubtv.link/agos8/agosto9/vix.php?c=305.frequency.stream/305&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Aqui Y Ahora
+http://clubtv.link/agos8/agosto9/vix.php?c=306.frequency.stream/306&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Atv+
+http://clubtv.link/agos8/agosto9/vix.php?c=258.frequency.stream/258&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Bandamax
+http://clubtv.link/agos8/agosto9/vix.php?c=400.frequency.stream/400&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Bein Sports Xtra
+http://clubtv.link/agos8/agosto9/vix.php?c=256.frequency.stream/256&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Bitme
+http://clubtv.link/agos8/agosto9/vix.php?c=401.frequency.stream/401&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Canal 5 (Mx)
+http://clubtv.link/agos8/agosto9/vix.php?c=351.frequency.stream/351&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine 1
+http://clubtv.link/agos8/agosto9/vix.php?c=307.frequency.stream/307&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine 2
+http://clubtv.link/agos8/agosto9/vix.php?c=308.frequency.stream/308&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine 3
+http://clubtv.link/agos8/agosto9/vix.php?c=309.frequency.stream/309&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine Club - Prendetv
+http://clubtv.link/agos8/agosto9/vix.php?c=192.frequency.stream/192&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine Del Ayer
+http://clubtv.link/agos8/agosto9/vix.php?c=429.frequency.stream/429&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Clase 406
+http://clubtv.link/agos8/agosto9/vix.php?c=322.frequency.stream/322&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cnn Colombia
+http://clubtv.link/agos8/agosto9/vix.php?c=358.frequency.stream/358&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Comedy Tv
+http://clubtv.link/agos8/agosto9/vix.php?c=89.frequency.stream/89&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Como Dice El Dicho
+http://clubtv.link/agos8/agosto9/vix.php?c=341.frequency.stream/341&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Corazón Salvaje
+http://clubtv.link/agos8/agosto9/vix.php?c=325.frequency.stream/325&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Crónicas
+http://clubtv.link/agos8/agosto9/vix.php?c=315.frequency.stream/315&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cuidado Con El Angel
+http://clubtv.link/agos8/agosto9/vix.php?c=316.frequency.stream/316&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Del Mercado Al Plato
+http://clubtv.link/agos8/agosto9/vix.php?c=317.frequency.stream/317&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Distrito Comedia
+http://clubtv.link/agos8/agosto9/vix.php?c=405.frequency.stream/405&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Dpeliculas
+http://clubtv.link/agos8/agosto9/vix.php?c=354.frequency.stream/354&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Dpeliculas +
+http://clubtv.link/agos8/agosto9/vix.php?c=404.frequency.stream/404&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Durmiendo Con Mi Jefe
+http://clubtv.link/agos8/agosto9/vix.php?c=312.frequency.stream/312&f=.m3u8
+#EXTINF:-1  group-title="VIX",  El Privilegio De Mandar
+http://clubtv.link/agos8/agosto9/vix.php?c=313.frequency.stream/313&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Euronews
+http://clubtv.link/agos8/agosto9/vix.php?c=255.frequency.stream/255&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Failarmy
+http://clubtv.link/agos8/agosto9/vix.php?c=197.frequency.stream/197&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Familia P. Luche
+http://clubtv.link/agos8/agosto9/vix.php?c=311.frequency.stream/311&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Foro Tv
+http://clubtv.link/agos8/agosto9/vix.php?c=300.frequency.stream/300&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Fun Videos
+http://clubtv.link/agos8/agosto9/vix.php?c=121.frequency.stream/121&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Golden Edge
+http://clubtv.link/agos8/agosto9/vix.php?c=407.frequency.stream/407&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Golden Edge Sd
+http://clubtv.link/agos8/agosto9/vix.php?c=410.frequency.stream/410&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Golden Plus
+http://clubtv.link/agos8/agosto9/vix.php?c=414.frequency.stream/414&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Golden South
+http://clubtv.link/agos8/agosto9/vix.php?c=409.frequency.stream/409&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Golden South Sd
+http://clubtv.link/agos8/agosto9/vix.php?c=413.frequency.stream/413&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Héroes Del Norte
+http://clubtv.link/agos8/agosto9/vix.php?c=323.frequency.stream/323&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Juana La Virgen
+http://clubtv.link/agos8/agosto9/vix.php?c=327.frequency.stream/327&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Kids
+http://clubtv.link/agos8/agosto9/vix.php?c=355.frequency.stream/355&f=.m3u8
+#EXTINF:-1  group-title="VIX",  La Promesa
+http://clubtv.link/agos8/agosto9/vix.php?c=343.frequency.stream/343&f=.m3u8
+#EXTINF:-1  group-title="VIX",  La Rosa De Guadalupe
+http://clubtv.link/agos8/agosto9/vix.php?c=344.frequency.stream/344&f=.m3u8
+#EXTINF:-1  group-title="VIX",  La Selecc10n
+http://clubtv.link/agos8/agosto9/vix.php?c=345.frequency.stream/345&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Las Estrellas
+http://clubtv.link/agos8/agosto9/vix.php?c=415.frequency.stream/415&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Latidos Music
+http://clubtv.link/agos8/agosto9/vix.php?c=257.frequency.stream/257&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Level Up - Games
+http://clubtv.link/agos8/agosto9/vix.php?c=263.frequency.stream/263&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Lo Mejor De La Liga Mx - Prendetv
+http://clubtv.link/agos8/agosto9/vix.php?c=193.frequency.stream/193&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Lo Que Diga El Corazon
+http://clubtv.link/agos8/agosto9/vix.php?c=346.frequency.stream/346&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Local View
+http://clubtv.link/agos8/agosto9/vix.php?c=402.frequency.stream/402&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Local View 2
+http://clubtv.link/agos8/agosto9/vix.php?c=403.frequency.stream/403&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Love Nature
+http://clubtv.link/agos8/agosto9/vix.php?c=390.frequency.stream/390&f=.m3u8
+#EXTINF:-1  group-title="VIX",  María Mercedes
+http://clubtv.link/agos8/agosto9/vix.php?c=328.frequency.stream/328&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Media +
+http://clubtv.link/agos8/agosto9/vix.php?c=301.frequency.stream/301&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Mi Gorda Bella
+http://clubtv.link/agos8/agosto9/vix.php?c=334.frequency.stream/334&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Muchachitas
+http://clubtv.link/agos8/agosto9/vix.php?c=331.frequency.stream/331&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Muchachitas Como Tu
+http://clubtv.link/agos8/agosto9/vix.php?c=332.frequency.stream/332&f=.m3u8
+#EXTINF:-1  group-title="VIX",  My Time Movies
+http://clubtv.link/agos8/agosto9/vix.php?c=261.frequency.stream/261&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Noticias Univision 24/7
+http://clubtv.link/agos8/agosto9/vix.php?c=254.frequency.stream/254&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Novelas De Oro - Prendetv
+http://clubtv.link/agos8/agosto9/vix.php?c=196.frequency.stream/196&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Novelas De Romance - Prendetv
+http://clubtv.link/agos8/agosto9/vix.php?c=194.frequency.stream/194&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Novelas En Familia - Prendetv
+http://clubtv.link/agos8/agosto9/vix.php?c=195.frequency.stream/195&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Nuestra Vision
+http://clubtv.link/agos8/agosto9/vix.php?c=262.frequency.stream/262&f=.m3u8
+#EXTINF:-1  group-title="VIX",  GOlden
+http://clubtv.link/agos8/agosto9/vix.php?c=409.frequency.stream/409&f=.m3u8
+#EXTINF:-1  group-title="VIX",  GOlden
+http://clubtv.link/agos8/agosto9/vix.php?c=406.frequency.stream/406&f=.m3u8
+#EXTINF:-1  group-title="VIX",  GOlden Edge
+http://clubtv.link/agos8/agosto9/vix.php?c=407.frequency.stream/407&f=.m3u8
+#EXTINF:-1  group-title="VIX",  GOlden Plus
+http://clubtv.link/agos8/agosto9/vix.php?c=410.frequency.stream/410&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Papa A Toda Madre
+http://clubtv.link/agos8/agosto9/vix.php?c=336.frequency.stream/336&f=.m3u8
+#EXTINF:-1  group-title="VIX",  People Are Awesome
+http://clubtv.link/agos8/agosto9/vix.php?c=39.frequency.stream/39&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Que Bonito Amor
+http://clubtv.link/agos8/agosto9/vix.php?c=329.frequency.stream/329&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Rcn Mas
+http://clubtv.link/agos8/agosto9/vix.php?c=286.frequency.stream/286&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Rebelde
+http://clubtv.link/agos8/agosto9/vix.php?c=335.frequency.stream/335&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Retro Peli
+http://clubtv.link/agos8/agosto9/vix.php?c=304.frequency.stream/304&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Revry-Lgbtq Tv
+http://clubtv.link/agos8/agosto9/vix.php?c=139.frequency.stream/139&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Sortilegio
+http://clubtv.link/agos8/agosto9/vix.php?c=337.frequency.stream/337&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Soy Tu Dueña
+http://clubtv.link/agos8/agosto9/vix.php?c=318.frequency.stream/318&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Soy Tu Dueña
+http://clubtv.link/agos8/agosto9/vix.php?c=339.frequency.stream/339&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tele Musica
+http://clubtv.link/agos8/agosto9/vix.php?c=418.frequency.stream/418&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tele Musica+
+http://clubtv.link/agos8/agosto9/vix.php?c=419.frequency.stream/419&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Telehit
+http://clubtv.link/agos8/agosto9/vix.php?c=417.frequency.stream/417&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Teresa
+http://clubtv.link/agos8/agosto9/vix.php?c=342.frequency.stream/342&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Teresa
+http://clubtv.link/agos8/agosto9/vix.php?c=324.frequency.stream/324&f=.m3u8
+#EXTINF:-1  group-title="VIX",  The Weather Channel(Es)
+http://clubtv.link/agos8/agosto9/vix.php?c=431.frequency.stream/431&f=.m3u8
+#EXTINF:-1  group-title="VIX",  The Weather Channel(Es) Hd
+http://clubtv.link/agos8/agosto9/vix.php?c=453.frequency.stream/453&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tln Novelas
+http://clubtv.link/agos8/agosto9/vix.php?c=421.frequency.stream/421&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tn23
+http://clubtv.link/agos8/agosto9/vix.php?c=259.frequency.stream/259&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tres Veces Ana
+http://clubtv.link/agos8/agosto9/vix.php?c=321.frequency.stream/321&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Triunfo Del Amor
+http://clubtv.link/agos8/agosto9/vix.php?c=338.frequency.stream/338&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=373.frequency.stream/373&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=372.frequency.stream/372&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=376.frequency.stream/376&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=380.frequency.stream/380&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=375.frequency.stream/375&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=385.frequency.stream/385&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=386.frequency.stream/386&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=381.frequency.stream/381&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=379.frequency.stream/379&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=357.frequency.stream/357&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=347.frequency.stream/347&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=378.frequency.stream/378&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=383.frequency.stream/383&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=384.frequency.stream/384&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=377.frequency.stream/377&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=360.frequency.stream/360&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tudn
+http://clubtv.link/agos8/agosto9/vix.php?c=374.frequency.stream/374&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Tv Venta
+http://clubtv.link/agos8/agosto9/vix.php?c=352.frequency.stream/352&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Unicable
+http://clubtv.link/agos8/agosto9/vix.php?c=423.frequency.stream/423&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Unknown 101
+http://clubtv.link/agos8/agosto9/vix.php?c=330.frequency.stream/330&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Unknown 262
+http://clubtv.link/agos8/agosto9/vix.php?c=446.frequency.stream/446&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Vecinos
+http://clubtv.link/agos8/agosto9/vix.php?c=314.frequency.stream/314&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Vevo
+http://clubtv.link/agos8/agosto9/vix.php?c=389.frequency.stream/389&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Vevo
+http://clubtv.link/agos8/agosto9/vix.php?c=388.frequency.stream/388&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Videos Chistosos
+http://clubtv.link/agos8/agosto9/vix.php?c=46.frequency.stream/46&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Videos Chistosos 2
+http://clubtv.link/agos8/agosto9/vix.php?c=49.frequency.stream/49&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Vivo Play
+http://clubtv.link/agos8/agosto9/vix.php?c=260.frequency.stream/260&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine 
+http://clubtv.link/agos8/agosto9/vix.php?c=449.frequency.stream/449&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine Sd
+http://clubtv.link/agos8/agosto9/vix.php?c=450.frequency.stream/450&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Cine Sd
+http://clubtv.link/agos8/agosto9/vix.php?c=451.frequency.stream/451&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Deportes
+http://clubtv.link/agos8/agosto9/vix.php?c=452.frequency.stream/452&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Novelas
+http://clubtv.link/agos8/agosto9/vix.php?c=445.frequency.stream/445&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Novelas Hd
+http://clubtv.link/agos8/agosto9/vix.php?c=448.frequency.stream/448&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Novelas Sd
+http://clubtv.link/agos8/agosto9/vix.php?c=447.frequency.stream/447&f=.m3u8
+#EXTINF:-1  group-title="VIX",  Xh Derbez - Nosotros Los Guapos
+http://clubtv.link/agos8/agosto9/vix.php?c=310.frequency.stream/310&f=.m3u8
