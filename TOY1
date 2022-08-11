@@ -346,37 +346,6 @@ http://clubtv.link/10agos/agosto10/geomex.php?c=1732&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
 http://clubtv.link/10agos/agosto10/geomex.php?c=1787&f=.m3u8
 
-#EXTINF:-1 group-title="CINE Y SERIES", HBO Family
-http://clubtv.link/10agos/agosto10/lista1.php?c=a0cq&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO MUNDI
-http://clubtv.link/10agos/agosto10/lista1.php?c=a0bx&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO POP
-http://clubtv.link/10agos/agosto10/lista1.php?c=a0cv&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO Plus
-http://clubtv.link/10agos/agosto10/lista1.php?c=a0cs&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO Signature
-http://clubtv.link/10agos/agosto10/lista1.php?c=a0ct&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", HBO XTREME
-http://clubtv.link/10agos/agosto10/lista1.php?c=a0cr&f=.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",HBO 2 SD =
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3322&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Family SD =
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3323&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO SD =
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3299&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Mundi SD =
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3324&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Plus SD = 
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3321&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO POP SD =
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3159&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Signature SD=
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3325&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",HBO Xtreme SD =
-http://clubtv.link/10agos/agosto10/respaldo.php?c=3326&f=.m3u8
-
-
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
 http://clubtv.link/10agos/agosto10/geomex.php?c=211&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",MTV
@@ -665,46 +634,10 @@ http://clubtv.link/10agos/agosto10/vix.php?c=321.frequency.stream/321&f=.m3u8
 http://clubtv.link/10agos/agosto10/vix.php?c=338.frequency.stream/338&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Tudn
 http://clubtv.link/10agos/agosto10/vix.php?c=373.frequency.stream/373&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=372.frequency.stream/372&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=376.frequency.stream/376&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=380.frequency.stream/380&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=375.frequency.stream/375&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=385.frequency.stream/385&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=386.frequency.stream/386&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=381.frequency.stream/381&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=379.frequency.stream/379&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=357.frequency.stream/357&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=347.frequency.stream/347&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=378.frequency.stream/378&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=383.frequency.stream/383&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=384.frequency.stream/384&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=377.frequency.stream/377&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=360.frequency.stream/360&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/agosto10/vix.php?c=374.frequency.stream/374&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Tv Venta
 http://clubtv.link/10agos/agosto10/vix.php?c=352.frequency.stream/352&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Unicable
 http://clubtv.link/10agos/agosto10/vix.php?c=423.frequency.stream/423&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Unknown 101
-http://clubtv.link/10agos/agosto10/vix.php?c=330.frequency.stream/330&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Unknown 262
-http://clubtv.link/10agos/agosto10/vix.php?c=446.frequency.stream/446&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Vecinos
 http://clubtv.link/10agos/agosto10/vix.php?c=314.frequency.stream/314&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Vevo
