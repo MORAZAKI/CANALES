@@ -3,10 +3,7 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 12/AGOSTO/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-
 #EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
-http://clubtv.link/10agos/12agost/geomex.php?c=3315&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
 http://clubtv.link/10agos/12agost/geomex.php?c=3316&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
 http://clubtv.link/10agos/12agost/geomex.php?c=7&f=.m3u8
@@ -52,8 +49,6 @@ http://clubtv.link/10agos/12agost/geomex.php?c=1784&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=1785&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",ONCE HD 
 http://clubtv.link/10agos/12agost/geomex.php?c=1942&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MVS TV
-http://clubtv.link/10agos/12agost/geomex.php?c=2149&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",TVC
 http://clubtv.link/10agos/12agost/geomex.php?c=2156&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",CANAL 4 
@@ -75,15 +70,10 @@ http://clubtv.link/10agos/12agost/geomex.php?c=2606&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
 http://clubtv.link/10agos/12agost/geomex.php?c=2882&f=.m3u8
 
-
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
 http://clubtv.link/10agos/12agost/geomex.php?c=108&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
 http://clubtv.link/10agos/12agost/geomex.php?c=109&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICK
-http://clubtv.link/10agos/12agost/geomex.php?c=110&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY XD
-http://clubtv.link/10agos/12agost/geomex.php?c=111&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
 http://clubtv.link/10agos/12agost/geomex.php?c=112&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
@@ -102,36 +92,23 @@ http://clubtv.link/10agos/12agost/geomex.php?c=1708&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=1984&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",NICK 2  
 http://clubtv.link/10agos/12agost/geomex.php?c=2147&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NAT GEO KIDS  
-http://clubtv.link/10agos/12agost/geomex.php?c=2373&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",BIT ME  
 http://clubtv.link/10agos/12agost/geomex.php?c=2591&f=.m3u8
 
-
-#EXTINF:-1 group-title="CULTURA",DISCOVERY ID
-http://clubtv.link/10agos/12agost/geomex.php?c=68&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",GARAGE TV 
 http://clubtv.link/10agos/12agost/geomex.php?c=75&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
 http://clubtv.link/10agos/12agost/geomex.php?c=86&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
-http://clubtv.link/10agos/12agost/geomex.php?c=88&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",HISTORY
 http://clubtv.link/10agos/12agost/geomex.php?c=89&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",NAT GEO  
 http://clubtv.link/10agos/12agost/geomex.php?c=91&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",NAT GEO WILD
-http://clubtv.link/10agos/12agost/geomex.php?c=92&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER
 http://clubtv.link/10agos/12agost/geomex.php?c=95&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",H&H
 http://clubtv.link/10agos/12agost/geomex.php?c=96&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",TLC
-http://clubtv.link/10agos/12agost/geomex.php?c=97&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE  
 http://clubtv.link/10agos/12agost/geomex.php?c=98&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CIVILIZATION
-http://clubtv.link/10agos/12agost/geomex.php?c=99&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD
 http://clubtv.link/10agos/12agost/geomex.php?c=101&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",TVE
@@ -146,7 +123,6 @@ http://clubtv.link/10agos/12agost/geomex.php?c=2375&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=2379&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
 http://clubtv.link/10agos/12agost/geomex.php?c=2594&f=.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
 http://clubtv.link/10agos/12agost/distro.php?c=euronews-spa&f=.m3u8
@@ -201,8 +177,6 @@ http://clubtv.link/10agos/12agost/geomex.php?c=60&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=62&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
 http://clubtv.link/10agos/12agost/geomex.php?c=64&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE SD
-http://clubtv.link/10agos/12agost/geomex.php?c=66&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
 http://clubtv.link/10agos/12agost/geomex.php?c=69&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",sun SERIES
@@ -211,8 +185,6 @@ http://clubtv.link/10agos/12agost/geomex.php?c=71&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=76&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET 
 http://clubtv.link/10agos/12agost/geomex.php?c=74&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
-http://clubtv.link/10agos/12agost/geomex.php?c=77&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
 http://clubtv.link/10agos/12agost/geomex.php?c=78&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
@@ -237,15 +209,12 @@ http://clubtv.link/10agos/12agost/geomex.php?c=215&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=219&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://clubtv.link/10agos/12agost/geomex.php?c=340&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
-http://clubtv.link/10agos/12agost/geomex.php?c=341&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
 http://clubtv.link/10agos/12agost/geomex.php?c=1499&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
 http://clubtv.link/10agos/12agost/geomex.php?c=1842&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
 http://clubtv.link/10agos/12agost/geomex.php?c=2113&f=.m3u8
-
 
 #EXTINF:-1 group-title="CINE Y SERIES",TNT 
 http://clubtv.link/10agos/12agost/geomex.php?c=126&f=.m3u8
@@ -279,16 +248,9 @@ http://clubtv.link/10agos/12agost/geomex.php?c=135&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=136&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
 http://clubtv.link/10agos/12agost/geomex.php?c=137&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FXM
-http://clubtv.link/10agos/12agost/geomex.php?c=138&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
 http://clubtv.link/10agos/12agost/geomex.php?c=332&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
-http://clubtv.link/10agos/12agost/geomex.php?c=139&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
 http://clubtv.link/10agos/12agost/geomex.php?c=140&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
-http://clubtv.link/10agos/12agost/geomex.php?c=146&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
 http://clubtv.link/10agos/12agost/geomex.php?c=149&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
@@ -297,14 +259,8 @@ http://clubtv.link/10agos/12agost/geomex.php?c=158&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=328&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
 http://clubtv.link/10agos/12agost/geomex.php?c=335&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
-http://clubtv.link/10agos/12agost/geomex.php?c=336&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
 http://clubtv.link/10agos/12agost/geomex.php?c=1726&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
-http://clubtv.link/10agos/12agost/geomex.php?c=1729&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
-http://clubtv.link/10agos/12agost/geomex.php?c=1732&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
 http://clubtv.link/10agos/12agost/geomex.php?c=1787&f=.m3u8
 
@@ -318,7 +274,6 @@ http://clubtv.link/10agos/12agost/lista2.php?c=a0ot&f=.m3u8
 http://clubtv.link/10agos/12agost/lista2.php?c=a0ov&f=.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="TV PREMIUM", HBO2 HD
 http://clubtv.link/10agos/12agost/lista2.php?c=a0os&f=.m3u8
-
 
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
 http://clubtv.link/10agos/12agost/geomex.php?c=211&f=.m3u8
@@ -340,7 +295,6 @@ http://clubtv.link/10agos/12agost/geomex.php?c=221&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=223&f=.m3u8
 #EXTINF:-1 group-title="MUSICA",VH1 HD
 http://clubtv.link/10agos/12agost/geomex.php?c=334&f=.m3u8
-
 
 #EXTINF:-1 group-title="NOTICIAS",FOROTV HD
 http://clubtv.link/10agos/12agost/geomex.php?c=4&f=.m3u8
@@ -368,8 +322,6 @@ http://clubtv.link/10agos/12agost/geomex.php?c=191&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=192&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",NTN 24
 http://clubtv.link/10agos/12agost/geomex.php?c=194&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
-http://clubtv.link/10agos/12agost/geomex.php?c=196&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",HLN
 http://clubtv.link/10agos/12agost/geomex.php?c=197&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",DW 
@@ -388,7 +340,6 @@ http://clubtv.link/10agos/12agost/geomex.php?c=1649&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=2091&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS",FRANCE 24
 http://clubtv.link/10agos/12agost/geomex.php?c=2402&f=.m3u8
-
 
 #EXTINF:-1 group-title="DEPORTES",ESPN + 
 http://clubtv.link/10agos/12agost/geomex.php?c=167&f=.m3u8
@@ -416,15 +367,12 @@ http://clubtv.link/10agos/12agost/geomex.php?c=1049&f=.m3u8
 http://clubtv.link/10agos/12agost/geomex.php?c=1799&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",LAS
 http://clubtv.link/10agos/12agost/geomex.php?c=2089&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",HAVOC
-http://clubtv.link/10agos/12agost/geomex.php?c=2148&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
 http://clubtv.link/10agos/12agost/geomex.php?c=2157&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD  
 http://clubtv.link/10agos/12agost/geomex.php?c=2564&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
 http://clubtv.link/10agos/12agost/geomex.php?c=2587&f=.m3u8
-
 
 #EXTINF:-1  group-title="VIX",  40 Y 20
 http://clubtv.link/10agos/12agost/vix.php?c=340.frequency.stream/340&f=.m3u8
@@ -606,40 +554,8 @@ http://clubtv.link/10agos/12agost/vix.php?c=259.frequency.stream/259&f=.m3u8
 http://clubtv.link/10agos/12agost/vix.php?c=321.frequency.stream/321&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Triunfo Del Amor
 http://clubtv.link/10agos/12agost/vix.php?c=338.frequency.stream/338&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
+#EXTINF:-1  group-title="VIX",  TUDN
 http://clubtv.link/10agos/12agost/vix.php?c=373.frequency.stream/373&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=372.frequency.stream/372&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=376.frequency.stream/376&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=380.frequency.stream/380&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=375.frequency.stream/375&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=385.frequency.stream/385&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=386.frequency.stream/386&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=381.frequency.stream/381&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=379.frequency.stream/379&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=357.frequency.stream/357&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=347.frequency.stream/347&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=378.frequency.stream/378&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=383.frequency.stream/383&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=384.frequency.stream/384&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=377.frequency.stream/377&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=360.frequency.stream/360&f=.m3u8
-#EXTINF:-1  group-title="VIX",  Tudn
-http://clubtv.link/10agos/12agost/vix.php?c=374.frequency.stream/374&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Tv Venta
 http://clubtv.link/10agos/12agost/vix.php?c=352.frequency.stream/352&f=.m3u8
 #EXTINF:-1  group-title="VIX",  Unicable
