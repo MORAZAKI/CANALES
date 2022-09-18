@@ -1,10 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", PELEA CANELO ESPN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", ACTUALIZACION 18/SEP/2021
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png" group-title="TV PREMIUM", ESPN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0se&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
 http://clubtv.link/14sep/token17922/distro.php?c=euronews-spa&f=.m3u8
@@ -40,435 +39,256 @@ http://clubtv.link/14sep/token17922/distro.php?c=chiquilines&f=.m3u8
 http://clubtv.link/14sep/token17922/distro.php?c=glewedtv-spanish&f=.m3u8
 
 
+#EXTINF:-1 group-title="TV PREMIUM",  A3S
+http://clubtv.link/14sep/token17922/lista3.php?c=41f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  ADN40
+http://clubtv.link/14sep/token17922/lista3.php?c=42f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Affizionados
+http://clubtv.link/14sep/token17922/lista3.php?c=43f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  AMC
+http://clubtv.link/14sep/token17922/lista3.php?c=44f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Animal Planet
+http://clubtv.link/14sep/token17922/lista3.php?c=45f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Antena 3
+http://clubtv.link/14sep/token17922/lista3.php?c=46f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  AXN
+http://clubtv.link/14sep/token17922/lista3.php?c=47f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  AXN White
+http://clubtv.link/14sep/token17922/lista3.php?c=48f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  AyM Sports
+http://clubtv.link/14sep/token17922/lista3.php?c=49f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  AZ Cinema
+http://clubtv.link/14sep/token17922/lista3.php?c=50f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  AZ Corazon
+http://clubtv.link/14sep/token17922/lista3.php?c=51f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  AZ Mundo
+http://clubtv.link/14sep/token17922/lista3.php?c=52f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Azteca 1
+http://clubtv.link/14sep/token17922/lista3.php?c=53f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Azteca 7
+http://clubtv.link/14sep/token17922/lista3.php?c=54f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Bandamax
+http://clubtv.link/14sep/token17922/lista3.php?c=55f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  beIN Sports
+http://clubtv.link/14sep/token17922/lista3.php?c=56f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  beIN Sports La Liga
+http://clubtv.link/14sep/token17922/lista3.php?c=57f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Boomerang
+http://clubtv.link/14sep/token17922/lista3.php?c=58f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Canal 11
+http://clubtv.link/14sep/token17922/lista3.php?c=59f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Canal 5
+http://clubtv.link/14sep/token17922/lista3.php?c=60f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Canal De Las Estrellas
+http://clubtv.link/14sep/token17922/lista3.php?c=61f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", COLOMBIA | Caracol
+http://clubtv.link/14sep/token17922/lista3.php?c=62f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Cartoon Network
+http://clubtv.link/14sep/token17922/lista3.php?c=63f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  CineCanal
+http://clubtv.link/14sep/token17922/lista3.php?c=64f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  CineLatino
+http://clubtv.link/14sep/token17922/lista3.php?c=65f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Cinemax
+http://clubtv.link/14sep/token17922/lista3.php?c=66f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  CNN en Espanol
+http://clubtv.link/14sep/token17922/lista3.php?c=67f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Comedy Central
+http://clubtv.link/14sep/token17922/lista3.php?c=68f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  De Pelicula
+http://clubtv.link/14sep/token17922/lista3.php?c=69f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery Channel
+http://clubtv.link/14sep/token17922/lista3.php?c=70f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  HGTV
+http://clubtv.link/14sep/token17922/lista3.php?c=71f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery en Espanol
+http://clubtv.link/14sep/token17922/lista3.php?c=72f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery Familia
+http://clubtv.link/14sep/token17922/lista3.php?c=73f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery H&H
+http://clubtv.link/14sep/token17922/lista3.php?c=74f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery ID
+http://clubtv.link/14sep/token17922/lista3.php?c=75f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery Kids
+http://clubtv.link/14sep/token17922/lista3.php?c=76f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery Science
+http://clubtv.link/14sep/token17922/lista3.php?c=77f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery Theater
+http://clubtv.link/14sep/token17922/lista3.php?c=78f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery TLC
+http://clubtv.link/14sep/token17922/lista3.php?c=79f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery Turbo
+http://clubtv.link/14sep/token17922/lista3.php?c=80f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Discovery World
+http://clubtv.link/14sep/token17922/lista3.php?c=81f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Disney Channel
+http://clubtv.link/14sep/token17922/lista3.php?c=82f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Disney Jr
+http://clubtv.link/14sep/token17922/lista3.php?c=83f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Disney XD
+http://clubtv.link/14sep/token17922/lista3.php?c=84f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Distrito Comedia
+http://clubtv.link/14sep/token17922/lista3.php?c=85f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  E!
+http://clubtv.link/14sep/token17922/lista3.php?c=86f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  El Garage
+http://clubtv.link/14sep/token17922/lista3.php?c=87f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  El Gourmet
+http://clubtv.link/14sep/token17922/lista3.php?c=88f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  ESPN 2
+http://clubtv.link/14sep/token17922/lista3.php?c=90f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  ESPN 3
+http://clubtv.link/14sep/token17922/lista3.php?c=91f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  ESPN Deportes
+http://clubtv.link/14sep/token17922/lista3.php?c=92f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  ESPN Plus
+http://clubtv.link/14sep/token17922/lista3.php?c=93f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Estrella TV
+http://clubtv.link/14sep/token17922/lista3.php?c=94f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Food Network
+http://clubtv.link/14sep/token17922/lista3.php?c=95f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Foro TV
+http://clubtv.link/14sep/token17922/lista3.php?c=96f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  FOX
+http://clubtv.link/14sep/token17922/lista3.php?c=97f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Universal Crime
+http://clubtv.link/14sep/token17922/lista3.php?c=98f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Un1versal Cinema
+http://clubtv.link/14sep/token17922/lista3.php?c=99f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Universal Reality
+http://clubtv.link/14sep/token17922/lista3.php?c=101f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Universal Premier
+http://clubtv.link/14sep/token17922/lista3.php?c=103f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  FOX Sports
+http://clubtv.link/14sep/token17922/lista3.php?c=105f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  FOX Sports 2
+http://clubtv.link/14sep/token17922/lista3.php?c=106f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  FOX Sports 3
+http://clubtv.link/14sep/token17922/lista3.php?c=107f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", USA | FS1
+http://clubtv.link/14sep/token17922/lista3.php?c=108f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", USA | FS2
+http://clubtv.link/14sep/token17922/lista3.php?c=109f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CANADA | SPORTSNET EAST
+http://clubtv.link/14sep/token17922/lista3.php?c=110f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  FX
+http://clubtv.link/14sep/token17922/lista3.php?c=111f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  FXM
+http://clubtv.link/14sep/token17922/lista3.php?c=112f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Gala TV
+http://clubtv.link/14sep/token17922/lista3.php?c=113f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Glitz
+http://clubtv.link/14sep/token17922/lista3.php?c=114f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Gol TV
+http://clubtv.link/14sep/token17922/lista3.php?c=115f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Golden EDGE
+http://clubtv.link/14sep/token17922/lista3.php?c=116f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Golden Plus
+http://clubtv.link/14sep/token17922/lista3.php?c=117f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  HBO
+http://clubtv.link/14sep/token17922/lista3.php?c=118f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  HBO 2
+http://clubtv.link/14sep/token17922/lista3.php?c=119f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  HBO Family
+http://clubtv.link/14sep/token17922/lista3.php?c=120f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  HBO Plus
+http://clubtv.link/14sep/token17922/lista3.php?c=121f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  History 2
+http://clubtv.link/14sep/token17922/lista3.php?c=122f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  History Channel
+http://clubtv.link/14sep/token17922/lista3.php?c=123f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Hola TV
+http://clubtv.link/14sep/token17922/lista3.php?c=124f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Imagen
+http://clubtv.link/14sep/token17922/lista3.php?c=125f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Lifetime
+http://clubtv.link/14sep/token17922/lista3.php?c=126f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  MasChic
+http://clubtv.link/14sep/token17922/lista3.php?c=127f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  HBO XTREME
+http://clubtv.link/14sep/token17922/lista3.php?c=128f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  HBO POP
+http://clubtv.link/14sep/token17922/lista3.php?c=129f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Mexiquense
+http://clubtv.link/14sep/token17922/lista3.php?c=130f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Multimedios
+http://clubtv.link/14sep/token17922/lista3.php?c=131f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Nat Geo Kids
+http://clubtv.link/14sep/token17922/lista3.php?c=132f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Nat Geo Mundo
+http://clubtv.link/14sep/token17922/lista3.php?c=133f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Nat Geo Wild
+http://clubtv.link/14sep/token17922/lista3.php?c=134f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  National Geographic
+http://clubtv.link/14sep/token17922/lista3.php?c=135f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Nick
+http://clubtv.link/14sep/token17922/lista3.php?c=136f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Nick Jr
+http://clubtv.link/14sep/token17922/lista3.php?c=137f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Nicktoons
+http://clubtv.link/14sep/token17922/lista3.php?c=138f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Pasiones
+http://clubtv.link/14sep/token17922/lista3.php?c=139f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", COLOMBIA | RCN
+http://clubtv.link/14sep/token17922/lista3.php?c=140f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Ritmoson
+http://clubtv.link/14sep/token17922/lista3.php?c=141f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Showtime
+http://clubtv.link/14sep/token17922/lista3.php?c=142f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Sony
+http://clubtv.link/14sep/token17922/lista3.php?c=143f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Space
+http://clubtv.link/14sep/token17922/lista3.php?c=144f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Starz
+http://clubtv.link/14sep/token17922/lista3.php?c=145f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Starz Encore
+http://clubtv.link/14sep/token17922/lista3.php?c=146f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Studio Universal
+http://clubtv.link/14sep/token17922/lista3.php?c=147f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Sundance
+http://clubtv.link/14sep/token17922/lista3.php?c=148f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  SyFy
+http://clubtv.link/14sep/token17922/lista3.php?c=149f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TBS
+http://clubtv.link/14sep/token17922/lista3.php?c=150f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TCM
+http://clubtv.link/14sep/token17922/lista3.php?c=151f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Teleformula
+http://clubtv.link/14sep/token17922/lista3.php?c=152f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Telehit
+http://clubtv.link/14sep/token17922/lista3.php?c=153f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Telemundo Int
+http://clubtv.link/14sep/token17922/lista3.php?c=154f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TLnovelas
+http://clubtv.link/14sep/token17922/lista3.php?c=155f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TNT
+http://clubtv.link/14sep/token17922/lista3.php?c=156f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TNT Series
+http://clubtv.link/14sep/token17922/lista3.php?c=157f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Tooncast
+http://clubtv.link/14sep/token17922/lista3.php?c=158f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TruTV
+http://clubtv.link/14sep/token17922/lista3.php?c=159f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TUDN
+http://clubtv.link/14sep/token17922/lista3.php?c=160f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TVC
+http://clubtv.link/14sep/token17922/lista3.php?c=161f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TVC Deportes
+http://clubtv.link/14sep/token17922/lista3.php?c=162f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  TyC Sports
+http://clubtv.link/14sep/token17922/lista3.php?c=163f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Unicable
+http://clubtv.link/14sep/token17922/lista3.php?c=173f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  UniMas
+http://clubtv.link/14sep/token17922/lista3.php?c=174f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Universal Channel
+http://clubtv.link/14sep/token17922/lista3.php?c=175f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  VH1
+http://clubtv.link/14sep/token17922/lista3.php?c=176f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  VH1 Classic
+http://clubtv.link/14sep/token17922/lista3.php?c=177f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Warner
+http://clubtv.link/14sep/token17922/lista3.php?c=178f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",  Win Sports
+http://clubtv.link/14sep/token17922/lista3.php?c=179f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s8.png" group-title="TV PREMIUM", A&E
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q7.png" group-title="TV PREMIUM", A&E HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pr.png" group-title="TV PREMIUM", AMC
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pr&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q8.png" group-title="TV PREMIUM", AMC HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png" group-title="TV PREMIUM", AXN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pp&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png" group-title="TV PREMIUM", AXN HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0us&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png" group-title="TV PREMIUM", AZ click HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qe&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sb.png" group-title="TV PREMIUM", Animal Planet
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sb&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png" group-title="TV PREMIUM", Animal Planet HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nv.png" group-title="TV PREMIUM", Antena 3
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nv&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p2.png" group-title="TV PREMIUM", Antena 7- RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0p2&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o1.png" group-title="TV PREMIUM", Atres Series
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pg.png" group-title="TV PREMIUM", Azcorazon
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pg&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s4.png" group-title="TV PREMIUM", Azmundo
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pt.png" group-title="TV PREMIUM", BBC World
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pt&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r3.png" group-title="TV PREMIUM", Baby First
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ns.png" group-title="TV PREMIUM", Baby TV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ns&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qt.png" group-title="TV PREMIUM", CANAL 13 - NI
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qt&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png" group-title="TV PREMIUM", CARTOON NT HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0op&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pc.png" group-title="TV PREMIUM", CCN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pc&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qq.png" group-title="TV PREMIUM", CDN2- RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qq&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s1.png" group-title="TV PREMIUM", CDN37 - RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tt.png" group-title="TV PREMIUM", CERTV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tt&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png" group-title="TV PREMIUM", CINECANAL HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sl&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o7.png" group-title="TV PREMIUM", CNN Internacional
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ps.png" group-title="TV PREMIUM", CNNE
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ps&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ty.png" group-title="TV PREMIUM", Canal  21 - ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ty&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o0.png" group-title="TV PREMIUM", Canal 10 - ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o0&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o8.png" group-title="TV PREMIUM", Canal 10 HD - ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qj.png" group-title="TV PREMIUM", Canal 11 - GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qj&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ql.png" group-title="TV PREMIUM", Canal 12 - ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ql&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p5.png" group-title="TV PREMIUM", Canal 13 - PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0p5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qi.png" group-title="TV PREMIUM", Canal 13-GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qi&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qo.png" group-title="TV PREMIUM", Canal 14 - NIC
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qo&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r2.png" group-title="TV PREMIUM", Canal 19  ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r2&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ru.png" group-title="TV PREMIUM", Canal 2 - ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ru&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rx.png" group-title="TV PREMIUM", Canal 2 - NIC
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rx&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p6.png" group-title="TV PREMIUM", Canal 2 - PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0p6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tp.png" group-title="TV PREMIUM", Canal 25
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tp&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rs.png" group-title="TV PREMIUM", Canal 3 - GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rs&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tz.png" group-title="TV PREMIUM", Canal 3 Telesistemas HND
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tz&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rt.png" group-title="TV PREMIUM", Canal 4 - ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rt&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tv.png" group-title="TV PREMIUM", Canal 4 - NIC
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tv&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tx.png" group-title="TV PREMIUM", Canal 4 - PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tx&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qk.png" group-title="TV PREMIUM", Canal 6 - ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qk&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qs.png" group-title="TV PREMIUM", Canal 6 - NI
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qs&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rr.png" group-title="TV PREMIUM", Canal 7 - GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rr&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rp.png" group-title="TV PREMIUM", Canal Antigua - GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rp&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rq.png" group-title="TV PREMIUM", Canal Azteca - GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rq&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oy.png" group-title="TV PREMIUM", Canal Claro
-http://clubtv.link/14sep/token17922/lista1.php?c=a0oy&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oo.png" group-title="TV PREMIUM", Canal Claro HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0oo&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u0.png" group-title="TV PREMIUM", Canal VTV HND
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u0&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0np.png" group-title="TV PREMIUM", Canal del Congreso
-http://clubtv.link/14sep/token17922/lista1.php?c=a0np&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png" group-title="TV PREMIUM", Cartoon Network
-http://clubtv.link/14sep/token17922/lista1.php?c=a0p8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pa.png" group-title="TV PREMIUM", Cartoonito
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pa&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uf.png" group-title="TV PREMIUM", Cine Latino
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uf&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tl.png" group-title="TV PREMIUM", Cine Latino
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tl&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tq.png" group-title="TV PREMIUM", Cine Latino P
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tq&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ui.png" group-title="TV PREMIUM", CineCanal
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ui&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ug.png" group-title="TV PREMIUM", CineMax
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ug&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sh.png" group-title="TV PREMIUM", Claro Cinema
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sh&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0re.png" group-title="TV PREMIUM", Claro Musica
-http://clubtv.link/14sep/token17922/lista1.php?c=a0re&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0on.png" group-title="TV PREMIUM", Claro Sports  HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0on&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o2.png" group-title="TV PREMIUM", Claro Sports PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o2&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ra.png" group-title="TV PREMIUM", Claro Sports SD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ra&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s0.png" group-title="TV PREMIUM", Color Vision 9 - RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s0&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ub.png" group-title="TV PREMIUM", Concert Channel
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ub&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oq.png" group-title="TV PREMIUM", Concert Channel HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0oq&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ok.png" group-title="TV PREMIUM", DHE
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ok&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qd.png" group-title="TV PREMIUM", DHE HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qd&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qp.png" group-title="TV PREMIUM", Digital 15 - RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qp&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sa.png" group-title="TV PREMIUM", Discovery Channel
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sa&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tb.png" group-title="TV PREMIUM", Discovery Channel HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tb&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u6.png" group-title="TV PREMIUM", Discovery Home & Health
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tf.png" group-title="TV PREMIUM", Discovery ID HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tf&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u1.png" group-title="TV PREMIUM", Discovery Kids
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ob.png" group-title="TV PREMIUM", Discovery Kids HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ob&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ny.png" group-title="TV PREMIUM", Discovery Science
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ny&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u5.png" group-title="TV PREMIUM", Discovery Turbo
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tc.png" group-title="TV PREMIUM", Discovery World HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tc&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u3.png" group-title="TV PREMIUM", Disney
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pb.png" group-title="TV PREMIUM", Disney JR
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pb&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s7.png" group-title="TV PREMIUM", E!
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q5.png" group-title="TV PREMIUM", E! Entertairment HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png" group-title="TV PREMIUM", ESPN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0se&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0py.png" group-title="TV PREMIUM", ESPN  +
-http://clubtv.link/14sep/token17922/lista1.php?c=a0py&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png" group-title="TV PREMIUM", ESPN 2
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sf&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t6.png" group-title="TV PREMIUM", ESPN 2 HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0t6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rb.png" group-title="TV PREMIUM", ESPN 3
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rb&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t5.png" group-title="TV PREMIUM", ESPN 3 HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0t5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u9.png" group-title="TV PREMIUM", ESPN 4
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ur.png" group-title="TV PREMIUM", ESPN 4  HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ur&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uv.png" group-title="TV PREMIUM", ESPN Deportes HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uv&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t4.png" group-title="TV PREMIUM", ESPN HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0t4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tn.png" group-title="TV PREMIUM", ESPN4 HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tn&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0to.png" group-title="TV PREMIUM", ESPN4 SD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0to&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r6.png" group-title="TV PREMIUM", EURO Channel
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pw.png" group-title="TV PREMIUM", EWTN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pw&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png" group-title="TV PREMIUM", El Gourmet
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qb.png" group-title="TV PREMIUM", Europa HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qb&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sg.png" group-title="TV PREMIUM", Exa TV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sg&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t7.png" group-title="TV PREMIUM", FOX SPORTS 3 HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0t7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rc.png" group-title="TV PREMIUM", FOX Sports 2
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rc&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tu.png" group-title="TV PREMIUM", FUTV CR
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tu&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t3.png" group-title="TV PREMIUM", FUTV HD CR
-http://clubtv.link/14sep/token17922/lista1.php?c=a0t3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r4.png" group-title="TV PREMIUM", FX
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qa.png" group-title="TV PREMIUM", FX HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qa&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oj.png" group-title="TV PREMIUM", Film & Arts
-http://clubtv.link/14sep/token17922/lista1.php?c=a0oj&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q6.png" group-title="TV PREMIUM", Film & arts HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pm.png" group-title="TV PREMIUM", Fox Sport 3
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pm&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pu.png" group-title="TV PREMIUM", France24
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pu&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="TV PREMIUM", Golden
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rh&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o3.png" group-title="TV PREMIUM", Golf Channel
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qg.png" group-title="TV PREMIUM", Golf Channel HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qg&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oz.png" group-title="TV PREMIUM", Guatevision - GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0oz&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png" group-title="TV PREMIUM", H2
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uj.png" group-title="TV PREMIUM", HBO
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uj&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0um.png" group-title="TV PREMIUM", HBO Family
-http://clubtv.link/14sep/token17922/lista1.php?c=a0um&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="TV PREMIUM", HBO Family HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ou&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="TV PREMIUM", HBO HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0or&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ul.png" group-title="TV PREMIUM", HBO Plus
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ul&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="TV PREMIUM", HBO Plus HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ot&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0un.png" group-title="TV PREMIUM", HBO XTREME
-http://clubtv.link/14sep/token17922/lista1.php?c=a0un&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="TV PREMIUM", HBO XTREME
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ov&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uk.png" group-title="TV PREMIUM", HBO2
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uk&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="TV PREMIUM", HBO2 HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0os&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rg.png" group-title="TV PREMIUM", HTV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rg&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sc.png" group-title="TV PREMIUM", History Channel
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sc&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png" group-title="TV PREMIUM", History HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0px&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nz.png" group-title="TV PREMIUM", Hola!TV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nz&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nx.png" group-title="TV PREMIUM", Home Garden Latino
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nx&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u7.png" group-title="TV PREMIUM", ID
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ud.png" group-title="TV PREMIUM", ISAT
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ud&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pl.png" group-title="TV PREMIUM", LIFE TIME
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pl&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u8.png" group-title="TV PREMIUM", La voz de Maria
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rd.png" group-title="TV PREMIUM", Latin America Sport
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rd&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qx.png" group-title="TV PREMIUM", MASTV - PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qx&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ua.png" group-title="TV PREMIUM", MTV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ua&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rf.png" group-title="TV PREMIUM", MTV 00s
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rf&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0po.png" group-title="TV PREMIUM", MTV 80s
-http://clubtv.link/14sep/token17922/lista1.php?c=a0po&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pz.png" group-title="TV PREMIUM", MTV HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pz&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pn.png" group-title="TV PREMIUM", MTV Hits
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pn&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nu.png" group-title="TV PREMIUM", Mas Chic
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nu&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o5.png" group-title="TV PREMIUM", Multicinema
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0og.png" group-title="TV PREMIUM", Multimedios
-http://clubtv.link/14sep/token17922/lista1.php?c=a0og&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ue.png" group-title="TV PREMIUM", Multipremier
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ue&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qw.png" group-title="TV PREMIUM", NEXT - PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qw&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t8.png" group-title="TV PREMIUM", Nat Geo HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0t8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pk.png" group-title="TV PREMIUM", National Geographic
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pk&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p9.png" group-title="TV PREMIUM", Nick Jr
-http://clubtv.link/14sep/token17922/lista1.php?c=a0p9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u2.png" group-title="TV PREMIUM", Nickelodeon
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u2&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o4.png" group-title="TV PREMIUM", PXTV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png" group-title="TV PREMIUM", Paramount
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ol&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png" group-title="TV PREMIUM", Paramount HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0t9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0td.png" group-title="TV PREMIUM", Pasiones HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0td&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png" group-title="TV PREMIUM", Playboy
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ow&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nq.png" group-title="TV PREMIUM", RCN - GUA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nq&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r5.png" group-title="TV PREMIUM", RCN Novelas
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uq.png" group-title="TV PREMIUM", RHEMA TV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uq&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ti.png" group-title="TV PREMIUM", RT Noticas
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ti&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pd.png" group-title="TV PREMIUM", SEMILLITAS
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pd&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nn.png" group-title="TV PREMIUM", SERTV - PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nn&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s5.png" group-title="TV PREMIUM", SONY
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sk.png" group-title="TV PREMIUM", SONY HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sk&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ph.png" group-title="TV PREMIUM", SPACE
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ph&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ut.png" group-title="TV PREMIUM", SPACE HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ut&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u4.png" group-title="TV PREMIUM", STAR CHANNEL
-http://clubtv.link/14sep/token17922/lista1.php?c=a0u4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png" group-title="TV PREMIUM", STAR CHANNEL HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0si&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rm.png" group-title="TV PREMIUM", Sembrador
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rm&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uu.png" group-title="TV PREMIUM", Sky Sports
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uu&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qc.png" group-title="TV PREMIUM", Sony Movies HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qc&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qf.png" group-title="TV PREMIUM", Star TVE HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qf&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uh.png" group-title="TV PREMIUM", Studio Universal
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uh&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q2.png" group-title="TV PREMIUM", Studio Universal HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q2&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r9.png" group-title="TV PREMIUM", Sun Channel
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s9.png" group-title="TV PREMIUM", SyFy
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q3.png" group-title="TV PREMIUM", SyFy HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pv.png" group-title="TV PREMIUM", TBN Enlace
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pv&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pj.png" group-title="TV PREMIUM", TBS
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pj&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ri.png" group-title="TV PREMIUM", TCM
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ri&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oa.png" group-title="TV PREMIUM", TD+2 HD CR
-http://clubtv.link/14sep/token17922/lista1.php?c=a0oa&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o9.png" group-title="TV PREMIUM", TD+HD CR
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sd.png" group-title="TV PREMIUM", TLC
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sd&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pq.png" group-title="TV PREMIUM", TNT
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pq&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pi.png" group-title="TV PREMIUM", TNT Series
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pi&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ta.png" group-title="TV PREMIUM", TNT Series HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0ta&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tw.png" group-title="TV PREMIUM", TV  Max - PAN
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tw&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0no.png" group-title="TV PREMIUM", TV Oriente ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0no&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nw.png" group-title="TV PREMIUM", TVChile
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nw&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o6.png" group-title="TV PREMIUM", TVE
-http://clubtv.link/14sep/token17922/lista1.php?c=a0o6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nr.png" group-title="TV PREMIUM", TVM25 -  ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0nr&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q1.png" group-title="TV PREMIUM", Teen Nick HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p1.png" group-title="TV PREMIUM", Tele Antillas - RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0p1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rz.png" group-title="TV PREMIUM", TeleMicro - RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rz&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qu.png" group-title="TV PREMIUM", Telecentro - RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qu&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pf.png" group-title="TV PREMIUM", Telemundo
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pf&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q9.png" group-title="TV PREMIUM", Telemundo HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0q9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p3.png" group-title="TV PREMIUM", Telesistema RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0p3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qr.png" group-title="TV PREMIUM", Teleuniverso - RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0qr&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0of.png" group-title="TV PREMIUM", Televida RD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0of&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s3.png" group-title="TV PREMIUM", Tooncast
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pe.png" group-title="TV PREMIUM", Tru TV
-http://clubtv.link/14sep/token17922/lista1.php?c=a0pe&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0om.png" group-title="TV PREMIUM", UNIVERSAL CINEMA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0om&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v2.png" group-title="TV PREMIUM", UNIVERSAL CINEMA HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0v2&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rl.png" group-title="TV PREMIUM", UNIVERSAL COMEDY
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rl&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sj.png" group-title="TV PREMIUM", UNIVERSAL CRIME
-http://clubtv.link/14sep/token17922/lista1.php?c=a0sj&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uo.png" group-title="TV PREMIUM", UNIVERSAL PREMIERE
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uo&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0up.png" group-title="TV PREMIUM", UNIVERSAL PREMIERE O
-http://clubtv.link/14sep/token17922/lista1.php?c=a0up&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rj.png" group-title="TV PREMIUM", UNIVERSAL REALITY
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rj&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uc.png" group-title="TV PREMIUM", Universal
-http://clubtv.link/14sep/token17922/lista1.php?c=a0uc&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v0.png" group-title="TV PREMIUM", Univision HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0v0&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rn.png" group-title="TV PREMIUM", VENUS
-http://clubtv.link/14sep/token17922/lista1.php?c=a0rn&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png" group-title="TV PREMIUM", VTV Canal 35 ESA
-http://clubtv.link/14sep/token17922/lista1.php?c=a0r1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tk.png" group-title="TV PREMIUM", WARNER HD
-http://clubtv.link/14sep/token17922/lista1.php?c=a0tk&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s6.png" group-title="TV PREMIUM", Warner
-http://clubtv.link/14sep/token17922/lista1.php?c=a0s6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nt.png" group-title="TV PREMIUM", ZooMoo
