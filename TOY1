@@ -91,8 +91,8 @@ http://clubtv.link/0410oct/token081022/lista3.php?c=65f=.m3u8
 http://clubtv.link/0410oct/token081022/lista3.php?c=66f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",  CNN en Espanol
 http://clubtv.link/0410oct/token081022/lista3.php?c=67f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
-http://clubtv.link/0410oct/token081022/geomex.php?c=341&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://clubtv.link/0410oct/token081022/geomex.php?c=340&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",  De Pelicula
 http://clubtv.link/0410oct/token081022/lista3.php?c=69f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",  Discovery Channel
