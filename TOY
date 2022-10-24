@@ -1,114 +1,248 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 04/OCTUBRE/2022
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 24/OCTUBRE/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.redd.it/qtbvbiq3mjr71.jpg", Hocus Pocus 2| REGIOFLIX
-http://regioplay.xyz/228022/Hocus.Pocus.2.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nope-poster-fotogramas-1626980546.jpeg", NOPE | REGIOFLIX
-http://regioplay.xyz/228022/Nope.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.quepeliculaver.com/uploads/2022/06/nuevo-poster-dc-liga-de-supermascotas-en-exclusiva.jpg", Supermascotas | REGIOFLIX
-http://regioplay.xyz/228022/DC.League.of.Super.Pets.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/15600/15658/001.jpg", Mentada de padre | REGIOFLIX
-http://regioplay.xyz/228022/Mentada.de.padre.2019.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el? | REGIOFLIX
-http://regioplay.xyz/228022/Backseat.Driver.2020..lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Luck-722224530-mmed.jpg", LUCK | REGIOFLIX
-http://regioplay.xyz/228022/Luck.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/365_d_as_m_s-458437240-large.jpg", 365 dias mas | REGIOFLIX
-http://regioplay.xyz/228022/365.Days.Part.III.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/5f/73/6c/5f736c33f89d22a0f58c159e8d64172e.jpg", Las Leyendas: El Origen | REGIOFLIX
-http://regioplay.xyz/228022/Las.leyendas.El.origen.2021.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Predator: Prey | REGIOFLIX
-http://regioplay.xyz/228022/Predator_Prey_SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/minions-the-rise-of-gru/images/regions/ar/onesheet.jpg", Minions Nace un villano 2022 | REGIOFLIX
-http://regioplay.xyz/228022/Minions.NaceUnVillano.SrRegio.Net.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/812ofyhW8hL._AC_SY679_.jpg", LightYear 2022 | REGIOFLIX
-http://regioplay.xyz/228022/lightyear.2022.SRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-black-phone/images/regions/ar/onesheet.jpg", Telefono negro | REGIOFLIX
-http://regioplay.xyz/228022/El.Telefono.Negro.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/jurassicpark/images/2/2d/Jurassic_World_Dominion_Poster.png/revision/latest?cb=20220612202824", Jurassic World Dominio | REGIOFLIX
-http://regioplay.xyz/228022/JurassicWorldDominio.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://d2rbybg5ibx87t.cloudfront.net/images/621398/original.jpeg?1650310006", Father Stu | REGIOFLIX
-http://regioplay.xyz/228022/Father.Stu.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/16/09/52/4570178.jpg", Fresh | REGIOFLIX
-http://regioplay.xyz/228022/Fresh.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cinelinx.com/wp-content/uploads/2022/04/Chip-n-Dale-Poster.jpg", Chip and Dale 2022 | REGIOFLIX
-http://regioplay.xyz/228022/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NkNjdlODMtZTZiYi00OWUwLTliNDAtOGZhMThjNmVhYmQxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Memory: Asesino sin memoria | REGIOFLIX
-http://regioplay.xyz/228022/Memory.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fl0u5uixwaazev7_cphe.jpg", Sonic 2 | REGIOFLIX
-http://regioplay.xyz/228022/Sonic.2.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/38508-429524-20220118093437.jpg", Que despadre | REGIOFLIX
-http://regioplay.xyz/228022/Qu%C3%A9.despadre.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/12/Uncharted-Poster.jpg?resize=1280%2C1565&quality=80&ssl=1", Uncharted 2022 | REGIOFLIX
-http://regioplay.xyz/228022/Uncharted.2022.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://iforum-sg.c.hihonor.com/latin/latin_data/images/2022/4/23/d8eb4de1-f6a0-402c-9d67-d56cd3dbf5d0.jpg", 365 dias Aquel dia | REGIOFLIX
-http://regioplay.xyz/228022/365.Dias.Aquel.dia.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021 | REGIOFLIX
-http://regioplay.xyz/228022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022 | REGIOFLIX
-http://regioplay.xyz/228022/Scream5Grita.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | REGIOFLIX
-http://regioplay.xyz/228022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | REGIOFLIX
-http://regioplay.xyz/228022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | REGIOFLIX
-http://regioplay.xyz/228022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2 | REGIOFLIX
-http://regioplay.xyz/228022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos | REGIOFLIX
-http://regioplay.xyz/228022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg | REGIOFLIX
-http://regioplay.xyz/228022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | REGIOFLIX
-http://regioplay.xyz/228022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="", Volver al futuro | REGIOFLIX
-https://regioplay.xyz/php/SR_REGIO_800122_/volver_al_futuro.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | REGIOFLIX
-http://regioplay.xyz/228022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja | REGIOFLIX
-http://regioplay.xyz/228022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos | REGIOFLIX
-http://regioplay.xyz/228022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi | REGIOFLIX
-http://regioplay.xyz/228022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight | REGIOFLIX
-http://regioplay.xyz/228022/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/n71yzMVi0V9grBF35VLn-klQSVT2szaY0GuiyQrnwzgcQkCnfugRP1eTpyO8-MmGEkKvIY5itNEZroG2huaD5WuBsSv1Ui7HdymIco9uCw", Polaroid | REGIOFLIX
-http://regioplay.xyz/228022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://allpeliculas.ac/wp-content/uploads/2021/10/0815e542ae8eccf0e97d2df02e023f0bbTlQchCU05xJZyn4Va8gHkTeayu.jpg", Una momia en Halloween | REGIOFLIX
-http://regioplay.xyz/228022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018 | REGIOFLIX
-http://regioplay.xyz/228022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021 | REGIOFLIX
-http://regioplay.xyz/228022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy | REGIOFLIX
-http://regioplay.xyz/228022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1 | REGIOFLIX
-http://regioplay.xyz/228022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2 | REGIOFLIX
-http://regioplay.xyz/228022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-mmed.jpg", You´re not alone | REGIOFLIX
-http://regioplay.xyz/228022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | REGIOFLIX
-http://regioplay.xyz/228022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos | REGIOFLIX
-http://regioplay.xyz/228022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era | REGIOFLIX
-http://regioplay.xyz/228022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO | REGIOFLIX
-http://regioplay.xyz/228022/coco.mkv
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
+http://clubtv.link/octo1115/top2410/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
+http://clubtv.link/octo1115/top2410/distro.php?c=top-cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
+http://clubtv.link/octo1115/top2410/distro.php?c=juntos&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
+http://clubtv.link/octo1115/top2410/distro.php?c=cine-real-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
+http://clubtv.link/octo1115/top2410/distro.php?c=cine-sureno&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
+http://clubtv.link/octo1115/top2410/distro.php?c=casa-comedy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
+http://clubtv.link/octo1115/top2410/distro.php?c=spanglish&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
+http://clubtv.link/octo1115/top2410/distro.php?c=horrofy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
+http://clubtv.link/octo1115/top2410/distro.php?c=wapptv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
+http://clubtv.link/octo1115/top2410/distro.php?c=tu.cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/octo1115/top2410/distro.php?c=el-conflicto-tv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
+http://clubtv.link/octo1115/top2410/distro.php?c=saber-mas&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
+http://clubtv.link/octo1115/top2410/distro.php?c=flash-1&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
+http://clubtv.link/octo1115/top2410/distro.php?c=mmc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
+http://clubtv.link/octo1115/top2410/distro.php?c=chiquilines&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+http://clubtv.link/octo1115/top2410/distro.php?c=glewedtv-spanish&f=.m3u8
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="TV PREMIUM", TELEHIT
+http://clubtv.link/octo1115/top2410/lista3.php?c=653&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO44
+http://clubtv.link/octo1115/top2410/lista3.php?c=654&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO48
+http://clubtv.link/octo1115/top2410/lista3.php?c=655&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELEMUNDOLA
+http://clubtv.link/octo1115/top2410/lista3.php?c=656&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELEMUNDOMIAMI
+http://clubtv.link/octo1115/top2410/lista3.php?c=657&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELEMUNDONEWYORK
+http://clubtv.link/octo1115/top2410/lista3.php?c=658&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELEXITOS
+http://clubtv.link/octo1115/top2410/lista3.php?c=659&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT
+http://clubtv.link/octo1115/top2410/lista3.php?c=660&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TRAVEL HD
+http://clubtv.link/octo1115/top2410/lista3.php?c=661&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TYC sports
+http://clubtv.link/octo1115/top2410/lista3.php?c=662&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIMAS HD
+http://clubtv.link/octo1115/top2410/lista3.php?c=663&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL KIDS
+http://clubtv.link/octo1115/top2410/lista3.php?c=664&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSO
+http://clubtv.link/octo1115/top2410/lista3.php?c=665&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVISION SPORTS   ULTIMO
+http://clubtv.link/octo1115/top2410/lista3.php?c=666&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Univision Tlnovelas
+http://clubtv.link/octo1115/top2410/lista3.php?c=667&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVISION USA HD
+http://clubtv.link/octo1115/top2410/lista3.php?c=668&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VELOCITY
+http://clubtv.link/octo1115/top2410/lista3.php?c=669&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VICELAND
+http://clubtv.link/octo1115/top2410/lista3.php?c=670&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", WUSA9NEWYORK
+http://clubtv.link/octo1115/top2410/lista3.php?c=671&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV 2
+http://clubtv.link/octo1115/top2410/lista3.php?c=672&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV Classic
+http://clubtv.link/octo1115/top2410/lista3.php?c=673&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV-U
+http://clubtv.link/octo1115/top2410/lista3.php?c=674&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", A3SERIES
+http://clubtv.link/octo1115/top2410/lista3.php?c=675&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ADN 40
+http://clubtv.link/octo1115/top2410/lista3.php?c=676&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Azteca 7
+http://clubtv.link/octo1115/top2410/lista3.php?c=677&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AZTECA UNO
+http://clubtv.link/octo1115/top2410/lista3.php?c=678&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BBC AME HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=679&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BOOMERANG MEXICO
+http://clubtv.link/octo1115/top2410/lista3.php?c=680&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal 5
+http://clubtv.link/octo1115/top2410/lista3.php?c=681&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal De Las Estrellas
+http://clubtv.link/octo1115/top2410/lista3.php?c=682&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CARTOON NETWORK
+http://clubtv.link/octo1115/top2410/lista3.php?c=683&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CNN ESPAÑOL
+http://clubtv.link/octo1115/top2410/lista3.php?c=684&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", COMEDY CENTRAL ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=685&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY CIVILIZATION
+http://clubtv.link/octo1115/top2410/lista3.php?c=686&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY KIDS HD ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=687&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISNEY CHANNEL  ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=688&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISNEY JR ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=689&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISNEY XD  ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=690&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISTRITO COMEDIA
+http://clubtv.link/octo1115/top2410/lista3.php?c=691&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", E! Entertaiment ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=692&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", EL CHAPULIN COLORADO ANIMADO
+http://clubtv.link/octo1115/top2410/lista3.php?c=693&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 HD MX
+http://clubtv.link/octo1115/top2410/lista3.php?c=694&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3 MX
+http://clubtv.link/octo1115/top2410/lista3.php?c=695&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN MX HD
+http://clubtv.link/octo1115/top2410/lista3.php?c=696&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESTRELLATV
+http://clubtv.link/octo1115/top2410/lista3.php?c=697&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FORMULA 1
+http://clubtv.link/octo1115/top2410/lista3.php?c=698&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Foro TV
+http://clubtv.link/octo1115/top2410/lista3.php?c=699&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX ACTION
+http://clubtv.link/octo1115/top2410/lista3.php?c=700&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX CINEMA
+http://clubtv.link/octo1115/top2410/lista3.php?c=701&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX CLASSIC
+http://clubtv.link/octo1115/top2410/lista3.php?c=702&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX COMEDY
+http://clubtv.link/octo1115/top2410/lista3.php?c=703&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX FAMILY
+http://clubtv.link/octo1115/top2410/lista3.php?c=704&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX ONE
+http://clubtv.link/octo1115/top2410/lista3.php?c=705&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS
+http://clubtv.link/octo1115/top2410/lista3.php?c=706&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS 2
+http://clubtv.link/octo1115/top2410/lista3.php?c=707&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FX
+http://clubtv.link/octo1115/top2410/lista3.php?c=708&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", GOLDEN PREMIERE 1
+http://clubtv.link/octo1115/top2410/lista3.php?c=709&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO2
+http://clubtv.link/octo1115/top2410/lista3.php?c=710&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HISTORY ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=711&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", IMAGEN NOTICIAS SD
+http://clubtv.link/octo1115/top2410/lista3.php?c=712&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", LOS SIMPSONS
+http://clubtv.link/octo1115/top2410/lista3.php?c=713&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MILENIO NOTICIAS
+http://clubtv.link/octo1115/top2410/lista3.php?c=714&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV MX
+http://clubtv.link/octo1115/top2410/lista3.php?c=715&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NATGEO MX
+http://clubtv.link/octo1115/top2410/lista3.php?c=716&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NICK JR
+http://clubtv.link/octo1115/top2410/lista3.php?c=717&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NICKELODEON
+http://clubtv.link/octo1115/top2410/lista3.php?c=718&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NUEVE 9
+http://clubtv.link/octo1115/top2410/lista3.php?c=719&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Once TV
+http://clubtv.link/octo1115/top2410/lista3.php?c=720&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RCN NOVELAS
+http://clubtv.link/octo1115/top2410/lista3.php?c=721&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TDN DEPORTES
+http://clubtv.link/octo1115/top2410/lista3.php?c=722&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELENOVELAS
+http://clubtv.link/octo1115/top2410/lista3.php?c=723&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TLC MX
+http://clubtv.link/octo1115/top2410/lista3.php?c=724&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TOONCAST
+http://clubtv.link/octo1115/top2410/lista3.php?c=725&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UFC ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=726&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Unicable
+http://clubtv.link/octo1115/top2410/lista3.php?c=727&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ABC NEW YORK
+http://clubtv.link/octo1115/top2410/lista3.php?c=728&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AFIZZIONADOS
+http://clubtv.link/octo1115/top2410/lista3.php?c=729&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Animal HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=730&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Comedy Central HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=731&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CW HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=732&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=733&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox News HD
+http://clubtv.link/octo1115/top2410/lista3.php?c=734&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Investigation Discovery ID
+http://clubtv.link/octo1115/top2410/lista3.php?c=735&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MLB NETWORKS
+http://clubtv.link/octo1115/top2410/lista3.php?c=736&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV LIVE
+http://clubtv.link/octo1115/top2410/lista3.php?c=737&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NATGEO KIDS
+http://clubtv.link/octo1115/top2410/lista3.php?c=738&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nickelodeon HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=754&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", PARAMOUNT NETWORK (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=755&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", REDBULL TV
+http://clubtv.link/octo1115/top2410/lista3.php?c=756&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", SUNDANCETV HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=757&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TBS
+http://clubtv.link/octo1115/top2410/lista3.php?c=758&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TIIN
+http://clubtv.link/octo1115/top2410/lista3.php?c=759&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TRUTV ESP
+http://clubtv.link/octo1115/top2410/lista3.php?c=760&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TVC DEPORTES
+http://clubtv.link/octo1115/top2410/lista3.php?c=761&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VEPLUSTV
+http://clubtv.link/octo1115/top2410/lista3.php?c=762&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", WHVL HD (ENG)
+http://clubtv.link/octo1115/top2410/lista3.php?c=763&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AXN
+http://clubtv.link/octo1115/top2410/lista3.php?c=765&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AZTECA CINEMA
+http://clubtv.link/octo1115/top2410/lista3.php?c=766&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Bloomberg
+http://clubtv.link/octo1115/top2410/lista3.php?c=767&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Caracol HD
+http://clubtv.link/octo1115/top2410/lista3.php?c=768&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CINEMAX HD
+http://clubtv.link/octo1115/top2410/lista3.php?c=769&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY SCIENCE
+http://clubtv.link/octo1115/top2410/lista3.php?c=770&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN GOAL LINE
+http://clubtv.link/octo1115/top2410/lista3.php?c=771&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", EUROCHANNEL
+http://clubtv.link/octo1115/top2410/lista3.php?c=772&f=.m3u8
