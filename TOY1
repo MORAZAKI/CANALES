@@ -1,10 +1,6 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 24/OCTUBRE/2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
 http://clubtv.link/octo1115/top2410/geomex.php?c=3315&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
@@ -78,7 +74,6 @@ http://clubtv.link/octo1115/top2410/geomex.php?c=2703&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
 http://clubtv.link/octo1115/top2410/geomex.php?c=2882&f=.m3u8
 
-
 #EXTINF:-1 group-title="INFANTIL",TOONCAST
 http://clubtv.link/octo1115/top2410/geomex.php?c=108&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
@@ -110,15 +105,12 @@ http://clubtv.link/octo1115/top2410/geomex.php?c=2373&f=.m3u8
 #EXTINF:-1 group-title="INFANTIL",BIT ME  
 http://clubtv.link/octo1115/top2410/geomex.php?c=2591&f=.m3u8
 
-
 #EXTINF:-1 group-title="CULTURA",DISCOVERY ID
 http://clubtv.link/octo1115/top2410/geomex.php?c=68&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",GARAGE TV 
 http://clubtv.link/octo1115/top2410/geomex.php?c=75&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
 http://clubtv.link/octo1115/top2410/geomex.php?c=86&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
-http://clubtv.link/octo1115/top2410/geomex.php?c=88&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",HISTORY
 http://clubtv.link/octo1115/top2410/geomex.php?c=89&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",NAT GEO  
@@ -249,7 +241,6 @@ http://clubtv.link/octo1115/top2410/geomex.php?c=1842&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
 http://clubtv.link/octo1115/top2410/geomex.php?c=2113&f=.m3u8
 
-
 #EXTINF:-1 group-title="CINE Y SERIES",TNT 
 http://clubtv.link/octo1115/top2410/geomex.php?c=126&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES
@@ -266,7 +257,7 @@ http://clubtv.link/octo1115/top2410/geomex.php?c=122&f=.m3u8
 http://clubtv.link/octo1115/top2410/geomex.php?c=123&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
 http://clubtv.link/octo1115/top2410/geomex.php?c=124&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",sun 
+#EXTINF:-1 group-title="CINE Y SERIES",SUN 
 http://clubtv.link/octo1115/top2410/geomex.php?c=126&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",TCM
 http://clubtv.link/octo1115/top2410/geomex.php?c=128&f=.m3u8
@@ -286,8 +277,6 @@ http://clubtv.link/octo1115/top2410/geomex.php?c=137&f=.m3u8
 http://clubtv.link/octo1115/top2410/geomex.php?c=138&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
 http://clubtv.link/octo1115/top2410/geomex.php?c=332&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
-http://clubtv.link/octo1115/top2410/geomex.php?c=139&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
 http://clubtv.link/octo1115/top2410/geomex.php?c=140&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
@@ -300,27 +289,8 @@ http://clubtv.link/octo1115/top2410/geomex.php?c=158&f=.m3u8
 http://clubtv.link/octo1115/top2410/geomex.php?c=328&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
 http://clubtv.link/octo1115/top2410/geomex.php?c=335&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
-http://clubtv.link/octo1115/top2410/geomex.php?c=336&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
-http://clubtv.link/octo1115/top2410/geomex.php?c=1726&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
-http://clubtv.link/octo1115/top2410/geomex.php?c=1729&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
-http://clubtv.link/octo1115/top2410/geomex.php?c=1732&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
 http://clubtv.link/octo1115/top2410/geomex.php?c=1787&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="TV PREMIUM", HBO Family HD
-http://clubtv.link/octo1115/top2410/lista2.php?c=a0ou&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="TV PREMIUM", HBO HD
-http://clubtv.link/octo1115/top2410/lista2.php?c=a0or&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="TV PREMIUM", HBO Plus HD
-http://clubtv.link/octo1115/top2410/lista2.php?c=a0ot&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="TV PREMIUM", HBO XTREME
-http://clubtv.link/octo1115/top2410/lista2.php?c=a0ov&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="TV PREMIUM", HBO2 HD
-http://clubtv.link/octo1115/top2410/lista2.php?c=a0os&f=.m3u8
 
 
 #EXTINF:-1 group-title="MUSICA",MTV LIVE
