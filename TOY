@@ -1,7 +1,233 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", PRUEBA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", PRUEBA 23/NOV(2022
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
+http://clubtv.link/nov1123/key2030/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
+http://clubtv.link/nov1123/key2030/distro.php?c=top-cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
+http://clubtv.link/nov1123/key2030/distro.php?c=juntos&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
+http://clubtv.link/nov1123/key2030/distro.php?c=cine-real-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
+http://clubtv.link/nov1123/key2030/distro.php?c=cine-sureno&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
+http://clubtv.link/nov1123/key2030/distro.php?c=casa-comedy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
+http://clubtv.link/nov1123/key2030/distro.php?c=spanglish&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
+http://clubtv.link/nov1123/key2030/distro.php?c=horrofy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
+http://clubtv.link/nov1123/key2030/distro.php?c=wapptv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
+http://clubtv.link/nov1123/key2030/distro.php?c=tu.cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/nov1123/key2030/distro.php?c=el-conflicto-tv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
+http://clubtv.link/nov1123/key2030/distro.php?c=saber-mas&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
+http://clubtv.link/nov1123/key2030/distro.php?c=flash-1&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
+http://clubtv.link/nov1123/key2030/distro.php?c=mmc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
+http://clubtv.link/nov1123/key2030/distro.php?c=chiquilines&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+http://clubtv.link/nov1123/key2030/distro.php?c=glewedtv-spanish&f=.m3u8
+
+
+
+#EXTINF:-1 group-title="TV PREMIUM", 24 Horas
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08l&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AE Mundo
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08y&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08p&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AXN
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0b6&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal 13
+http://clubtv.link/nov1123/key2030/lista1.php?c=a088&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Canal de Las estrellas
+http://clubtv.link/nov1123/key2030/lista1.php?c=a093&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Cartoon Network
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09m&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CDF Basico
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08x&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CDF HD
+http://clubtv.link/nov1123/key2030/lista1.php?c=a05l&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CDF PREMIUM
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08a&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CHV
+http://clubtv.link/nov1123/key2030/lista1.php?c=a087&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CHV HD
+http://clubtv.link/nov1123/key2030/lista1.php?c=a07d&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Cinecanal
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09c&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Cinemax
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0b4&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CNN Chile
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09j&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CNN Espanol
+http://clubtv.link/nov1123/key2030/lista1.php?c=a083&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Channel
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08o&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery ID
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09v&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Kids
+http://clubtv.link/nov1123/key2030/lista1.php?c=a082&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0bh&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Disney Channel
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08n&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Disney Jr
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08j&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", E Entertainment
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08r&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Enlace
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09r&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08t&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08u&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0bj&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Channel
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09e&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0b3&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO 2
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08f&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Family
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08i&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Plus
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08g&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08s&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", History Channel
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09b&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 2
+http://clubtv.link/nov1123/key2030/lista1.php?c=a094&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Home and Health
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09z&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 3
+http://clubtv.link/nov1123/key2030/lista1.php?c=a095&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", I-Sat
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09f&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports Premium
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08b&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", La Red
+http://clubtv.link/nov1123/key2030/lista1.php?c=a084&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FX
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0b8&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Max Prime
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08h&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Mega
+http://clubtv.link/nov1123/key2030/lista1.php?c=a086&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09g&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nat Geo
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09a&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nick Jr
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0bg&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Nickelodeon
+http://clubtv.link/nov1123/key2030/lista1.php?c=a098&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RCN Novelas
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09u&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Sin Limites
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0a9&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Sony
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0b5&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Space
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0b7&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TBS
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09y&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TCM
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09k&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Telemundo
+http://clubtv.link/nov1123/key2030/lista1.php?c=a096&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09n&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Travel and Living
+http://clubtv.link/nov1123/key2030/lista1.php?c=a091&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TVE
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09s&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TVN
+http://clubtv.link/nov1123/key2030/lista1.php?c=a085&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Universal
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09d&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ViaX
+http://clubtv.link/nov1123/key2030/lista1.php?c=a092&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Warner
+http://clubtv.link/nov1123/key2030/lista1.php?c=a08q&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT HD
+http://clubtv.link/nov1123/key2030/lista1.php?c=tnthd&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CANAL 13 HD
+http://clubtv.link/nov1123/key2030/lista1.php?c=a07g&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MEGA HD
+http://clubtv.link/nov1123/key2030/lista1.php?c=a07f&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", LA RED HD
+http://clubtv.link/nov1123/key2030/lista1.php?c=a07e&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NTV
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0cl&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TVEDUCA
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0c9&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UCV
+http://clubtv.link/nov1123/key2030/lista1.php?c=a07k&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Venus
+http://clubtv.link/nov1123/key2030/lista1.php?c=a0ca&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Zona Latina
+http://clubtv.link/nov1123/key2030/lista1.php?c=a09h&f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
