@@ -5,7 +5,7 @@ https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f598536
 http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 #EXTINF:-1 group-title="Lista TV3", CITY SPORTS TV (QTAR)
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Lista TV3", TYC SPORTS(QTAR)
+#EXTINF:-1 group-title="Lista TV3", TYC SPORTS (QTAR)
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 #EXTINF:-1 group-title="Lista TV3", TUDN (QTAR)
 http://190.61.102.67:31589/play/a08j/index.m3u8
