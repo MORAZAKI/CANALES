@@ -1,10 +1,8 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 03/DIC/2022 19:45 HORAS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-#EXTINF:-1 group-title="Lista TV3", TELEMUNDO (QTAR) 
-http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
-#EXTINF:-1 group-title="Lista TV3", CITY SPORTS TV (QTAR)
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Lista TV3", SKY SPORTS (QTAR) 
+https://ad20171.openhd.lol/cdn/myfeed69/index.m3u8
 #EXTINF:-1 group-title="Lista TV3", TyC SPORTS (QTAR)
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 #EXTINF:-1 group-title="Lista TV3", TUDN (QTAR)
