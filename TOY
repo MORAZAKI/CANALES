@@ -1,572 +1,502 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", PRUEBA 01/DIC/2022
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", PRUEBA 07/DIC/2022 12:05 HORAS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="INFANTIL",TOONCAST
-http://clubtv.link/dic1201/key75309/geomex4.php?c=108&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=109&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICK
-http://clubtv.link/dic1201/key75309/geomex4.php?c=110&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY XD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=111&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
-http://clubtv.link/dic1201/key75309/geomex4.php?c=112&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=113&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",Cartoonito
-http://clubtv.link/dic1201/key75309/geomex4.php?c=115&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",BABY TV 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=116&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICK JR
-http://clubtv.link/dic1201/key75309/geomex4.php?c=117&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY JR
-http://clubtv.link/dic1201/key75309/geomex4.php?c=118&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICKTOONS SD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1708&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",BABY FIRST
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1984&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICK 2  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2147&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NAT GEO KIDS  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2373&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",BIT ME  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2591&f=.m3u8
-
-
-#EXTINF:-1 group-title="CULTURA",DISCOVERY ID
-http://clubtv.link/dic1201/key75309/geomex4.php?c=68&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",GARAGE TV 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=75&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=86&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
-http://clubtv.link/dic1201/key75309/geomex4.php?c=88&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",HISTORY
-http://clubtv.link/dic1201/key75309/geomex4.php?c=89&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",NAT GEO  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=91&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",NAT GEO WILD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=92&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER
-http://clubtv.link/dic1201/key75309/geomex4.php?c=95&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",H&H
-http://clubtv.link/dic1201/key75309/geomex4.php?c=96&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",TLC
-http://clubtv.link/dic1201/key75309/geomex4.php?c=97&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=98&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CIVILIZATION
-http://clubtv.link/dic1201/key75309/geomex4.php?c=99&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=101&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",TVE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=198&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",SHOPPING
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1943&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",FOOD NETWORK 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2145&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",STAR TVE 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2375&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2379&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2594&f=.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
-http://clubtv.link/dic1201/key75309/distro.php?c=euronews-spa&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
-http://clubtv.link/dic1201/key75309/distro.php?c=top-cine-latam&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=top-cine-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
-http://clubtv.link/dic1201/key75309/distro.php?c=juntos&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=juntos&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
-http://clubtv.link/dic1201/key75309/distro.php?c=cine-real-latam&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=cine-real-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
-http://clubtv.link/dic1201/key75309/distro.php?c=cine-sureno&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=cine-sureno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
-http://clubtv.link/dic1201/key75309/distro.php?c=casa-comedy&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=casa-comedy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
-http://clubtv.link/dic1201/key75309/distro.php?c=spanglish&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=spanglish&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
-http://clubtv.link/dic1201/key75309/distro.php?c=horrofy&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=horrofy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
-http://clubtv.link/dic1201/key75309/distro.php?c=wapptv&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=wapptv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
-http://clubtv.link/dic1201/key75309/distro.php?c=tu.cine-latam&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=tu.cine-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
-http://clubtv.link/dic1201/key75309/distro.php?c=el-conflicto-tv&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=el-conflicto-tv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
-http://clubtv.link/dic1201/key75309/distro.php?c=saber-mas&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=saber-mas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
-http://clubtv.link/dic1201/key75309/distro.php?c=flash-1&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=flash-1&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
-http://clubtv.link/dic1201/key75309/distro.php?c=mmc&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=mmc&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
-http://clubtv.link/dic1201/key75309/distro.php?c=chiquilines&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=chiquilines&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/dic1201/key75309/distro.php?c=glewedtv-spanish&f=.m3u8
-
-
-
-#EXTINF:-1 group-title="VIX (solo México)", 40 Y 20
-http://clubtv.link/dic1201/key75309/vix.php?c=340.frequency.stream/340&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Adrenalina Sport
-http://clubtv.link/dic1201/key75309/vix.php?c=393.frequency.stream/393&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Alegrijes Y Rebujos
-http://clubtv.link/dic1201/key75309/vix.php?c=319.frequency.stream/319&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Amigas Y Rivales
-http://clubtv.link/dic1201/key75309/vix.php?c=320.frequency.stream/320&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Amores Verdaderos
-http://clubtv.link/dic1201/key75309/vix.php?c=305.frequency.stream/305&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Aqui Y Ahora
-http://clubtv.link/dic1201/key75309/vix.php?c=306.frequency.stream/306&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine
-http://clubtv.link/dic1201/key75309/vix.php?c=449.frequency.stream/449&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine 1
-http://clubtv.link/dic1201/key75309/vix.php?c=307.frequency.stream/307&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine 2
-http://clubtv.link/dic1201/key75309/vix.php?c=308.frequency.stream/308&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine 3
-http://clubtv.link/dic1201/key75309/vix.php?c=309.frequency.stream/309&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine Club - Prendetv
-http://clubtv.link/dic1201/key75309/vix.php?c=192.frequency.stream/192&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine Del Ayer
-http://clubtv.link/dic1201/key75309/vix.php?c=429.frequency.stream/429&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine Sd
-http://clubtv.link/dic1201/key75309/vix.php?c=450.frequency.stream/450&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cine Sd
-http://clubtv.link/dic1201/key75309/vix.php?c=451.frequency.stream/451&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Clase 406
-http://clubtv.link/dic1201/key75309/vix.php?c=322.frequency.stream/322&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cnn Colombia
-http://clubtv.link/dic1201/key75309/vix.php?c=358.frequency.stream/358&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Comedy Tv
-http://clubtv.link/dic1201/key75309/vix.php?c=89.frequency.stream/89&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Como Dice El Dicho
-http://clubtv.link/dic1201/key75309/vix.php?c=341.frequency.stream/341&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Corazón Salvaje
-http://clubtv.link/dic1201/key75309/vix.php?c=325.frequency.stream/325&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Crónicas
-http://clubtv.link/dic1201/key75309/vix.php?c=315.frequency.stream/315&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Cuidado Con El Angel
-http://clubtv.link/dic1201/key75309/vix.php?c=316.frequency.stream/316&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Del Mercado Al Plato
-http://clubtv.link/dic1201/key75309/vix.php?c=317.frequency.stream/317&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Deportes
-http://clubtv.link/dic1201/key75309/vix.php?c=452.frequency.stream/452&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Durmiendo Con Mi Jefe
-http://clubtv.link/dic1201/key75309/vix.php?c=312.frequency.stream/312&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", El Privilegio De Mandar
-http://clubtv.link/dic1201/key75309/vix.php?c=313.frequency.stream/313&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Failarmy
-http://clubtv.link/dic1201/key75309/vix.php?c=197.frequency.stream/197&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Familia P. Luche
-http://clubtv.link/dic1201/key75309/vix.php?c=311.frequency.stream/311&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Fun Videos
-http://clubtv.link/dic1201/key75309/vix.php?c=121.frequency.stream/121&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Héroes Del Norte
-http://clubtv.link/dic1201/key75309/vix.php?c=323.frequency.stream/323&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Juana La Virgen
-http://clubtv.link/dic1201/key75309/vix.php?c=327.frequency.stream/327&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Kids
-http://clubtv.link/dic1201/key75309/vix.php?c=355.frequency.stream/355&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", La Promesa
-http://clubtv.link/dic1201/key75309/vix.php?c=343.frequency.stream/343&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", La Selecc10n
-http://clubtv.link/dic1201/key75309/vix.php?c=345.frequency.stream/345&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Lo Mejor De La Liga Mx - Prendetv
-http://clubtv.link/dic1201/key75309/vix.php?c=193.frequency.stream/193&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Lo Que Diga El Corazon
-http://clubtv.link/dic1201/key75309/vix.php?c=346.frequency.stream/346&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Local View
-http://clubtv.link/dic1201/key75309/vix.php?c=402.frequency.stream/402&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Local View 2
-http://clubtv.link/dic1201/key75309/vix.php?c=403.frequency.stream/403&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Love Nature
-http://clubtv.link/dic1201/key75309/vix.php?c=390.frequency.stream/390&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", María Mercedes
-http://clubtv.link/dic1201/key75309/vix.php?c=328.frequency.stream/328&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Media +
-http://clubtv.link/dic1201/key75309/vix.php?c=301.frequency.stream/301&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Mi Gorda Bella
-http://clubtv.link/dic1201/key75309/vix.php?c=334.frequency.stream/334&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Muchachitas
-http://clubtv.link/dic1201/key75309/vix.php?c=331.frequency.stream/331&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Muchachitas Como Tu
-http://clubtv.link/dic1201/key75309/vix.php?c=332.frequency.stream/332&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Novelas
-http://clubtv.link/dic1201/key75309/vix.php?c=445.frequency.stream/445&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Novelas De Oro - Prendetv
-http://clubtv.link/dic1201/key75309/vix.php?c=196.frequency.stream/196&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Novelas De Romance - Prendetv
-http://clubtv.link/dic1201/key75309/vix.php?c=194.frequency.stream/194&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Novelas En Familia - Prendetv
-http://clubtv.link/dic1201/key75309/vix.php?c=195.frequency.stream/195&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Novelas Hd
-http://clubtv.link/dic1201/key75309/vix.php?c=448.frequency.stream/448&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Novelas Sd
-http://clubtv.link/dic1201/key75309/vix.php?c=447.frequency.stream/447&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Papa A Toda Madre
-http://clubtv.link/dic1201/key75309/vix.php?c=336.frequency.stream/336&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", People Are Awesome
-http://clubtv.link/dic1201/key75309/vix.php?c=39.frequency.stream/39&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Que Bonito Amor
-http://clubtv.link/dic1201/key75309/vix.php?c=329.frequency.stream/329&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Rebelde
-http://clubtv.link/dic1201/key75309/vix.php?c=335.frequency.stream/335&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Retro Peli
-http://clubtv.link/dic1201/key75309/vix.php?c=304.frequency.stream/304&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Sortilegio
-http://clubtv.link/dic1201/key75309/vix.php?c=337.frequency.stream/337&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Tele Musica
-http://clubtv.link/dic1201/key75309/vix.php?c=418.frequency.stream/418&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Tele Musica+
-http://clubtv.link/dic1201/key75309/vix.php?c=419.frequency.stream/419&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Telehit
-http://clubtv.link/dic1201/key75309/vix.php?c=417.frequency.stream/417&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Teresa
-http://clubtv.link/dic1201/key75309/vix.php?c=324.frequency.stream/324&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Teresa
-http://clubtv.link/dic1201/key75309/vix.php?c=342.frequency.stream/342&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", The Weather Channel(Es)
-http://clubtv.link/dic1201/key75309/vix.php?c=431.frequency.stream/431&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", The Weather Channel(Es) Hd
-http://clubtv.link/dic1201/key75309/vix.php?c=453.frequency.stream/453&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Tres Veces Ana
-http://clubtv.link/dic1201/key75309/vix.php?c=321.frequency.stream/321&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Triunfo Del Amor
-http://clubtv.link/dic1201/key75309/vix.php?c=338.frequency.stream/338&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Tv Venta
-http://clubtv.link/dic1201/key75309/vix.php?c=352.frequency.stream/352&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Unknown 101
-http://clubtv.link/dic1201/key75309/vix.php?c=330.frequency.stream/330&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Unknown 262
-http://clubtv.link/dic1201/key75309/vix.php?c=446.frequency.stream/446&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Vecinos
-http://clubtv.link/dic1201/key75309/vix.php?c=314.frequency.stream/314&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Vevo
-http://clubtv.link/dic1201/key75309/vix.php?c=388.frequency.stream/388&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Vevo
-http://clubtv.link/dic1201/key75309/vix.php?c=389.frequency.stream/389&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Videos Chistosos
-http://clubtv.link/dic1201/key75309/vix.php?c=46.frequency.stream/46&f=.m3u8
-#EXTINF:-1 group-title="VIX (solo México)", Videos Chistosos 2
-http://clubtv.link/dic1201/key75309/vix.php?c=49.frequency.stream/49&f=.m3u8
+http://clubtv.link/dic1201/key4811/distro.php?c=glewedtv-spanish&f=.m3u8
 
 
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=85&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=46&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=48&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=52&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
-http://clubtv.link/dic1201/key75309/geomex4.php?c=55&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=57&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY
-http://clubtv.link/dic1201/key75309/geomex4.php?c=59&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
-http://clubtv.link/dic1201/key75309/geomex4.php?c=60&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
-http://clubtv.link/dic1201/key75309/geomex4.php?c=62&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
-http://clubtv.link/dic1201/key75309/geomex4.php?c=64&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=66&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
-http://clubtv.link/dic1201/key75309/geomex4.php?c=69&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",sun SERIES
-http://clubtv.link/dic1201/key75309/geomex4.php?c=71&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",GLITZ
-http://clubtv.link/dic1201/key75309/geomex4.php?c=76&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=74&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=77&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=78&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
-http://clubtv.link/dic1201/key75309/geomex4.php?c=79&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TL NOVELAS SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=83&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=94&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",ANTENA 3
-http://clubtv.link/dic1201/key75309/geomex4.php?c=199&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX HD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=201&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER HD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=205&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=207&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FX HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=209&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=215&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=219&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=340&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=341&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1499&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1842&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2113&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",A&E Latinoamerica
+http://clubtv.link/dic1201/key4811/lista2.php?c=902
+#EXTINF:-1 group-title="TV PREMIUM",Animal Planet Latinoamérica
+http://clubtv.link/dic1201/key4811/lista2.php?c=903
+#EXTINF:-1 group-title="TV PREMIUM",Antena 3 Internacional
+http://clubtv.link/dic1201/key4811/lista2.php?c=904
+#EXTINF:-1 group-title="TV PREMIUM",Atreseries
+http://clubtv.link/dic1201/key4811/lista2.php?c=906
+#EXTINF:-1 group-title="TV PREMIUM",Axn
+http://clubtv.link/dic1201/key4811/lista2.php?c=907
+#EXTINF:-1 group-title="TV PREMIUM",Azteca Uno
+http://clubtv.link/dic1201/key4811/lista2.php?c=909
+#EXTINF:-1 group-title="TV PREMIUM",Baby TV México
+http://clubtv.link/dic1201/key4811/lista2.php?c=910
+#EXTINF:-1 group-title="TV PREMIUM",Boomerang Mexico
+http://clubtv.link/dic1201/key4811/lista2.php?c=911
+#EXTINF:-1 group-title="TV PREMIUM",Cartoon Network Mexico
+http://clubtv.link/dic1201/key4811/lista2.php?c=918
+#EXTINF:-1 group-title="TV PREMIUM",Cinecanal
+http://clubtv.link/dic1201/key4811/lista2.php?c=919
+#EXTINF:-1 group-title="TV PREMIUM",Cine Latino
+http://clubtv.link/dic1201/key4811/lista2.php?c=920
+#EXTINF:-1 group-title="TV PREMIUM",Cinemax
+http://clubtv.link/dic1201/key4811/lista2.php?c=921
+#EXTINF:-1 group-title="TV PREMIUM",Claro Sports
+http://clubtv.link/dic1201/key4811/lista2.php?c=922
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Channel
+http://clubtv.link/dic1201/key4811/lista2.php?c=927
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Home & Health
+http://clubtv.link/dic1201/key4811/lista2.php?c=928
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids América Latina
+http://clubtv.link/dic1201/key4811/lista2.php?c=929
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
+http://clubtv.link/dic1201/key4811/lista2.php?c=930
+#EXTINF:-1 group-title="TV PREMIUM",Disney Channel México
+http://clubtv.link/dic1201/key4811/lista2.php?c=931
+#EXTINF:-1 group-title="TV PREMIUM",Disney Junior Mexico
+http://clubtv.link/dic1201/key4811/lista2.php?c=932
+#EXTINF:-1 group-title="TV PREMIUM",Espn 1
+http://clubtv.link/dic1201/key4811/lista2.php?c=935
+#EXTINF:-1 group-title="TV PREMIUM",Espn 2
+http://clubtv.link/dic1201/key4811/lista2.php?c=936
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3
+http://clubtv.link/dic1201/key4811/lista2.php?c=937
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 1
+http://clubtv.link/dic1201/key4811/lista2.php?c=947
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 3 Latin America
+http://clubtv.link/dic1201/key4811/lista2.php?c=949
+#EXTINF:-1 group-title="TV PREMIUM",FX
+http://clubtv.link/dic1201/key4811/lista2.php?c=950
+#EXTINF:-1 group-title="TV PREMIUM",FXM Oeste
+http://clubtv.link/dic1201/key4811/lista2.php?c=951
+#EXTINF:-1 group-title="TV PREMIUM",HBO
+http://clubtv.link/dic1201/key4811/lista2.php?c=952
+#EXTINF:-1 group-title="TV PREMIUM",HBO + Latinoamerica
+http://clubtv.link/dic1201/key4811/lista2.php?c=953
+#EXTINF:-1 group-title="TV PREMIUM",HBO 2 Latinoamerica
+http://clubtv.link/dic1201/key4811/lista2.php?c=954
+#EXTINF:-1 group-title="TV PREMIUM",HBO Latinoamérica
+http://clubtv.link/dic1201/key4811/lista2.php?c=956
+#EXTINF:-1 group-title="TV PREMIUM",Hbo Xtreme
+http://clubtv.link/dic1201/key4811/lista2.php?c=957
+#EXTINF:-1 group-title="TV PREMIUM",History 2 Latinoamérica
+http://clubtv.link/dic1201/key4811/lista2.php?c=958
+#EXTINF:-1 group-title="TV PREMIUM",History Latinoamérica
+http://clubtv.link/dic1201/key4811/lista2.php?c=959
+#EXTINF:-1 group-title="TV PREMIUM",Hola! TV América Latina
+http://clubtv.link/dic1201/key4811/lista2.php?c=960
+#EXTINF:-1 group-title="TV PREMIUM",BHTV
+http://clubtv.link/dic1201/key4811/lista2.php?c=961
+#EXTINF:-1 group-title="TV PREMIUM",Imagen TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=963
+#EXTINF:-1 group-title="TV PREMIUM",Investigation Discovery Latinoamerica
+http://clubtv.link/dic1201/key4811/lista2.php?c=965
+#EXTINF:-1 group-title="TV PREMIUM",Lifetime LatinoamErica
+http://clubtv.link/dic1201/key4811/lista2.php?c=969
+#EXTINF:-1 group-title="TV PREMIUM",Milenio TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=971
+#EXTINF:-1 group-title="TV PREMIUM",MTV Hits Europe
+http://clubtv.link/dic1201/key4811/lista2.php?c=972
+#EXTINF:-1 group-title="TV PREMIUM",MTV Latino
+http://clubtv.link/dic1201/key4811/lista2.php?c=973
+#EXTINF:-1 group-title="TV PREMIUM",Nat Geo Kids
+http://clubtv.link/dic1201/key4811/lista2.php?c=976
+#EXTINF:-1 group-title="TV PREMIUM",National Geographic Wild
+http://clubtv.link/dic1201/key4811/lista2.php?c=978
+#EXTINF:-1 group-title="TV PREMIUM",Nick Jr Latin America
+http://clubtv.link/dic1201/key4811/lista2.php?c=979
+#EXTINF:-1 group-title="TV PREMIUM",Nickelodeon
+http://clubtv.link/dic1201/key4811/lista2.php?c=980
+#EXTINF:-1 group-title="TV PREMIUM",Once
+http://clubtv.link/dic1201/key4811/lista2.php?c=982
+#EXTINF:-1 group-title="TV PREMIUM",Paramount Channel
+http://clubtv.link/dic1201/key4811/lista2.php?c=984
+#EXTINF:-1 group-title="TV PREMIUM",Sony Channel
+http://clubtv.link/dic1201/key4811/lista2.php?c=985
+#EXTINF:-1 group-title="TV PREMIUM",Space Mexico
+http://clubtv.link/dic1201/key4811/lista2.php?c=986
+#EXTINF:-1 group-title="TV PREMIUM",Studio Universal
+http://clubtv.link/dic1201/key4811/lista2.php?c=987
+#EXTINF:-1 group-title="TV PREMIUM",Syfy Latin
+http://clubtv.link/dic1201/key4811/lista2.php?c=988
+#EXTINF:-1 group-title="TV PREMIUM",TNT América Latina
+http://clubtv.link/dic1201/key4811/lista2.php?c=992
+#EXTINF:-1 group-title="TV PREMIUM",TNT Series México
+http://clubtv.link/dic1201/key4811/lista2.php?c=993
+#EXTINF:-1 group-title="TV PREMIUM",TVC
+http://clubtv.link/dic1201/key4811/lista2.php?c=995
+#EXTINF:-1 group-title="TV PREMIUM",Universal TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=996
+#EXTINF:-1 group-title="TV PREMIUM",Warner Channel
+http://clubtv.link/dic1201/key4811/lista2.php?c=999
+#EXTINF:-1 group-title="TV PREMIUM",BITME
+http://clubtv.link/dic1201/key4811/lista2.php?c=19193
+#EXTINF:-1 group-title="TV PREMIUM",Fuel TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=2104
+#EXTINF:-1 group-title="TV PREMIUM",Isat
+http://clubtv.link/dic1201/key4811/lista2.php?c=2088
 
+#EXTINF:-1 group-title="TV PREMIUM",A&E
+http://clubtv.link/dic1201/key4811/lista2.php?c=818
+#EXTINF:-1 group-title="TV PREMIUM",AXN
+http://clubtv.link/dic1201/key4811/lista2.php?c=822
+#EXTINF:-1 group-title="TV PREMIUM",AZCORAZON HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=823
+#EXTINF:-1 group-title="TV PREMIUM",AZMUNDO HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=824
+#EXTINF:-1 group-title="TV PREMIUM",CANAL CLARO HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=828
+#EXTINF:-1 group-title="TV PREMIUM",CARACOL HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=830
+#EXTINF:-1 group-title="TV PREMIUM",CINE LATINO
+http://clubtv.link/dic1201/key4811/lista2.php?c=831
+#EXTINF:-1 group-title="TV PREMIUM",CITY NOTICIAS
+http://clubtv.link/dic1201/key4811/lista2.php?c=833
+#EXTINF:-1 group-title="TV PREMIUM",CLARO HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=834
+#EXTINF:-1 group-title="TV PREMIUM",DISCOVERY H&H
+http://clubtv.link/dic1201/key4811/lista2.php?c=840
+#EXTINF:-1 group-title="TV PREMIUM",DISCOVERY ID
+http://clubtv.link/dic1201/key4811/lista2.php?c=841
+#EXTINF:-1 group-title="TV PREMIUM",DISNEY
+http://clubtv.link/dic1201/key4811/lista2.php?c=842
+#EXTINF:-1 group-title="TV PREMIUM",ESPN
+http://clubtv.link/dic1201/key4811/lista2.php?c=846
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
+http://clubtv.link/dic1201/key4811/lista2.php?c=847
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3
+http://clubtv.link/dic1201/key4811/lista2.php?c=848
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORT 1
+http://clubtv.link/dic1201/key4811/lista2.php?c=855
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORT 3
+http://clubtv.link/dic1201/key4811/lista2.php?c=857
+#EXTINF:-1 group-title="TV PREMIUM",FX
+http://clubtv.link/dic1201/key4811/lista2.php?c=859
+#EXTINF:-1 group-title="TV PREMIUM",FXM
+http://clubtv.link/dic1201/key4811/lista2.php?c=860
+#EXTINF:-1 group-title="TV PREMIUM",GLITZ
+http://clubtv.link/dic1201/key4811/lista2.php?c=861
+#EXTINF:-1 group-title="TV PREMIUM",GOLDEN HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=862
+#EXTINF:-1 group-title="TV PREMIUM",GOLDEN PLUS
+http://clubtv.link/dic1201/key4811/lista2.php?c=863
+#EXTINF:-1 group-title="TV PREMIUM",GOLDEN PREMIER HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=864
+#EXTINF:-1 group-title="TV PREMIUM",GOURMET HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=865
+#EXTINF:-1 group-title="TV PREMIUM",HBO
+http://clubtv.link/dic1201/key4811/lista2.php?c=866
+#EXTINF:-1 group-title="TV PREMIUM",HBO POP
+http://clubtv.link/dic1201/key4811/lista2.php?c=867
+#EXTINF:-1 group-title="TV PREMIUM",HISTORY
+http://clubtv.link/dic1201/key4811/lista2.php?c=868
+#EXTINF:-1 group-title="TV PREMIUM",HOLA TV HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=869
+#EXTINF:-1 group-title="TV PREMIUM",Las Estrellas
+http://clubtv.link/dic1201/key4811/lista2.php?c=870
+#EXTINF:-1 group-title="TV PREMIUM",LIFETIME
+http://clubtv.link/dic1201/key4811/lista2.php?c=871
+#EXTINF:-1 group-title="TV PREMIUM",MASCHIC HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=872
+#EXTINF:-1 group-title="TV PREMIUM",MTV HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=874
+#EXTINF:-1 group-title="TV PREMIUM",MTV HITS
+http://clubtv.link/dic1201/key4811/lista2.php?c=875
+#EXTINF:-1 group-title="TV PREMIUM",MTV LIVE HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=876
+#EXTINF:-1 group-title="TV PREMIUM",PARAMOUNT HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=878
+#EXTINF:-1 group-title="TV PREMIUM",PASIONES HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=879
+#EXTINF:-1 group-title="TV PREMIUM",RCN TELENOVELAS
+http://clubtv.link/dic1201/key4811/lista2.php?c=881
+#EXTINF:-1 group-title="TV PREMIUM",SONY
+http://clubtv.link/dic1201/key4811/lista2.php?c=882
+#EXTINF:-1 group-title="TV PREMIUM",SPACE
+http://clubtv.link/dic1201/key4811/lista2.php?c=883
+#EXTINF:-1 group-title="TV PREMIUM",STUDIO UNIVERSAL
+http://clubtv.link/dic1201/key4811/lista2.php?c=884
+#EXTINF:-1 group-title="TV PREMIUM",TBS
+http://clubtv.link/dic1201/key4811/lista2.php?c=885
+#EXTINF:-1 group-title="TV PREMIUM",TCM
+http://clubtv.link/dic1201/key4811/lista2.php?c=886
+#EXTINF:-1 group-title="TV PREMIUM",TELEANTIOQUIA
+http://clubtv.link/dic1201/key4811/lista2.php?c=887
+#EXTINF:-1 group-title="TV PREMIUM",TELECAFE
+http://clubtv.link/dic1201/key4811/lista2.php?c=888
+#EXTINF:-1 group-title="TV PREMIUM",TELEMUNDO
+http://clubtv.link/dic1201/key4811/lista2.php?c=889
+#EXTINF:-1 group-title="TV PREMIUM",TELEPACIFICO
+http://clubtv.link/dic1201/key4811/lista2.php?c=890
+#EXTINF:-1 group-title="TV PREMIUM",TLNOVELAS
+http://clubtv.link/dic1201/key4811/lista2.php?c=891
+#EXTINF:-1 group-title="TV PREMIUM",TNT
+http://clubtv.link/dic1201/key4811/lista2.php?c=892
+#EXTINF:-1 group-title="TV PREMIUM",TNT SERIES HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=893
+#EXTINF:-1 group-title="TV PREMIUM",TRUTV HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=894
+#EXTINF:-1 group-title="TV PREMIUM",TVES
+http://clubtv.link/dic1201/key4811/lista2.php?c=895
+#EXTINF:-1 group-title="TV PREMIUM",UNIVERSAL
+http://clubtv.link/dic1201/key4811/lista2.php?c=896
+#EXTINF:-1 group-title="TV PREMIUM",UNO
+http://clubtv.link/dic1201/key4811/lista2.php?c=897
+#EXTINF:-1 group-title="TV PREMIUM",VEPLUSTV
+http://clubtv.link/dic1201/key4811/lista2.php?c=898
+#EXTINF:-1 group-title="TV PREMIUM",VH1
+http://clubtv.link/dic1201/key4811/lista2.php?c=899
+#EXTINF:-1 group-title="TV PREMIUM",VH1 CLASSIC
+http://clubtv.link/dic1201/key4811/lista2.php?c=900
+#EXTINF:-1 group-title="TV PREMIUM",WARNER
+http://clubtv.link/dic1201/key4811/lista2.php?c=901
+#EXTINF:-1 group-title="TV PREMIUM",A&E
+http://clubtv.link/dic1201/key4811/lista2.php?c=33133
+#EXTINF:-1 group-title="TV PREMIUM",A&E
+http://clubtv.link/dic1201/key4811/lista2.php?c=33134
+#EXTINF:-1 group-title="TV PREMIUM",AMC FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33136
+#EXTINF:-1 group-title="TV PREMIUM",ANIMAL PLANET
+http://clubtv.link/dic1201/key4811/lista2.php?c=33137
+#EXTINF:-1 group-title="TV PREMIUM",ANIMAL PLANET
+http://clubtv.link/dic1201/key4811/lista2.php?c=33138
+#EXTINF:-1 group-title="TV PREMIUM",AXN FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33139
+#EXTINF:-1 group-title="TV PREMIUM",Baby TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=33140
+#EXTINF:-1 group-title="TV PREMIUM",Baby TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=33141
+#EXTINF:-1 group-title="TV PREMIUM",Bloomberg TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=33142
+#EXTINF:-1 group-title="TV PREMIUM",Boomerang
+http://clubtv.link/dic1201/key4811/lista2.php?c=33143
+#EXTINF:-1 group-title="TV PREMIUM",Cartoon Network HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33144
+#EXTINF:-1 group-title="TV PREMIUM",Cartoon Network HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33145
 
-#EXTINF:-1 group-title="CINE Y SERIES",TNT 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=126&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES
-http://clubtv.link/dic1201/key75309/geomex4.php?c=71&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=3112&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TBS SD  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=81&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA + 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=121&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN +
-http://clubtv.link/dic1201/key75309/geomex4.php?c=122&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
-http://clubtv.link/dic1201/key75309/geomex4.php?c=123&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=124&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",sun 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=126&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TCM
-http://clubtv.link/dic1201/key75309/geomex4.php?c=128&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SPACE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=129&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AMC 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=131&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=132&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",I SAT  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=135&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=136&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=137&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FXM
-http://clubtv.link/dic1201/key75309/geomex4.php?c=138&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=332&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
-http://clubtv.link/dic1201/key75309/geomex4.php?c=139&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
-http://clubtv.link/dic1201/key75309/geomex4.php?c=140&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=146&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=149&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=158&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AMC  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=328&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=335&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
-http://clubtv.link/dic1201/key75309/geomex4.php?c=336&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1726&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1729&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1732&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1787&f=.m3u8
-
-
-
-#EXTINF:-1 group-title="MUSICA",MTV LIVE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=211&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",MTV
-http://clubtv.link/dic1201/key75309/geomex4.php?c=212&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",MTV HITS SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=213&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",VH1 CLASSIC SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=214&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",VH1 SD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=217&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",TELEHIT URBANO SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=218&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",TELEHIT +
-http://clubtv.link/dic1201/key75309/geomex4.php?c=220&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",BANDAMAX SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=221&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",AZ CLIC
-http://clubtv.link/dic1201/key75309/geomex4.php?c=223&f=.m3u8
-#EXTINF:-1 group-title="MUSICA",VH1 HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=334&f=.m3u8
-
-
-#EXTINF:-1 group-title="NOTICIAS",FOROTV HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=4&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",FOROTV SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=19&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",ADN40
-http://clubtv.link/dic1201/key75309/geomex4.php?c=40&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",ADN 40 HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=184&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",CNN
-http://clubtv.link/dic1201/key75309/geomex4.php?c=185&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",CNN SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=186&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",CNN Ñ SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=187&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",WOBI 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=102&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",FOXN EWS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=188&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=190&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",BBC SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=191&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=192&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",NTN 24
-http://clubtv.link/dic1201/key75309/geomex4.php?c=194&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=196&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",HLN
-http://clubtv.link/dic1201/key75309/geomex4.php?c=197&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",DW 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=203&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",RT
-http://clubtv.link/dic1201/key75309/geomex4.php?c=999&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",MILENIO HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1250&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",MILENIO SD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1252&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1449&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1649&f=.m3u8
- #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2091&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",FRANCE 24
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2402&f=.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTES",ESPN + 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=167&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=168&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://clubtv.link/dic1201/key75309/geomex4.php?c=169&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=170&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
-http://clubtv.link/dic1201/key75309/geomex4.php?c=172&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TUDN
-http://clubtv.link/dic1201/key75309/geomex4.php?c=174&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=178&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOLF
-http://clubtv.link/dic1201/key75309/geomex4.php?c=179&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",AYM SPORTS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=180&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=345&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TUDN HD (2)
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1049&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ADRENALINA SPORTS HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1799&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",LAS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2089&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",HAVOC
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2148&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2157&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2564&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2587&f=.m3u8
-
-
-#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
-http://clubtv.link/dic1201/key75309/geomex4.php?c=3315&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
-http://clubtv.link/dic1201/key75309/geomex4.php?c=3316&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=7&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=11&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=17&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 5
-http://clubtv.link/dic1201/key75309/geomex4.php?c=20&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7
-http://clubtv.link/dic1201/key75309/geomex4.php?c=21&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",NU9VE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=24&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ONCE
-http://clubtv.link/dic1201/key75309/geomex4.php?c=25&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO
-http://clubtv.link/dic1201/key75309/geomex4.php?c=27&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=32&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
-http://clubtv.link/dic1201/key75309/geomex4.php?c=44&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=70&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ MUNDO
-http://clubtv.link/dic1201/key75309/geomex4.php?c=84&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=317&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
-http://clubtv.link/dic1201/key75309/geomex4.php?c=322&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2298&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2305&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",APREDNE TV
-http://clubtv.link/dic1201/key75309/geomex4.php?c=401&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1253&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",NU9VE HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1783&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1784&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1785&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ONCE HD 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=1942&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MVS TV
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2149&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TVC
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2156&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 4 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2274&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL 8
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2307&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2312&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",A+ 
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2316&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",TVMAS
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2324&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2331&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2352&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2606&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ACADEMIA
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2703&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
-http://clubtv.link/dic1201/key75309/geomex4.php?c=2882&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cinemax
+http://clubtv.link/dic1201/key4811/lista2.php?c=33185
+#EXTINF:-1 group-title="TV PREMIUM",Cinemax East FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33187
+#EXTINF:-1 group-title="TV PREMIUM",Cinemax West
+http://clubtv.link/dic1201/key4811/lista2.php?c=33188
+#EXTINF:-1 group-title="TV PREMIUM",Claro Sports HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33189
+#EXTINF:-1 group-title="TV PREMIUM",Comedy Central HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33190
+#EXTINF:-1 group-title="TV PREMIUM",DirecTV Sports 2 HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33191
+#EXTINF:-1 group-title="TV PREMIUM",DirecTV Sports+
+http://clubtv.link/dic1201/key4811/lista2.php?c=33192
+#EXTINF:-1 group-title="TV PREMIUM",Discovery H&H
+http://clubtv.link/dic1201/key4811/lista2.php?c=33193
+#EXTINF:-1 group-title="TV PREMIUM",Discovery H&H
+http://clubtv.link/dic1201/key4811/lista2.php?c=33194
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33195
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33196
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Science
+http://clubtv.link/dic1201/key4811/lista2.php?c=33197
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Science
+http://clubtv.link/dic1201/key4811/lista2.php?c=33198
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Theater FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33199
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Theater FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33200
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
+http://clubtv.link/dic1201/key4811/lista2.php?c=33201
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
+http://clubtv.link/dic1201/key4811/lista2.php?c=33202
+#EXTINF:-1 group-title="TV PREMIUM",Discovery World HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33203
+#EXTINF:-1 group-title="TV PREMIUM",Discovery World
+http://clubtv.link/dic1201/key4811/lista2.php?c=33204
+#EXTINF:-1 group-title="TV PREMIUM",Disney Channel FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33205
+#EXTINF:-1 group-title="TV PREMIUM",Disney Channel FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33206
+#EXTINF:-1 group-title="TV PREMIUM",Disney Junior
+http://clubtv.link/dic1201/key4811/lista2.php?c=33207
+#EXTINF:-1 group-title="TV PREMIUM",Disney Junior
+http://clubtv.link/dic1201/key4811/lista2.php?c=33208
+#EXTINF:-1 group-title="TV PREMIUM",E
+http://clubtv.link/dic1201/key4811/lista2.php?c=33209
+#EXTINF:-1 group-title="TV PREMIUM",Estrella TV East HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33211
+#EXTINF:-1 group-title="TV PREMIUM",Food Network
+http://clubtv.link/dic1201/key4811/lista2.php?c=33212
+#EXTINF:-1 group-title="TV PREMIUM",Foro TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=33213
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 1 FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33214
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 2
+http://clubtv.link/dic1201/key4811/lista2.php?c=33215
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 3
+http://clubtv.link/dic1201/key4811/lista2.php?c=33216
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33217
+#EXTINF:-1 group-title="TV PREMIUM",FX FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33218
+#EXTINF:-1 group-title="TV PREMIUM",FXM HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33219
+#EXTINF:-1 group-title="TV PREMIUM",Galavision Este HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33220
+#EXTINF:-1 group-title="TV PREMIUM",Glitz
+http://clubtv.link/dic1201/key4811/lista2.php?c=33221
+#EXTINF:-1 group-title="TV PREMIUM",Gol TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=33222
+#EXTINF:-1 group-title="TV PREMIUM",Golden Premier FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33223
+#EXTINF:-1 group-title="TV PREMIUM",Golf Channel
+http://clubtv.link/dic1201/key4811/lista2.php?c=33224
+#EXTINF:-1 group-title="TV PREMIUM",HBO 2 FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33225
+#EXTINF:-1 group-title="TV PREMIUM",HBO Family
+http://clubtv.link/dic1201/key4811/lista2.php?c=33226
+#EXTINF:-1 group-title="TV PREMIUM",HBO FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33227
+#EXTINF:-1 group-title="TV PREMIUM",HBO Mundi
+http://clubtv.link/dic1201/key4811/lista2.php?c=33228
+#EXTINF:-1 group-title="TV PREMIUM",HBO Pop FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33229
+#EXTINF:-1 group-title="TV PREMIUM",HBO Signature FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33230
+#EXTINF:-1 group-title="TV PREMIUM",HBO+ FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33231
+#EXTINF:-1 group-title="TV PREMIUM",History
+http://clubtv.link/dic1201/key4811/lista2.php?c=33232
+#EXTINF:-1 group-title="TV PREMIUM",History
+http://clubtv.link/dic1201/key4811/lista2.php?c=33233
+#EXTINF:-1 group-title="TV PREMIUM",History 2 HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33234
+#EXTINF:-1 group-title="TV PREMIUM",History 2 HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33235
+#EXTINF:-1 group-title="TV PREMIUM",Investigation Discovery FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33237
+#EXTINF:-1 group-title="TV PREMIUM",Investigation Discovery FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33238
+#EXTINF:-1 group-title="TV PREMIUM",Lifetime
+http://clubtv.link/dic1201/key4811/lista2.php?c=33242
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO
+http://clubtv.link/dic1201/key4811/lista2.php?c=33245
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO
+http://clubtv.link/dic1201/key4811/lista2.php?c=33246
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO Kids FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33247
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO Kids FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33248
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO Mundo HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33249
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO Mundo HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33250
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO Wild
+http://clubtv.link/dic1201/key4811/lista2.php?c=33251
+#EXTINF:-1 group-title="TV PREMIUM",NAT GEO Wild
+http://clubtv.link/dic1201/key4811/lista2.php?c=33252
+#EXTINF:-1 group-title="TV PREMIUM",Nick Junior
+http://clubtv.link/dic1201/key4811/lista2.php?c=33253
+#EXTINF:-1 group-title="TV PREMIUM",Nick Junior
+http://clubtv.link/dic1201/key4811/lista2.php?c=33254
+#EXTINF:-1 group-title="TV PREMIUM",Paramount
+http://clubtv.link/dic1201/key4811/lista2.php?c=33256
+#EXTINF:-1 group-title="TV PREMIUM",Pasiones FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33257
+#EXTINF:-1 group-title="TV PREMIUM",Showtime East FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33259
+#EXTINF:-1 group-title="TV PREMIUM",Sony Channel FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33260
+#EXTINF:-1 group-title="TV PREMIUM",Space FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33261
+#EXTINF:-1 group-title="TV PREMIUM",Star Channel FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33263
+#EXTINF:-1 group-title="TV PREMIUM",Starz Cinema  FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33271
+#EXTINF:-1 group-title="TV PREMIUM",Starz Cinema FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33272
+#EXTINF:-1 group-title="TV PREMIUM",Starz East FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33273
+#EXTINF:-1 group-title="TV PREMIUM",Starz Encore HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33275
+#EXTINF:-1 group-title="TV PREMIUM",Studio Universal FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33276
+#EXTINF:-1 group-title="TV PREMIUM",SYFY HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33277
+#EXTINF:-1 group-title="TV PREMIUM",TBS FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33278
+#EXTINF:-1 group-title="TV PREMIUM",TCM
+http://clubtv.link/dic1201/key4811/lista2.php?c=33279
+#EXTINF:-1 group-title="TV PREMIUM",Nickmusic FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33280
+#EXTINF:-1 group-title="TV PREMIUM",TeenNick FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33281
+#EXTINF:-1 group-title="TV PREMIUM",Telemundo Internacional FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33284
+#EXTINF:-1 group-title="TV PREMIUM",TLC HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33288
+#EXTINF:-1 group-title="TV PREMIUM",TNT FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33289
+#EXTINF:-1 group-title="TV PREMIUM",Tooncast
+http://clubtv.link/dic1201/key4811/lista2.php?c=33290
+#EXTINF:-1 group-title="TV PREMIUM",Unicable
+http://clubtv.link/dic1201/key4811/lista2.php?c=33292
+#EXTINF:-1 group-title="TV PREMIUM",Universal TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=33293
+#EXTINF:-1 group-title="TV PREMIUM",VH1 FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33294
+#EXTINF:-1 group-title="TV PREMIUM",VH1 FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33295
+#EXTINF:-1 group-title="TV PREMIUM",Warner Bros FHD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33296
+#EXTINF:-1 group-title="TV PREMIUM",Starz East
+http://clubtv.link/dic1201/key4811/lista2.php?c=19179
+#EXTINF:-1 group-title="TV PREMIUM",Starz West
+http://clubtv.link/dic1201/key4811/lista2.php?c=19180
+#EXTINF:-1 group-title="TV PREMIUM",Starz Encore Western
+http://clubtv.link/dic1201/key4811/lista2.php?c=19182
+#EXTINF:-1 group-title="TV PREMIUM",Starz Encore Suspense
+http://clubtv.link/dic1201/key4811/lista2.php?c=19183
+#EXTINF:-1 group-title="TV PREMIUM",France 24
+http://clubtv.link/dic1201/key4811/lista2.php?c=19169
+#EXTINF:-1 group-title="TV PREMIUM",Starz Encore Classic
+http://clubtv.link/dic1201/key4811/lista2.php?c=19185
+#EXTINF:-1 group-title="TV PREMIUM",Starz Encore Black
+http://clubtv.link/dic1201/key4811/lista2.php?c=19186
+#EXTINF:-1 group-title="TV PREMIUM",Starz Encore Action
+http://clubtv.link/dic1201/key4811/lista2.php?c=19187
+#EXTINF:-1 group-title="TV PREMIUM",STARZ Cinema
+http://clubtv.link/dic1201/key4811/lista2.php?c=19178
+#EXTINF:-1 group-title="TV PREMIUM",Starz Black
+http://clubtv.link/dic1201/key4811/lista2.php?c=19177
+#EXTINF:-1 group-title="TV PREMIUM",STARZ EDGE
+http://clubtv.link/dic1201/key4811/lista2.php?c=19176
+#EXTINF:-1 group-title="TV PREMIUM",Starz Encore Family
+http://clubtv.link/dic1201/key4811/lista2.php?c=19184
+#EXTINF:-1 group-title="TV PREMIUM",Starz Kids & Family
+http://clubtv.link/dic1201/key4811/lista2.php?c=19181
 
