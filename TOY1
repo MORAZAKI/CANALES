@@ -1,8 +1,6 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 16/DIC/2022 09:30 HORAS  
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
-
-
 #EXTINF:-1 group-title="Lista TV3", TELEMUNDO (QTAR) 
 https://s@turnthe.gameon.tel/live/telemundo/index.m3u8
 #EXTINF:-1 group-title="Lista TV3", BAYRES TV (QTAR)
@@ -13,9 +11,6 @@ https://ltocatamarca.github.io/ltotv.m3u8?PlaylistM3UCL
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Lista TV3", CANAL DE LAS ESTRELLAS (QTAR)
 http://190.61.102.67:31589/play/a00g/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
 http://clubtv.link/dic1412/key4434/geomex2.php?c=3315&f=.m3u8
@@ -125,8 +120,6 @@ http://clubtv.link/dic1412/key4434/geomex2.php?c=263&f=.m3u8
 http://clubtv.link/dic1412/key4434/geomex2.php?c=269&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
 http://clubtv.link/dic1412/key4434/geomex2.php?c=371&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
-http://clubtv.link/dic1412/key4434/geomex2.php?c=373&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",HISTORY
 http://clubtv.link/dic1412/key4434/geomex2.php?c=353&f=.m3u8
 #EXTINF:-1 group-title="CULTURA",NAT GEO  
