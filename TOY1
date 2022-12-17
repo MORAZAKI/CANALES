@@ -5,8 +5,8 @@ https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f598536
 https://s@turnthe.gameon.tel/live/telemundo/index.m3u8
 #EXTINF:-1 group-title="Lista TV3", BAYRES TV (QTAR)
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Lista TV3", LTO TV (QTAR) 
-https://ltocatamarca.github.io/ltotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Lista TV3", TA ECDF (QTAR) 
+https://t3.switchcast2.com:999/hls/wsmkmlfeed49.m3u8?md5=f1uFRajZFTh-xQf-fi3g2Q&expires=1671298919
 #EXTINF:-1 group-title="Lista TV3", TUDN (QTAR)
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Lista TV3", CANAL DE LAS ESTRELLAS (QTAR)
