@@ -1,298 +1,571 @@
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO",  19/FEB/2023 00:10 HORAS 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO",  19/FEB/2023 00:15 HORAS 
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
-#EXTINF:-1 group-title="Lista MX", AND40
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZ UNO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=23&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", 34.1
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=44&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", LAS ESTRELLAS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=52&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CANAL 5
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=55&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEMUNDO INTERNACIONAL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=85&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", LAS ESTRELLAS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FORO TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=104&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CANAL 5
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=105&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZTECA 7
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=107&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TUDN
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=109&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", SPR
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=111&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZTECA UNO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=113&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BABY TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=116&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GOLDEN
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=123&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", EUROPA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=136&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FILMS&ARTS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=137&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEFORMULA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=161&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CANAL 6
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=167&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS 3
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=178&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GOLF
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=179&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CNN
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=185&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CNN ESP
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=187&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOX NEWS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=188&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BLOOMBERG
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=190&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BBC WORLD NEWS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=191&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AL JAZEERA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=192&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NTN24
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=194&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ANTENA 3 INT
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=199&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", STAR CHANNEL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=201&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", SONY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=203&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", WARNER CHANNEL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=205&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", UNIVERSAL CHANNEL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=207&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FX
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=209&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A&E
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=211&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TRU TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=215&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", COMEDY CENTRAL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=217&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", UNICABLE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=218&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", HOLA TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=219&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MAS CHIC
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=221&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZ CORAZON
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=250&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", E!
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=255&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", SYFY
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=257&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TNT SERIES
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=266&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GOURMET
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=268&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GARAGE TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=269&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GLITZ
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=270&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISTRITO COMEDIA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=272&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TBS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=273&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TLNOVELAS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=275&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZ MUNDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=276&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY KIDS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=303&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DSINEY JR
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=308&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NICK JR
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=310&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISNEY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=312&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NICK MUSIC
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=314&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NICK
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=315&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CARTOON NETWORK
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=320&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CARTOONITO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=324&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TOONCAST
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=328&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", D PELICULA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=335&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY THEATER
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=351&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", HISTORY
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=353&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY WORLD
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=356&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=371&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", H&H
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=374&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NAT GEO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=377&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", LIFETIME
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=379&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY SCIENCE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=381&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DESCONOCIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=387&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DESCONOCIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=401&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZ CINEMA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=425&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CINECANAL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=430&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TNT
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=435&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GOLDEN PLUS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=436&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", D PELICULA PLUS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=442&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AMC
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=444&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", SPACE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=445&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MORBIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=470&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CINEMAX
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=481&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GOLDEN EDGE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=484&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", STUDIO UNIVERSAL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=492&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", I SAT
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=495&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TCM
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=496&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN XTRA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=516&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 3
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=520&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=522&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS 2
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=527&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", PX SPORTS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=528&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 2
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=558&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=561&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AYM SPORTS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=576&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TVE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=651&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DW
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=654&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV LIVE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=701&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEHIT MUSICA PLUS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=702&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV 00S
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=703&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZ CLIC
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=725&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=726&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV HITS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=727&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV 80S
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=728&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEHIT MUSICA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=731&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BANDAMAX
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=732&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV 00S
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=735&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GALICIA TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=802&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", RT
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=999&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", EXCELSIORTV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1449&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NAT GEO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1640&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", PARAMUNT CHANNEL
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1726&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ADRENALINA SPORTS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1799&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZTECA 7
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1822&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ONCE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1825&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NU9VE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1922&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELERITMO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1943&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DESCONOCIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1977&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BABY FIRST
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1984&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", RT
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2091&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A3SERIES
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2113&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DESCONOCIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2130&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOOD NETWORK
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2145&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TEEN NICK
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2147&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MN
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2156&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TVC DEPORTES
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2157&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", EL FINANCIERO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2167&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DESCONOCIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2181&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A+
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2278&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", IMAGEN TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MULTIMEDIOS MTY
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2316&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEVISA MTY
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2307&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEVISA PUEBLA
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2312&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A MAS + MTY
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2316&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", STAR TVE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2375&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY ID
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2376&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ANIMAL PLANET
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2378&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY TURBO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2379&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DESCONOCIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2380&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FRANCE 24
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2402&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DESCONOCIDO
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2404&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AXN
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2507&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CLARO SPORTS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2564&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FUEL TV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2587&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BIT ME
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2591&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CURIOSITY STREAM
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2594&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", HGTV
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=3105&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A3CINE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=3112&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NIÑOS APRENDE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=3115&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", UBEAT
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=3135&f=.m3u8
+
+
+
+
+#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
+http://clubtv.link/feb1602/key4413/geomex2.php?c=3315&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
+http://clubtv.link/feb1602/key4413/geomex2.php?c=3316&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=113&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=725&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=102&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 5
+http://clubtv.link/feb1602/key4413/geomex2.php?c=105&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://clubtv.link/feb1602/key4413/geomex2.php?c=107&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",NU9VE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=109&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=111&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO
+http://clubtv.link/feb1602/key4413/geomex2.php?c=113&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=161&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
+http://clubtv.link/feb1602/key4413/geomex2.php?c=44&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=250&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ MUNDO
+http://clubtv.link/feb1602/key4413/geomex2.php?c=276&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=107&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2298&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2298&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2305&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",APREDNE TV
+http://clubtv.link/feb1602/key4413/geomex2.php?c=401&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://clubtv.link/feb1602/key4413/geomex2.php?c=167&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",NU9VE HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=109&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=102&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
+http://clubtv.link/feb1602/key4413/geomex2.php?c=105&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE HD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=111&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MVS TV
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2149&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TVC
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2156&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 4 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2274&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 8
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2307&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2312&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",A+ 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2316&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TVMAS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2324&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2331&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2352&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2298&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ACADEMIA
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2703&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=167&f=.m3u8
+
+
+#EXTINF:-1 group-title="INFANTIL",TOONCAST
+http://clubtv.link/feb1602/key4413/geomex2.php?c=328&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=303&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK
+http://clubtv.link/feb1602/key4413/geomex2.php?c=317&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY XD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=322&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
+http://clubtv.link/feb1602/key4413/geomex2.php?c=320&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=312&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",Cartoonito
+http://clubtv.link/feb1602/key4413/geomex2.php?c=324&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",BABY TV 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=116&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK JR
+http://clubtv.link/feb1602/key4413/geomex2.php?c=310&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR
+http://clubtv.link/feb1602/key4413/geomex2.php?c=308&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICKTOONS SD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=314&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",BABY FIRST
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1984&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK 2  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2147&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NAT GEO KIDS  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2373&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",BIT ME  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2591&f=.m3u8
+
+
+#EXTINF:-1 group-title="CULTURA",DISCOVERY ID
+http://clubtv.link/feb1602/key4413/geomex2.php?c=263&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",GARAGE TV 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=269&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=371&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
+http://clubtv.link/feb1602/key4413/geomex2.php?c=373&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",HISTORY
+http://clubtv.link/feb1602/key4413/geomex2.php?c=353&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",NAT GEO  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=377&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",NAT GEO WILD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=355&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER
+http://clubtv.link/feb1602/key4413/geomex2.php?c=351&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",H&H
+http://clubtv.link/feb1602/key4413/geomex2.php?c=374&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",TLC
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2380&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=381&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CIVILIZATION
+http://clubtv.link/feb1602/key4413/geomex2.php?c=382&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=356&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",TVE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=651&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",SHOPPING
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1943&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",FOOD NETWORK 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2145&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",STAR TVE 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2375&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2379&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2594&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
+http://clubtv.link/feb1602/key4413/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
+http://clubtv.link/feb1602/key4413/distro.php?c=top-cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
+http://clubtv.link/feb1602/key4413/distro.php?c=juntos&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
+http://clubtv.link/feb1602/key4413/distro.php?c=cine-real-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
+http://clubtv.link/feb1602/key4413/distro.php?c=cine-sureno&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
+http://clubtv.link/feb1602/key4413/distro.php?c=casa-comedy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
+http://clubtv.link/feb1602/key4413/distro.php?c=spanglish&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
+http://clubtv.link/feb1602/key4413/distro.php?c=horrofy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
+http://clubtv.link/feb1602/key4413/distro.php?c=wapptv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
+http://clubtv.link/feb1602/key4413/distro.php?c=tu.cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/feb1602/key4413/distro.php?c=el-conflicto-tv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
+http://clubtv.link/feb1602/key4413/distro.php?c=saber-mas&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
+http://clubtv.link/feb1602/key4413/distro.php?c=flash-1&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
+http://clubtv.link/feb1602/key4413/distro.php?c=mmc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
+http://clubtv.link/feb1602/key4413/distro.php?c=chiquilines&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+http://clubtv.link/feb1602/key4413/distro.php?c=glewedtv-spanish&f=.m3u8
+
+#EXTINF:-1 group-title="VIX (solo México)", 40 Y 20
+http://clubtv.link/feb1602/key4413/vix.php?c=340.frequency.stream/340&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Adrenalina Sport
+http://clubtv.link/feb1602/key4413/vix.php?c=393.frequency.stream/393&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Alegrijes Y Rebujos
+http://clubtv.link/feb1602/key4413/vix.php?c=319.frequency.stream/319&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Amigas Y Rivales
+http://clubtv.link/feb1602/key4413/vix.php?c=320.frequency.stream/320&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Amores Verdaderos
+http://clubtv.link/feb1602/key4413/vix.php?c=305.frequency.stream/305&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Aqui Y Ahora
+http://clubtv.link/feb1602/key4413/vix.php?c=306.frequency.stream/306&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine
+http://clubtv.link/feb1602/key4413/vix.php?c=449.frequency.stream/449&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine 1
+http://clubtv.link/feb1602/key4413/vix.php?c=307.frequency.stream/307&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine 2
+http://clubtv.link/feb1602/key4413/vix.php?c=308.frequency.stream/308&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine 3
+http://clubtv.link/feb1602/key4413/vix.php?c=309.frequency.stream/309&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine Club - Prendetv
+http://clubtv.link/feb1602/key4413/vix.php?c=192.frequency.stream/192&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine Del Ayer
+http://clubtv.link/feb1602/key4413/vix.php?c=429.frequency.stream/429&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine Sd
+http://clubtv.link/feb1602/key4413/vix.php?c=450.frequency.stream/450&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cine Sd
+http://clubtv.link/feb1602/key4413/vix.php?c=451.frequency.stream/451&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Clase 406
+http://clubtv.link/feb1602/key4413/vix.php?c=322.frequency.stream/322&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cnn Colombia
+http://clubtv.link/feb1602/key4413/vix.php?c=358.frequency.stream/358&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Comedy Tv
+http://clubtv.link/feb1602/key4413/vix.php?c=89.frequency.stream/89&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Como Dice El Dicho
+http://clubtv.link/feb1602/key4413/vix.php?c=341.frequency.stream/341&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Corazón Salvaje
+http://clubtv.link/feb1602/key4413/vix.php?c=325.frequency.stream/325&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Crónicas
+http://clubtv.link/feb1602/key4413/vix.php?c=315.frequency.stream/315&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Cuidado Con El Angel
+http://clubtv.link/feb1602/key4413/vix.php?c=316.frequency.stream/316&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Del Mercado Al Plato
+http://clubtv.link/feb1602/key4413/vix.php?c=317.frequency.stream/317&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Deportes
+http://clubtv.link/feb1602/key4413/vix.php?c=452.frequency.stream/452&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Durmiendo Con Mi Jefe
+http://clubtv.link/feb1602/key4413/vix.php?c=312.frequency.stream/312&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", El Privilegio De Mandar
+http://clubtv.link/feb1602/key4413/vix.php?c=313.frequency.stream/313&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Failarmy
+http://clubtv.link/feb1602/key4413/vix.php?c=197.frequency.stream/197&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Familia P. Luche
+http://clubtv.link/feb1602/key4413/vix.php?c=311.frequency.stream/311&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Fun Videos
+http://clubtv.link/feb1602/key4413/vix.php?c=121.frequency.stream/121&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Héroes Del Norte
+http://clubtv.link/feb1602/key4413/vix.php?c=323.frequency.stream/323&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Juana La Virgen
+http://clubtv.link/feb1602/key4413/vix.php?c=327.frequency.stream/327&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Kids
+http://clubtv.link/feb1602/key4413/vix.php?c=355.frequency.stream/355&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", La Promesa
+http://clubtv.link/feb1602/key4413/vix.php?c=343.frequency.stream/343&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", La Selecc10n
+http://clubtv.link/feb1602/key4413/vix.php?c=345.frequency.stream/345&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Lo Mejor De La Liga Mx - Prendetv
+http://clubtv.link/feb1602/key4413/vix.php?c=193.frequency.stream/193&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Lo Que Diga El Corazon
+http://clubtv.link/feb1602/key4413/vix.php?c=346.frequency.stream/346&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Local View
+http://clubtv.link/feb1602/key4413/vix.php?c=402.frequency.stream/402&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Local View 2
+http://clubtv.link/feb1602/key4413/vix.php?c=403.frequency.stream/403&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Love Nature
+http://clubtv.link/feb1602/key4413/vix.php?c=390.frequency.stream/390&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", María Mercedes
+http://clubtv.link/feb1602/key4413/vix.php?c=328.frequency.stream/328&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Media +
+http://clubtv.link/feb1602/key4413/vix.php?c=301.frequency.stream/301&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Mi Gorda Bella
+http://clubtv.link/feb1602/key4413/vix.php?c=334.frequency.stream/334&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Muchachitas
+http://clubtv.link/feb1602/key4413/vix.php?c=331.frequency.stream/331&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Muchachitas Como Tu
+http://clubtv.link/feb1602/key4413/vix.php?c=332.frequency.stream/332&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Novelas
+http://clubtv.link/feb1602/key4413/vix.php?c=445.frequency.stream/445&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Novelas De Oro - Prendetv
+http://clubtv.link/feb1602/key4413/vix.php?c=196.frequency.stream/196&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Novelas De Romance - Prendetv
+http://clubtv.link/feb1602/key4413/vix.php?c=194.frequency.stream/194&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Novelas En Familia - Prendetv
+http://clubtv.link/feb1602/key4413/vix.php?c=195.frequency.stream/195&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Novelas Hd
+http://clubtv.link/feb1602/key4413/vix.php?c=448.frequency.stream/448&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Novelas Sd
+http://clubtv.link/feb1602/key4413/vix.php?c=447.frequency.stream/447&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Papa A Toda Madre
+http://clubtv.link/feb1602/key4413/vix.php?c=336.frequency.stream/336&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", People Are Awesome
+http://clubtv.link/feb1602/key4413/vix.php?c=39.frequency.stream/39&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Que Bonito Amor
+http://clubtv.link/feb1602/key4413/vix.php?c=329.frequency.stream/329&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Rebelde
+http://clubtv.link/feb1602/key4413/vix.php?c=335.frequency.stream/335&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Retro Peli
+http://clubtv.link/feb1602/key4413/vix.php?c=304.frequency.stream/304&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Sortilegio
+http://clubtv.link/feb1602/key4413/vix.php?c=337.frequency.stream/337&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Tele Musica
+http://clubtv.link/feb1602/key4413/vix.php?c=418.frequency.stream/418&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Tele Musica+
+http://clubtv.link/feb1602/key4413/vix.php?c=419.frequency.stream/419&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Telehit
+http://clubtv.link/feb1602/key4413/vix.php?c=417.frequency.stream/417&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Teresa
+http://clubtv.link/feb1602/key4413/vix.php?c=324.frequency.stream/324&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Teresa
+http://clubtv.link/feb1602/key4413/vix.php?c=342.frequency.stream/342&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", The Weather Channel(Es)
+http://clubtv.link/feb1602/key4413/vix.php?c=431.frequency.stream/431&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", The Weather Channel(Es) Hd
+http://clubtv.link/feb1602/key4413/vix.php?c=453.frequency.stream/453&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Tres Veces Ana
+http://clubtv.link/feb1602/key4413/vix.php?c=321.frequency.stream/321&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Triunfo Del Amor
+http://clubtv.link/feb1602/key4413/vix.php?c=338.frequency.stream/338&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Tv Venta
+http://clubtv.link/feb1602/key4413/vix.php?c=352.frequency.stream/352&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Unknown 101
+http://clubtv.link/feb1602/key4413/vix.php?c=330.frequency.stream/330&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Unknown 262
+http://clubtv.link/feb1602/key4413/vix.php?c=446.frequency.stream/446&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Vecinos
+http://clubtv.link/feb1602/key4413/vix.php?c=314.frequency.stream/314&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Vevo
+http://clubtv.link/feb1602/key4413/vix.php?c=388.frequency.stream/388&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Vevo
+http://clubtv.link/feb1602/key4413/vix.php?c=389.frequency.stream/389&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Videos Chistosos
+http://clubtv.link/feb1602/key4413/vix.php?c=46.frequency.stream/46&f=.m3u8
+#EXTINF:-1 group-title="VIX (solo México)", Videos Chistosos 2
+http://clubtv.link/feb1602/key4413/vix.php?c=49.frequency.stream/49&f=.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=85&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Star Channel  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=201&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=203&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=205&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+http://clubtv.link/feb1602/key4413/geomex2.php?c=255&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=207&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY
+http://clubtv.link/feb1602/key4413/geomex2.php?c=257&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+http://clubtv.link/feb1602/key4413/geomex2.php?c=209&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+http://clubtv.link/feb1602/key4413/geomex2.php?c=211&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://clubtv.link/feb1602/key4413/geomex2.php?c=213&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=66&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
+http://clubtv.link/feb1602/key4413/geomex2.php?c=69&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",sun SERIES
+http://clubtv.link/feb1602/key4413/geomex2.php?c=266&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GLITZ
+http://clubtv.link/feb1602/key4413/geomex2.php?c=270&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=268&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=271&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=272&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
+http://clubtv.link/feb1602/key4413/geomex2.php?c=215&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TL NOVELAS SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=275&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=379&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ANTENA 3
+http://clubtv.link/feb1602/key4413/geomex2.php?c=199&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX HD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=201&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER HD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=205&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=207&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=209&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=215&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=219&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=340&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=341&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1499&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1842&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2113&f=.m3u8
+
+
+#EXTINF:-1 group-title="CINE Y SERIES",TNT 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=435&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES
+http://clubtv.link/feb1602/key4413/geomex2.php?c=266&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=3112&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TBS SD  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=273&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA + 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=442&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN +
+http://clubtv.link/feb1602/key4413/geomex2.php?c=436&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
+http://clubtv.link/feb1602/key4413/geomex2.php?c=123&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=484&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",sun 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=435&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TCM
+http://clubtv.link/feb1602/key4413/geomex2.php?c=496&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SPACE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=445&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=490&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=492&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",I SAT  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=495&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=136&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=137&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FXM
+http://clubtv.link/feb1602/key4413/geomex2.php?c=440&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=332&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
+http://clubtv.link/feb1602/key4413/geomex2.php?c=415&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
+http://clubtv.link/feb1602/key4413/geomex2.php?c=470&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=417&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=430&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=481&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=444&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=335&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
+http://clubtv.link/feb1602/key4413/geomex2.php?c=416&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1726&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=421&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=424&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=425&f=.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES", HBO 2
+http://clubtv.link/feb1602/key4413/lista2.php?c=a00r
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Family
+http://clubtv.link/feb1602/key4413/lista2.php?c=a00u
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Plus
+http://clubtv.link/feb1602/key4413/lista2.php?c=a00s
+#EXTINF:-1 group-title="CINE Y SERIES", HBO XTREME SD
+http://clubtv.link/feb1602/key4413/lista2.php?c=a00t
+
+#EXTINF:-1 group-title="MUSICA",MTV LIVE
+http://clubtv.link/feb1602/key4413/geomex2.php?c=701&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV
+http://clubtv.link/feb1602/key4413/geomex2.php?c=726&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV HITS SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=727&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",VH1 CLASSIC SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=728&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",VH1 SD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=735&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",TELEHIT URBANO SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=731&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",TELEHIT +
+http://clubtv.link/feb1602/key4413/geomex2.php?c=702&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",BANDAMAX SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=732&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",AZ CLIC
+http://clubtv.link/feb1602/key4413/geomex2.php?c=725&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",VH1 HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=703&f=.m3u8
+
+
+
+#EXTINF:-1 group-title="NOTICIAS",FOROTV SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=104&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",ADN40
+http://clubtv.link/feb1602/key4413/geomex2.php?c=140&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",ADN 40 HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN
+http://clubtv.link/feb1602/key4413/geomex2.php?c=185&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=186&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN Ñ SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=187&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",WOBI 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=387&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FOXN EWS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=188&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=190&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",BBC SD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=191&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=192&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",NTN 24
+http://clubtv.link/feb1602/key4413/geomex2.php?c=194&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=196&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",HLN
+http://clubtv.link/feb1602/key4413/geomex2.php?c=197&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=203&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",RT
+http://clubtv.link/feb1602/key4413/geomex2.php?c=999&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",MILENIO HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1250&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",MILENIO SD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1252&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1449&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1649&f=.m3u8
+ #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2091&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FRANCE 24
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2402&f=.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES",ESPN + 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=516&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=561&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://clubtv.link/feb1602/key4413/geoextra.php?c=3035&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=522&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+http://clubtv.link/feb1602/key4413/geomex2.php?c=527&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=178&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",GOLF
+http://clubtv.link/feb1602/key4413/geomex2.php?c=179&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",AYM SPORTS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=576&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=520&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN
+http://clubtv.link/feb1602/key4413/geoextra.php?c=160&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ADRENALINA SPORTS HD
+http://clubtv.link/feb1602/key4413/geomex2.php?c=1799&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",LAS
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2089&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",HAVOC
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2148&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2157&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD  
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2564&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
+http://clubtv.link/feb1602/key4413/geomex2.php?c=2587&f=.m3u8
+
