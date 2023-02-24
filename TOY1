@@ -6,7 +6,6 @@ https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 1080P
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Lista MX", ADN40
 https://regioplay.xyz/php/SR_REGIO_322023_/tpnuevo01.php?tokennn=Regio&c=2&f=.m3u8
 #EXTINF:-1 group-title="Lista MX", AZ UNO
@@ -299,5 +298,3 @@ https://regioplay.xyz/php/SR_REGIO_322023_/tpnuevo01.php?tokennn=Regio&c=3105&f=
 https://regioplay.xyz/php/SR_REGIO_322023_/tpnuevo01.php?tokennn=Regio&c=3112&f=.m3u8
 #EXTINF:-1 group-title="Lista MX", NIÑOS APRENDE
 https://regioplay.xyz/php/SR_REGIO_322023_/tpnuevo01.php?tokennn=Regio&c=3115&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", UBEAT
-https://regioplay.xyz/php/SR_REGIO_322023_/tpnuevo01.php?tokennn=Regio&c=3135&f=.m3u8
