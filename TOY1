@@ -1,10 +1,16 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO",  28/MARZO/2023 14:15 HORAS 
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
+
+
+
+
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 480P
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 1080P
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Lista MX", ADN40
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo01.php?tokennn=Regio&c=2&f=.m3u8
@@ -222,7 +228,7 @@ https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo01.php?tokennn=Regio&c=999&f=.
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo01.php?tokennn=Regio&c=1449&f=.m3u8
 #EXTINF:-1 group-title="Lista MX", NAT GEO
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo01.php?tokennn=Regio&c=1640&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", PARAMUNT CHANNEL
+#EXTINF:-1 group-title="Lista MX", PARAMOUNT CHANNEL
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo01.php?tokennn=Regio&c=1726&f=.m3u8
 #EXTINF:-1 group-title="Lista MX", ADRENALINA SPORTS
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo01.php?tokennn=Regio&c=1799&f=.m3u8
