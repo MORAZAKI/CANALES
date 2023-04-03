@@ -4,513 +4,393 @@
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
-#EXTINF:-1 group-title="Otros Canales", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Otros Canales", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Otros Canales", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Otros Canales", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Otros Canales", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="Otros Canales", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="Otros Canales", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 group-title="Otros Canales", REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Otros Canales", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 group-title="Otros Canales", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 group-title="Otros Canales", Telemundo NY
-https://regioplay.xyz/php/SR_REGIO_104023_/telemundo.php?token=SrRegio&c=telemundoNY&f=.m3u8
-#EXTINF:-1 group-title="Otros Canales", Telemundo LA
-https://v-la.mybtv.net/live/267.m3u8
-#EXTINF:-1 group-title="Android",AXN   
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=2&tokeen=SrRegio&f=.m3u8|user-agent=megaplayer
-#EXTINF:-1 group-title="Android",Animal Planet
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=3&tokeen=SrRegio&f=.m3u8|user-agent=megaplayer
-#EXTINF:-1 group-title="Android",Az Corazon
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=4&tokeen=SrRegio&f=.m3u8|user-agent=megaplayer
-#EXTINF:-1 group-title="Android",Az Mundo
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=5&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",AMC
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=6&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Antena 3 Internacional
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=7&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",BBC World
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=8&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Baby TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=9&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Bloomberg
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=10&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CNN Espanol
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=11&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CNN Internacional
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=12&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Cable Noticias
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=13&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Canal Claro
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=14&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Caracol
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=16&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Caracol Internacional
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=17&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Cartoon Network
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=18&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Cine Canal
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=19&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Cine Latino
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=20&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Cinema Dinamita
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=21&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Cinema Plus
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=22&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",City TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=23&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Claro Cinema
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=24&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Claro Music 1
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=25&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Claro Music 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=26&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Claro Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=27&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Claro Sports Latinoamerica
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=28&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Comedy Central
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=29&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",DHE
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=31&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",DW
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=32&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Concert Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=30&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",DW America
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=33&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",De Pelicula Plus
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=34&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=36&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery Home and Health
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=37&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery Kids
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=38&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery Science
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=39&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery Turbo
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=41&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery World
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=42&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery Theater
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=40&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Disney
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=43&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Disney JR
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=44&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Disney XD
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=45&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",E !
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=46&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",El Gourmet
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=47&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Mas Chic
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=48&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MTV Hits
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=49&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MTV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=50&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Lifetime
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=51&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Investigation Discovery
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=52&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",I.Sat
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=53&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Hola TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=54&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",H2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=55&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",History Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=56&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HTV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=57&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HLN
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=58&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO plus
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=59&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO Subtitulado
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=60&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO Signature
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=61&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO Family
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=62&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=63&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=64&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Golf Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=65&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Golden Premium
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=66&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Golden
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=67&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Glitz
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=68&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fx Movie Mex
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=69&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",France 24
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=71&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Sports 3 Sur
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=72&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Sports 2 MX
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=74&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Sports 2 Sur
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=75&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Sports 1 Sur
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=76&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Sports 1 MX
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=77&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Series Subtitulado
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=78&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Series
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=79&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox News
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=80&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Movies
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=81&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Life Mex
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=82&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Life
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=83&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Family
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=84&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Comedy
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=85&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Classics
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=86&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Cinema Subtitulado
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=87&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Cinema
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=88&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Action MX
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=89&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Premium Action
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=90&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=91&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",FX
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=92&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Euro Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=93&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Espn Plus Sur
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=94&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Espn 3 Sur
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=95&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Espn 2 Sur
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=96&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Espn 1 Sur
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=97&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Win Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=98&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Warner Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=99&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Vh1 Classic
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=100&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Vh1
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=101&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Univision
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=102&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Universal Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=103&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Unicable
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=104&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Tru TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=105&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Tve
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=106&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Tooncast
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=107&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Telemundo
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=108&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",TNT Series
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=109&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",TNT
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=110&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",TLC
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=111&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",TCM
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=112&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",TBS
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=113&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Sundance Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=114&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Studio Universal
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=115&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Space
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=116&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Sony
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=117&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",RCN Telenovelas
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=118&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Pasiones
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=119&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Paramount Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=120&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Nickelodeon
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=121&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Nick Jr
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=122&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Nick 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=123&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Nat Geo Wild
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=124&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Nat Geo Mex
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=125&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Nat Geo Kids Mex
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=126&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Nat Geo Kids
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=127&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",National Geographic Channel
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=128&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Multipremier
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=129&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Mtv Live
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=130&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO Pop
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=131&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO Xtreme
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=132&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",HBO Mundi
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=133&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Azteca 7
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=134&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Azteca Uno
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=135&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | ADN 40
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=136&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Az Clic
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=139&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Az Cinema
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=140&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | A3 Series
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=141&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Antena 3
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=142&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Aym Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=143&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Canal 5
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=144&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Las Estrellas
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=145&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Galatv
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=146&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Foro TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=147&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Europa Europa
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=148&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Distrito Comedia
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=149&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Multimedios
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=150&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Televisa MTY
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=151&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Garage TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=152&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Congreso de la Unión
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=153&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Imagen TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=154&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Latin American Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=155&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Teleritmo
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=156&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Milenio TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=157&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Espn Sec Network
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=158&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Espn U
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=159&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Espn Plus
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=160&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Espn
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=161&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Espn 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=162&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Fox Sports 3
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=165&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | RT Noticias
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=166&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Espn 3
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=167&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | RT en Espanol
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=168&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Tl Novelas
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=169&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | A Plus
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=170&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Cinemax
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=171&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Nicktoons
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=172&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Bandamax
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=173&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Food Network
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=174&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Televisa Puebla
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=175&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Boomerang
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=176&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Ingenio TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=177&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Ritmoson
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=178&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Telehit
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=179&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | TVC
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=180&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | TVC Deportes
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=181&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Telefórmula
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=182&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Golden
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=183&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Golden Edge
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=184&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Bein Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=185&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Directv Sports Plus
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=186&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Directv Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=187&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Directv Sports 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=188&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Univision UDN
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=189&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Univision TDN
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=190&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",PE | TV Peru
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=191&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",PE | Peru Magico
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=192&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",PE | Panamericana
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=193&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",PE | Movistar Deportes
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=194&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",PE | Gol Peru
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=195&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",PE | Frecuencia Latina
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=196&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",COL | Trece
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=198&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",COL | RCN Internacional
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=200&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",COL | RCN
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=201&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",COL | NTN24
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=202&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",COL | Caracol 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=204&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",COL | Caracol
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=205&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",COL | Cable Noticias
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=210&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CL | Fox Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=211&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CL | Chilevision
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=212&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CL | CDO Premium
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=213&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CL | CDO Basico
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=214&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CL | CDF Premium
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=215&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CL | CDF Basico
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=216&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",CL | CDF
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=217&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",AR | TNT Sports
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=219&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Wobi
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=337&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",VH1 HD
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=336&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Start TVE
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=335&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",TV Mas
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=334&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MVS
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=333&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Golden Plus
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=327&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Discovery Civilization
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=325&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",De Pelicula
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=324&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Gol TV Internacional
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=338&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Tigo Sports 1
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=339&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Tigo Sports py
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=340&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Tigo Sports 3
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=341&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Estrella tv
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=342&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Bein sports ñ T
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=343&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Euro Sports 1
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=344&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Euro Sports 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=345&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fightbox
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=346&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fight Time
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=347&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MLB Network
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=349&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Motorsports TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=350&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",RedBull
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=351&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Real Madrid tv
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=352&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",UFC TV
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=353&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Bitme
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=354&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Locomotion
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=355&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",movistar liga de Campeones
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=357&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",nueve mx
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=356&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",ISAT
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=369&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Film&Arts
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=370&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Syfy
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=371&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Ultra Tainment
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=373&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Win Sports+
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=374&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | Las Estrellas -2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=375&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | EDUCA canal 1
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=376&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | EDUCA canal 2
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=377&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | EDUCA canal 3
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=378&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",MX | EDUCA canal 4
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=379&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Canal Once
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=380&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Once Niños
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=381&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",afizzionados
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=382&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
-#EXTINF:-1 group-title="Android",Fox Deportes
-http://regioplay.xyz/php/SR_REGIO_104023_/regiotv2.php?c=384&tokeen=SrRegio&f=.m3u8|user-agent=playerlatino
+#EXTINF:-1  group-title="Lista TV", Azteca UNO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=1
+#EXTINF:-1  group-title="Lista TV", Azteca 7
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=3
+#EXTINF:-1  group-title="Lista TV", Azteca 7 (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=4
+#EXTINF:-1  group-title="Lista TV", Canal ONCE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=5
+#EXTINF:-1  group-title="Lista TV", Canal 14
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=6
+#EXTINF:-1  group-title="Lista TV", Canal 22
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=7
+#EXTINF:-1  group-title="Lista TV", Canal 5
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=9
+#EXTINF:-1  group-title="Lista TV", Canal 5 (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=10
+#EXTINF:-1  group-title="Lista TV", Unknow
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=11
+#EXTINF:-1  group-title="Lista TV", Unknow 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=12
+#EXTINF:-1  group-title="Lista TV", Unknow 3
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=13
+#EXTINF:-1  group-title="Lista TV", Imagen TV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=14
+#EXTINF:-1  group-title="Lista TV", DreamWorks
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=15
+#EXTINF:-1  group-title="Lista TV", Las estrellas
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=16
+#EXTINF:-1  group-title="Lista TV", Las estrellas 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=17
+#EXTINF:-1  group-title="Lista TV", Mexiquense
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=18
+#EXTINF:-1  group-title="Lista TV", Desconocido
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=20
+#EXTINF:-1  group-title="Lista TV", Unicable
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=21
+#EXTINF:-1  group-title="Lista TV", Canal 10
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=22
+#EXTINF:-1  group-title="Lista TV", Canal 15
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=23
+#EXTINF:-1  group-title="Lista TV", DW
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=26
+#EXTINF:-1  group-title="Lista TV", ADN40
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=44
+#EXTINF:-1  group-title="Lista TV", Pqueradio
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=46
+#EXTINF:-1  group-title="Lista TV", WowTV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=47
+#EXTINF:-1  group-title="Lista TV", Corazon
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=65
+#EXTINF:-1  group-title="Lista TV", A&E
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=61
+#EXTINF:-1  group-title="Lista TV", AXN
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=62
+#EXTINF:-1  group-title="Lista TV", AXN (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=64
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=66
+#EXTINF:-1  group-title="Lista TV", CARACOL TV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=68
+#EXTINF:-1  group-title="Lista TV", GLITZ
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=69
+#EXTINF:-1  group-title="Lista TV", PASIONES
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=70
+#EXTINF:-1  group-title="Lista TV", RCN
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=71
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=72
+#EXTINF:-1  group-title="Lista TV", COMEDY CENTRAL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=73
+#EXTINF:-1  group-title="Lista TV", DISCOVERY ID
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=75
+#EXTINF:-1  group-title="Lista TV", DISTRITO COMEDIA 
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=76
+#EXTINF:-1  group-title="Lista TV", COMEDY CENTRAL (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=77
+#EXTINF:-1  group-title="Lista TV", TRECE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=78
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=79
+#EXTINF:-1  group-title="Lista TV", MTV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=82
+#EXTINF:-1  group-title="Lista TV", PARAMOUNT NETWORK
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=83
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=87
+#EXTINF:-1  group-title="Lista TV", SONY
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=91
+#EXTINF:-1  group-title="Lista TV", TBS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=93
+#EXTINF:-1  group-title="Lista TV", TBS (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=94
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=95
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO (3)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=96
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO (4)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=97
+#EXTINF:-1  group-title="Lista TV", TLNOVELAS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=98
+#EXTINF:-1  group-title="Lista TV", TNT SERIES
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=99
+#EXTINF:-1  group-title="Lista TV", TRUTV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=100
+#EXTINF:-1  group-title="Lista TV", TRUTV (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=101
+#EXTINF:-1  group-title="Lista TV", UNIVERSAL CHANNEL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=104
+#EXTINF:-1  group-title="Lista TV", UNIVERSAL CHANNEL (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=105
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=106
+#EXTINF:-1  group-title="Lista TV", WARNER
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=107
+#EXTINF:-1  group-title="Lista TV", WARNER
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=108
+#EXTINF:-1  group-title="Lista TV", BABYTV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=109
+#EXTINF:-1  group-title="Lista TV", BITME
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=110
+#EXTINF:-1  group-title="Lista TV", CARTOONITO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=111
+#EXTINF:-1  group-title="Lista TV", CARTOON NETWORK
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=112
+#EXTINF:-1  group-title="Lista TV", CARTOON NETWORK (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=113
+#EXTINF:-1  group-title="Lista TV", DISCOVERY KIDS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=114
+#EXTINF:-1  group-title="Lista TV", DISCOVERY KIDS (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=115
+#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=116
+#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=117
+#EXTINF:-1  group-title="Lista TV", DISNEY JR
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=118
+#EXTINF:-1  group-title="Lista TV", DISNEY JR (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=119
+#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=120
+#EXTINF:-1  group-title="Lista TV", TP CLAN
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=121
+#EXTINF:-1  group-title="Lista TV", TP CLAN 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=122
+#EXTINF:-1  group-title="Lista TV", BOING
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=123
+#EXTINF:-1  group-title="Lista TV", NICK JR
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=124
+#EXTINF:-1  group-title="Lista TV", NICK
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=125
+#EXTINF:-1  group-title="Lista TV", NICK 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=126
+#EXTINF:-1  group-title="Lista TV", NICK JR
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=128
+#EXTINF:-1  group-title="Lista TV", NICK JR 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=129
+#EXTINF:-1  group-title="Lista TV", NICKTOONS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=130
+#EXTINF:-1  group-title="Lista TV", TEEN NICK
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=131
+#EXTINF:-1  group-title="Lista TV", TEEN NICK 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=132
+#EXTINF:-1  group-title="Lista TV", PBS KIDS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=133
+#EXTINF:-1  group-title="Lista TV", CARTOONITO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=134
+#EXTINF:-1  group-title="Lista TV", TOONCAST
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=135
+#EXTINF:-1  group-title="Lista TV", UNIVERSAL KIDS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=136
+#EXTINF:-1  group-title="Lista TV", ANIMAL PLANET
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=137
+#EXTINF:-1  group-title="Lista TV", ANIMAL PLANET 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=138
+#EXTINF:-1  group-title="Lista TV", NAT GEO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=139
+#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=142
+#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=143
+#EXTINF:-1  group-title="Lista TV", H&H
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=144
+#EXTINF:-1  group-title="Lista TV", H&H
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=145
+#EXTINF:-1  group-title="Lista TV", DISCOVERY SCIENCE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=146
+#EXTINF:-1  group-title="Lista TV", DISCOVERY THEATER
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=147
+#EXTINF:-1  group-title="Lista TV", DISCOVERY TURBO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=149
+#EXTINF:-1  group-title="Lista TV", DISCOVERY WORLD
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=150
+#EXTINF:-1  group-title="Lista TV", DISCOVERY WORLD 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=151
+#EXTINF:-1  group-title="Lista TV", GOURMET
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=152
+#EXTINF:-1  group-title="Lista TV", E!
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=153
+#EXTINF:-1  group-title="Lista TV", FOODNETWORK
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=154
+#EXTINF:-1  group-title="Lista TV", LAS ESTRELLAS -2HR
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=155
+#EXTINF:-1  group-title="Lista TV", HISTORY
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=156
+#EXTINF:-1  group-title="Lista TV", HISTORY (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=157
+#EXTINF:-1  group-title="Lista TV", H2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=158
+#EXTINF:-1  group-title="Lista TV", H2 (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=159
+#EXTINF:-1  group-title="Lista TV", LIFETIME
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=162
+#EXTINF:-1  group-title="Lista TV", LIFETIME (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=163
+#EXTINF:-1  group-title="Lista TV", NAT GEO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=166
+#EXTINF:-1  group-title="Lista TV", NAT GEO (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=167
+#EXTINF:-1  group-title="Lista TV", TLC
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=168
+#EXTINF:-1  group-title="Lista TV", TLC (2)
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=169
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=171
+#EXTINF:-1  group-title="Lista TV", AMC
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=172
+#EXTINF:-1  group-title="Lista TV", AMC 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=173
+#EXTINF:-1  group-title="Lista TV", SPACE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=174
+#EXTINF:-1  group-title="Lista TV", CINECANAL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=177
+#EXTINF:-1  group-title="Lista TV", CINECANAL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=178
+#EXTINF:-1  group-title="Lista TV", CINEMAX
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=179
+#EXTINF:-1  group-title="Lista TV", DHE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=180
+#EXTINF:-1  group-title="Lista TV", DE PELICULA
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=181
+#EXTINF:-1  group-title="Lista TV", DE PELICULA +
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=182
+#EXTINF:-1  group-title="Lista TV", DE PELICULA CLASICO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=183
+#EXTINF:-1  group-title="Lista TV", EUROPA EUROPA
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=184
+#EXTINF:-1  group-title="Lista TV", FX
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=186
+#EXTINF:-1  group-title="Lista TV", FX 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=187
+#EXTINF:-1  group-title="Lista TV", I SAT
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=188
+#EXTINF:-1  group-title="Lista TV", I SAT 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=189
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=190
+#EXTINF:-1  group-title="Lista TV", MORBIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=191
+#EXTINF:-1  group-title="Lista TV", SPACE 
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=192
+#EXTINF:-1  group-title="Lista TV", STUDIO UNIVERSAL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=193
+#EXTINF:-1  group-title="Lista TV", STUDIO UNIVERSAL 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=194
+#EXTINF:-1  group-title="Lista TV", SUNDANCE TV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=195
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=196
+#EXTINF:-1  group-title="Lista TV", TCM
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=198
+#EXTINF:-1  group-title="Lista TV", TNT
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=199
+#EXTINF:-1  group-title="Lista TV", SONY CINE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=200
+#EXTINF:-1  group-title="Lista TV", STAR CHANNEL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=206
+#EXTINF:-1  group-title="Lista TV", GOLDEN +
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=207
+#EXTINF:-1  group-title="Lista TV", GOLDEN
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=208
+#EXTINF:-1  group-title="Lista TV", GOLDEN +
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=209
+#EXTINF:-1  group-title="Lista TV", GOLDEN +
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=210
+#EXTINF:-1  group-title="Lista TV", GOLDEN PREMIER
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=211
+#EXTINF:-1  group-title="Lista TV", HBO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=212
+#EXTINF:-1  group-title="Lista TV", HBO 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=213
+#EXTINF:-1  group-title="Lista TV", HBO +
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=214
+#EXTINF:-1  group-title="Lista TV", HBO FAMILY
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=215
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=216
+#EXTINF:-1  group-title="Lista TV", HBO POP
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=217
+#EXTINF:-1  group-title="Lista TV", HBO SIGNATURE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=218
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=220
+#EXTINF:-1  group-title="Lista TV", PARAMOUNT CHANNEL
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=221
+#EXTINF:-1  group-title="Lista TV", PARAMOUNT NETWORK
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=222
+#EXTINF:-1  group-title="Lista TV", ADRENALINA
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=231
+#EXTINF:-1  group-title="Lista TV", AFIZZIONADOS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=232
+#EXTINF:-1  group-title="Lista TV", AYM SPORTS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=233
+#EXTINF:-1  group-title="Lista TV", BEIN N
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=234
+#EXTINF:-1  group-title="Lista TV", CLARO SPORTS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=235
+#EXTINF:-1  group-title="Lista TV", WIN SPORTS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=236
+#EXTINF:-1  group-title="Lista TV", WIN SPORTS +
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=237
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=238
+#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=239
+#EXTINF:-1  group-title="Lista TV", ESPN
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=242
+#EXTINF:-1  group-title="Lista TV", ESPN
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=243
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=244
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=245
+#EXTINF:-1  group-title="Lista TV", ESPN 3
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=246
+#EXTINF:-1  group-title="Lista TV", ESPN 3
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=247
+#EXTINF:-1  group-title="Lista TV", ESPN DEPORTES
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=248
+#EXTINF:-1  group-title="Lista TV", ESPN XTRA
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=249
+#EXTINF:-1  group-title="Lista TV", ESPN XTRA
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=250
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=251
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=252
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=253
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=254
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=255
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=256
+#EXTINF:-1  group-title="Lista TV", GOL TV
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=257
+#EXTINF:-1  group-title="Lista TV", NBA
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=258
+#EXTINF:-1  group-title="Lista TV", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=259
+#EXTINF:-1  group-title="Lista TV", SKY SPORTS
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=266
+#EXTINF:-1  group-title="Lista TV", SPACE
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=269
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=270
+#EXTINF:-1  group-title="Lista TV", TNT
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=273
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=276
+#EXTINF:-1  group-title="Lista TV", TVC DEPORTES
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=277
+#EXTINF:-1  group-title="Lista TV", UNIVISION EI
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=282
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS PREMIUM
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=287
+#EXTINF:-1  group-title="Lista TV", CINEMAX
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=288
+#EXTINF:-1  group-title="Lista TV", BANDAMAX
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=290
+#EXTINF:-1  group-title="Lista TV", NICK MUSIC
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=306
+#EXTINF:-1  group-title="Lista TV", ANTENA 3
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=321
+#EXTINF:-1  group-title="Lista TV", A3SERIES
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=322
+#EXTINF:-1  group-title="Lista TV", TELECINCO
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=334
+#EXTINF:-1  group-title="Lista TV", RCN
+https://regioplay.xyz/php/SR_REGIO_104023_/nuevotv.php?key=SrRegio&c=338
