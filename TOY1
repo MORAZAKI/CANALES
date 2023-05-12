@@ -7,10 +7,6 @@ https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 1080P
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1  group-title="Lista TV", Azteca UNO
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=1
 #EXTINF:-1  group-title="Lista TV", Azteca 7
