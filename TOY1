@@ -32,8 +32,7 @@ https://regioplay.xyz/php/SR_REGIO_105023_/telemundo.php?token=SrRegio&c=telemun
 http://regioplay.xyz/php/SR_REGIO_105023_/tmca.php?f=.m3u8
 #EXTINF:-1 group-title="Otros Canales", Telemundo LA
 https://v-la.mybtv.net/live/267.m3u8
-
-#EXTINF:-1 group-title="Lista TV3", 21 - 252 ComedyC
+#EXTINF:-1 group-title="Lista TV3", 21 - 252 ComedyCentral
 http://190.61.102.67:31589/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Lista TV3", 23 - 290 CartoonNetwork
 http://190.61.102.67:31589/play/a03k/index.m3u8
