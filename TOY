@@ -1,306 +1,226 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 04/JULIO/2023 00:36 HORAS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 04/JULIO/2023 01:00 HORAS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.gruposalinas.com/images/v_economico/azteca/azteca1.png" group-title="MÉXICO", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest?cb=20180716012938&path-prefix=es" group-title="MÉXICO", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="MÉXICO", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="" status="online" group-title="ANIME Y GAMING",Estrella Games (1080p)
-https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="ENTRETENIMIENTO",Estrella TV (1080p)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="NOTICIAS",Euronews Español
-http://clubtv.link/j0123/top4565/distro.php?c=euronews-spa
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="CINE Y SERIES",Top Cine
-http://clubtv.link/j0123/top4565/distro.php?c=top-cine-latam
-#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
-http://clubtv.link/j0123/top4565/distro.php?c=juntos
-#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="CINE Y SERIES",Cine Real
-http://clubtv.link/j0123/top4565/distro.php?c=cine-real-latam
-#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="CINE Y SERIES",Cine Sureño
-http://clubtv.link/j0123/top4565/distro.php?c=cine-sureno
-#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="COMEDIA",Casa Comedy
-http://clubtv.link/j0123/top4565/distro.php?c=casa-comedy
-#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="ENTRETENIMIENTO",Spanglish
-http://clubtv.link/j0123/top4565/distro.php?c=spanglish
-#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="ENTRETENIMIENTO",Horrofy
-http://clubtv.link/j0123/top4565/distro.php?c=horrofy
-#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
-http://clubtv.link/j0123/top4565/distro.php?c=wapptv
-#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="CINE Y SERIES",Tu Cine
-http://clubtv.link/j0123/top4565/distro.php?c=tu.cine-latam
-#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
-http://clubtv.link/j0123/top4565/distro.php?c=el-conflicto-tv
-#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
-http://clubtv.link/j0123/top4565/distro.php?c=saber-mas
-#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
-http://clubtv.link/j0123/top4565/distro.php?c=flash-1
-#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
-http://clubtv.link/j0123/top4565/distro.php?c=mmc
-#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="INFANTIL",Chiquilines
-http://clubtv.link/j0123/top4565/distro.php?c=chiquilines
-#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/j0123/top4565/distro.php?c=glewedtv-spanish
-
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://clubtv.link/j0123/top4565/vix.php?c=193.frequency.stream/dist/vix/193
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://clubtv.link/j0123/top4565/vix.php?c=452.frequency.stream/dist/vix/452
-#EXTINF:-1 group-title="DEPORTES", ADRENALINA SPORTS NETWORK
-http://clubtv.link/j0123/top4565/vix.php?c=393.frequency.stream/dist/vix/393
-#EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS
-http://clubtv.link/j0123/top4565/vix.php?c=348.frequency.stream/dist/vix/348
-#EXTINF:-1 group-title="MUSICA", BANDAMAX
-http://clubtv.link/j0123/top4565/vix.php?c=400.frequency.stream/dist/vix/400
-#EXTINF:-1 group-title="MUSICA", BANDAMAX
-http://clubtv.link/j0123/top4565/vix.php?c=400.frequency.stream/dist/vix/400
-#EXTINF:-1 group-title="INFANTIL", BITME
-http://clubtv.link/j0123/top4565/vix.php?c=401.frequency.stream/dist/vix/401
-#EXTINF:-1 group-title="ENTRETENIMIENTO", CANAL 5
-http://clubtv.link/j0123/top4565/vix.php?c=351.frequency.stream/dist/vix/351
-#EXTINF:-1 group-title="CINE Y SERIES", DE PELICULA
-http://clubtv.link/j0123/top4565/vix.php?c=354.frequency.stream/dist/vix/354
-#EXTINF:-1 group-title="CINE Y SERIES", DE PELICULA PLUS
-http://clubtv.link/j0123/top4565/vix.php?c=404.frequency.stream/dist/vix/404
-#EXTINF:-1 group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://clubtv.link/j0123/top4565/vix.php?c=405.frequency.stream/dist/vix/405
-#EXTINF:-1 group-title="NOTICIAS", FOROTV
-http://clubtv.link/j0123/top4565/vix.php?c=300.frequency.stream/dist/vix/300
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN
-http://clubtv.link/j0123/top4565/vix.php?c=406.frequency.stream/dist/vix/406
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN 2
-http://clubtv.link/j0123/top4565/vix.php?c=408.frequency.stream/dist/vix/408
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN EDGE
-http://clubtv.link/j0123/top4565/vix.php?c=407.frequency.stream/dist/vix/407
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN MULTIPLEX
-http://clubtv.link/j0123/top4565/vix.php?c=409.frequency.stream/dist/vix/409
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN PLUS
-http://clubtv.link/j0123/top4565/vix.php?c=410.frequency.stream/dist/vix/410
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN PREMIER
-http://clubtv.link/j0123/top4565/vix.php?c=411.frequency.stream/dist/vix/411
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS
-http://clubtv.link/j0123/top4565/vix.php?c=416.frequency.stream/dist/vix/416
-#EXTINF:-1 group-title="ETTRETENIMIENTO", LAS ESTRELLAS -1
-http://clubtv.link/j0123/top4565/vix.php?c=414.frequency.stream/dist/vix/414
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS -2
-http://clubtv.link/j0123/top4565/vix.php?c=415.frequency.stream/dist/vix/415
-#EXTINF:-1 group-title="ENTRETENIMIENTO", NU9VE
-http://clubtv.link/j0123/top4565/vix.php?c=352.frequency.stream/dist/vix/352
-#EXTINF:-1 group-title="NOTICIAS", RCN MAS+
-http://clubtv.link/j0123/top4565/vix.php?c=286.frequency.stream/dist/vix/286
-#EXTINF:-1 group-title="MUSICA", TELEHIT
-http://clubtv.link/j0123/top4565/vix.php?c=417.frequency.stream/dist/vix/417
-#EXTINF:-1 group-title="MUSICA", TELEHIT MUSICA
-http://clubtv.link/j0123/top4565/vix.php?c=418.frequency.stream/dist/vix/418
-#EXTINF:-1 group-title="MUSICA", TELEHIT MUSICA PLUS
-http://clubtv.link/j0123/top4565/vix.php?c=419.frequency.stream/dist/vix/419
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TL NOVELAS
-http://clubtv.link/j0123/top4565/vix.php?c=421.frequency.stream/dist/vix/421
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://clubtv.link/j0123/top4565/vix.php?c=347.frequency.stream/dist/vix/347
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE
-http://clubtv.link/j0123/top4565/vix.php?c=423.frequency.stream/dist/vix/423
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UNIVISION
-http://clubtv.link/j0123/top4565/vix.php?c=424.frequency.stream/dist/vix/424
-#EXTINF:-1 group-title="DEPORTES", UNIVISION DEPORTES
-http://clubtv.link/j0123/top4565/vix.php?c=452.frequency.stream/dist/vix/452
-#EXTINF:-1 group-title="MUSICA", VEVO POP
-http://clubtv.link/j0123/top4565/vix.php?c=388.frequency.stream/dist/vix/388
-#EXTINF:-1 group-title="MUSICA", VEVO URBANO
-http://clubtv.link/j0123/top4565/vix.php?c=389.frequency.stream/dist/vix/389
-#EXTINF:-1 group-title="DEPORTES", ZONA TUDN
-http://clubtv.link/j0123/top4565/vix.php?c=357.frequency.stream/dist/vix/357
-
-
-#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" status="blocked" group-title="NOTICIAS",Multimedios Guadalajara
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx" status="blocked" group-title="NOTICIAS",Multimedios Laguna
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" status="blocked" group-title="NOTICIAS",Multimedios Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Milenio Televisión Noroeste
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Bajío
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="NOTICIAS",Multimedios Canal 8 Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Ciudad Juarez
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Puebla
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Saltillo
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-
-#EXTINF:-1 tvg-id="" status="online" group-title="NOTICIAS",Estrella News
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 40 Y 20
-http://clubtv.link/j0123/top4565/vix.php?c=340.frequency.stream/dist/vix/340
-#EXTINF:-1 group-title="NOVELAS", Alegrijes Y Rebujos
-http://clubtv.link/j0123/top4565/vix.php?c=319.frequency.stream/dist/vix/319
-#EXTINF:-1 group-title="NOVELAS", Amores Verdaderos
-http://clubtv.link/j0123/top4565/vix.php?c=305.frequency.stream/dist/vix/305
-#EXTINF:-1 group-title="VIX", Aqui Y Ahora
-http://clubtv.link/j0123/top4565/vix.php?c=306.frequency.stream/dist/vix/306
-#EXTINF:-1 group-title="CINE Y SERIES", Cine 1
-http://clubtv.link/j0123/top4565/vix.php?c=307.frequency.stream/dist/vix/307
-#EXTINF:-1 group-title="CINE Y SERIES", Cine 3
-http://clubtv.link/j0123/top4565/vix.php?c=309.frequency.stream/dist/vix/309
-#EXTINF:-1 group-title="CINE Y SERIES", Cine Del Ayer
-http://clubtv.link/j0123/top4565/vix.php?c=429.frequency.stream/dist/vix/429
-#EXTINF:-1 group-title="CINE Y SERIES", Cine Retro (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=308.frequency.stream/dist/vix/308
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Clip Show (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=12.frequency.stream/dist/vix/12
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Tv
-http://clubtv.link/j0123/top4565/vix.php?c=89.frequency.stream/dist/vix/89
-#EXTINF:-1 group-title="NOVELAS", Como Dice El Dicho
-http://clubtv.link/j0123/top4565/vix.php?c=341.frequency.stream/dist/vix/341
-#EXTINF:-1 group-title="NOVELAS", Corazón Salvaje
-http://clubtv.link/j0123/top4565/vix.php?c=325.frequency.stream/dist/vix/325
-#EXTINF:-1 group-title="VIX", Crónicas
-http://clubtv.link/j0123/top4565/vix.php?c=315.frequency.stream/dist/vix/315
-#EXTINF:-1 group-title="VIX", Cuidado Con El Angel
-http://clubtv.link/j0123/top4565/vix.php?c=316.frequency.stream/dist/vix/316
-#EXTINF:-1 group-title="NOVELAS", Del Mercado Al Plato
-http://clubtv.link/j0123/top4565/vix.php?c=317.frequency.stream/dist/vix/317
-#EXTINF:-1 group-title="VIX", Durmiendo Con Mi Jefe
-http://clubtv.link/j0123/top4565/vix.php?c=312.frequency.stream/dist/vix/312
-#EXTINF:-1 group-title="NOVELAS", El Privilegio De Mandar
-http://clubtv.link/j0123/top4565/vix.php?c=313.frequency.stream/dist/vix/313
-#EXTINF:-1 group-title="VIX", Eventos (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=439.frequency.stream/dist/vix/439
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Failarmy
-http://clubtv.link/j0123/top4565/vix.php?c=197.frequency.stream/dist/vix/197
-#EXTINF:-1 group-title="ENTRETENIMIENTO", FailArmy (Videos)
-http://clubtv.link/j0123/top4565/vix.php?c=198.frequency.stream/dist/vix/198
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Familia de 10(Es)
-http://clubtv.link/j0123/top4565/vix.php?c=450.frequency.stream/dist/vix/450
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Familia Peluche (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=311.frequency.stream/dist/vix/311
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Familia Peluche (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=468.frequency.stream/dist/vix/468
-#EXTINF:-1 group-title="VIX", Fisht Ch (En)
-http://clubtv.link/j0123/top4565/vix.php?c=80.frequency.stream/dist/vix/80
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN 2
-http://clubtv.link/j0123/top4565/vix.php?c=408.frequency.stream/dist/vix/408
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN PLUS
-http://clubtv.link/j0123/top4565/vix.php?c=410.frequency.stream/dist/vix/410
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN PREMIER
-http://clubtv.link/j0123/top4565/vix.php?c=411.frequency.stream/dist/vix/411
-#EXTINF:-1 group-title="NOVELAS", Héroes Del Norte
-http://clubtv.link/j0123/top4565/vix.php?c=323.frequency.stream/dist/vix/323
-#EXTINF:-1 group-title="VIX", Job Time Music (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=272.frequency.stream/dist/vix/272
-#EXTINF:-1 group-title="NOVELAS", Juana La Virgen
-http://clubtv.link/j0123/top4565/vix.php?c=327.frequency.stream/dist/vix/327
-#EXTINF:-1 group-title="NOVELAS", La Promesa
-http://clubtv.link/j0123/top4565/vix.php?c=343.frequency.stream/dist/vix/343
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS
-http://clubtv.link/j0123/top4565/vix.php?c=416.frequency.stream/dist/vix/416
-#EXTINF:-1 group-title="DEPORTES", lo mejor liga mx
-http://clubtv.link/j0123/top4565/vix.php?c=193.frequency.stream/dist/vix/193
-#EXTINF:-1 group-title="NOVELAS", Lo Que Diga El Corazon
-http://clubtv.link/j0123/top4565/vix.php?c=346.frequency.stream/dist/vix/346
-#EXTINF:-1 group-title="NOVELAS", María Mercedes
-http://clubtv.link/j0123/top4565/vix.php?c=328.frequency.stream/dist/vix/328
-#EXTINF:-1 group-title="NOVELAS", Mi Gorda Bella
-http://clubtv.link/j0123/top4565/vix.php?c=334.frequency.stream/dist/vix/334
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Miembros Aire (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=483.frequency.stream/dist/vix/483
-#EXTINF:-1 group-title="NOTICIAS", N+ Noticias (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=301.frequency.stream/dist/vix/301
-#EXTINF:-1 group-title="VIX", Nosotros los Guapos
-http://clubtv.link/j0123/top4565/vix.php?c=451.frequency.stream/dist/vix/451
-#EXTINF:-1 group-title="NOVELAS", Novelas De Oro - Prendetv
-http://clubtv.link/j0123/top4565/vix.php?c=196.frequency.stream/dist/vix/196
-#EXTINF:-1 group-title="NOVELAS", Novelas De Romance - Prendetv
-http://clubtv.link/j0123/top4565/vix.php?c=194.frequency.stream/dist/vix/194
-#EXTINF:-1 group-title="NOVELAS", Novelas En Familia - Prendetv
-http://clubtv.link/j0123/top4565/vix.php?c=195.frequency.stream/dist/vix/195
-#EXTINF:-1 group-title="NOVELAS", Novelas Sd
-http://clubtv.link/j0123/top4565/vix.php?c=447.frequency.stream/dist/vix/447
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=330.frequency.stream/dist/vix/330
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=448.frequency.stream/dist/vix/448
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=478.frequency.stream/dist/vix/478
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=480.frequency.stream/dist/vix/480
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=482.frequency.stream/dist/vix/482
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=484.frequency.stream/dist/vix/484
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=487.frequency.stream/dist/vix/487
-#EXTINF:-1 group-title="NOVELAS", Novelas Vix Lazos de Amor (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=481.frequency.stream/dist/vix/481
-#EXTINF:-1 group-title="CINE Y SERIES", Pelicula (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=192.frequency.stream/dist/vix/192
-#EXTINF:-1 group-title="ENTRETENIMIENTO", People Are Awesome
-http://clubtv.link/j0123/top4565/vix.php?c=39.frequency.stream/dist/vix/39
-#EXTINF:-1 group-title="VIX", Pet Collertor (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=174.frequency.stream/dist/vix/174
-#EXTINF:-1 group-title="VIX", PinFog (Infantil) (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=355.frequency.stream/dist/vix/355
-#EXTINF:-1 group-title="VIX", Poker Go (En)
-http://clubtv.link/j0123/top4565/vix.php?c=426.frequency.stream/dist/vix/426
-#EXTINF:-1 group-title="VIX", PostStar (En)
-http://clubtv.link/j0123/top4565/vix.php?c=10.frequency.stream/dist/vix/10
-#EXTINF:-1 group-title="VIX", RCN MAS+
-http://clubtv.link/j0123/top4565/vix.php?c=286.frequency.stream/dist/vix/286
-#EXTINF:-1 group-title="NOVELAS", Rebelde
-http://clubtv.link/j0123/top4565/vix.php?c=335.frequency.stream/dist/vix/335
-#EXTINF:-1 group-title="CINE Y SERIES", Retro Peli
-http://clubtv.link/j0123/top4565/vix.php?c=304.frequency.stream/dist/vix/304
-#EXTINF:-1 group-title="NOVELAS", Sortilegio
-http://clubtv.link/j0123/top4565/vix.php?c=337.frequency.stream/dist/vix/337
-#EXTINF:-1 group-title="MUSICA", TeleHit (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=479.frequency.stream/dist/vix/479
-#EXTINF:-1 group-title="NOVELAS", Teresa
-http://clubtv.link/j0123/top4565/vix.php?c=342.frequency.stream/dist/vix/342
-#EXTINF:-1 group-title="VIX", The Weather Channel (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=431.frequency.stream/dist/vix/431
-#EXTINF:-1 group-title="VIX", The Weather Channel (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=453.frequency.stream/dist/vix/453
-#EXTINF:-1 group-title="VIX", Tres Veces Ana
-http://clubtv.link/j0123/top4565/vix.php?c=321.frequency.stream/dist/vix/321
-#EXTINF:-1 group-title="VIX", Triunfo Del Amor
-http://clubtv.link/j0123/top4565/vix.php?c=338.frequency.stream/dist/vix/338
-#EXTINF:-1 group-title="VIX", UNIVISION
-http://clubtv.link/j0123/top4565/vix.php?c=424.frequency.stream/dist/vix/424
-#EXTINF:-1 group-title="VIX", UNIVISION DEPORTES
-http://clubtv.link/j0123/top4565/vix.php?c=452.frequency.stream/dist/vix/452
-#EXTINF:-1 group-title="VIX", Vecinos
-http://clubtv.link/j0123/top4565/vix.php?c=314.frequency.stream/dist/vix/314
-#EXTINF:-1 group-title="MUSICA", Vevo (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=494.frequency.stream/dist/vix/494
-#EXTINF:-1 group-title="MUSICA", Vevo Latino (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=495.frequency.stream/dist/vix/495
-#EXTINF:-1 group-title="MUSICA", VEVO POP
-http://clubtv.link/j0123/top4565/vix.php?c=388.frequency.stream/dist/vix/388
-#EXTINF:-1 group-title="MUSICA", VEVO URBANO
-http://clubtv.link/j0123/top4565/vix.php?c=389.frequency.stream/dist/vix/389
-#EXTINF:-1 group-title="MUSICA", Videos (Es) RD
-http://clubtv.link/j0123/top4565/vix.php?c=142.frequency.stream/dist/vix/142
-#EXTINF:-1 group-title="VIX", Videos Chistosos
-http://clubtv.link/j0123/top4565/vix.php?c=46.frequency.stream/dist/vix/46
-#EXTINF:-1 group-title="VIX", Videos Chistosos 2
-http://clubtv.link/j0123/top4565/vix.php?c=49.frequency.stream/dist/vix/49
-#EXTINF:-1 group-title="VIX", Zen Channel (Es)
-http://clubtv.link/j0123/top4565/vix.php?c=125.frequency.stream/dist/vix/125
+#EXTINF:-1 group-title="TV5", 002 Dos Kids HD
+http://45.160.15.130:2909/play/002
+#EXTINF:-1 group-title="TV5", 008 BabyFirst V+
+http://45.160.15.130:2909/play/008
+#EXTINF:-1 group-title="TV5", 003 FMH KIDS
+http://45.160.15.130:2909/play/003
+#EXTINF:-1 group-title="TV5", 004 BABY TV
+http://45.160.15.130:2909/play/a15j
+#EXTINF:-1 group-title="TV5", 005 Discovery Kids HD
+http://45.160.15.130:2909/play/005
+#EXTINF:-1 group-title="TV5", 006 Disney Junior V+
+http://45.160.15.130:2909/play/006
+#EXTINF:-1 group-title="TV5", 007 ETC TV
+http://45.160.15.130:2909/play/a166
+#EXTINF:-1 group-title="TV5", 009 Cartoon Network HD
+http://45.160.15.130:2909/play/009
+#EXTINF:-1 group-title="TV5", 010 Disney HD
+http://45.160.15.130:2909/play/010
+#EXTINF:-1 group-title="TV5", 014 Nick HD
+http://45.160.15.130:2909/play/014
+#EXTINF:-1 group-title="TV5", 015 Nick Jr V+
+http://45.160.15.130:2909/play/015
+#EXTINF:-1 group-title="TV5", 016 NTV HD
+http://45.160.15.130:2909/play/016
+#EXTINF:-1 group-title="TV5", 017 HBO HD
+http://45.160.15.130:2909/play/017
+#EXTINF:-1 group-title="TV5", 018 HBO Family HD
+http://45.160.15.130:2909/play/018
+#EXTINF:-1 group-title="TV5", 019 HBO Plus V+
+http://45.160.15.130:2909/play/019
+#EXTINF:-1 group-title="TV5", 020 HBO Xtreme HD
+http://45.160.15.130:2909/play/020
+#EXTINF:-1 group-title="TV5", 021 HBO 2 HD
+http://45.160.15.130:2909/play/021
+#EXTINF:-1 group-title="TV5", 024 Discovery Channel HD
+http://45.160.15.130:2909/play/024
+#EXTINF:-1 group-title="TV5", 025 Animal Planet HD
+http://45.160.15.130:2909/play/025
+#EXTINF:-1 group-title="TV5", 027 Nat Geo HD
+http://45.160.15.130:2909/play/027
+#EXTINF:-1 group-title="TV5", 032 History Channel HD
+http://45.160.15.130:2909/play/032
+#EXTINF:-1 group-title="TV5", 033 History 2 HD
+http://45.160.15.130:2909/play/033
+#EXTINF:-1 group-title="TV5", 042 Enlace V+
+http://45.160.15.130:2909/play/042
+#EXTINF:-1 group-title="TV5", 043 Red de Fe HD
+http://45.160.15.130:2909/play/043
+#EXTINF:-1 group-title="TV5", 044 FTV HD
+http://45.160.15.130:2909/play/044
+#EXTINF:-1 group-title="TV5", 045 Gracia TV HD
+http://45.160.15.130:2909/play/045
+#EXTINF:-1 group-title="TV5", 052 24 Horas HD
+http://45.160.15.130:2909/play/052
+#EXTINF:-1 group-title="TV5", 054 CNN Chile V+
+http://45.160.15.130:2909/play/054
+#EXTINF:-1 group-title="TV5", 062 La Red HD
+http://45.160.15.130:2909/play/062
+#EXTINF:-1 group-title="TV5", 063 TV+ HD
+http://45.160.15.130:2909/play/063
+#EXTINF:-1 group-title="TV5", 064 TVN HD
+http://45.160.15.130:2909/play/064
+#EXTINF:-1 group-title="TV5", 065 Mega HD
+http://45.160.15.130:2909/play/065
+#EXTINF:-1 group-title="TV5", 066 CHV HD
+http://45.160.15.130:2909/play/066
+#EXTINF:-1 group-title="TV5", 067 Canal 13 HD
+http://45.160.15.130:2909/play/067
+#EXTINF:-1 group-title="TV5", 079 ID HD
+http://45.160.15.130:2909/play/079
+#EXTINF:-1 group-title="TV5", 081 Warner Channel HD
+http://45.160.15.130:2909/play/081
+#EXTINF:-1 group-title="TV5", 083 Star CHannel HD
+http://45.160.15.130:2909/play/083
+#EXTINF:-1 group-title="TV5", 085 Sony HD
+http://45.160.15.130:2909/play/085
+#EXTINF:-1 group-title="TV5", 087 AXN HD
+http://45.160.15.130:2909/play/087
+#EXTINF:-1 group-title="TV5", 088 Universal TV HD
+http://45.160.15.130:2909/play/088
+#EXTINF:-1 group-title="TV5", 093 FX HD
+http://45.160.15.130:2909/play/093
+#EXTINF:-1 group-title="TV5", 098 Studio Universal HD
+http://45.160.15.130:2909/play/098
+#EXTINF:-1 group-title="TV5", 099 Paramount HD
+http://45.160.15.130:2909/play/099
+#EXTINF:-1 group-title="TV5", 100 Lifetime V+
+http://45.160.15.130:2909/play/100
+#EXTINF:-1 group-title="TV5", 101 SyFy V+
+http://45.160.15.130:2909/play/101
+#EXTINF:-1 group-title="TV5", 102 A&E HD
+http://45.160.15.130:2909/play/102
+#EXTINF:-1 group-title="TV5", 107 Cinecanal HD
+http://45.160.15.130:2909/play/107
+#EXTINF:-1 group-title="TV5", 108 TNT Series HD
+http://45.160.15.130:2909/play/108
+#EXTINF:-1 group-title="TV5", 109 TNT HD
+http://45.160.15.130:2909/play/109
+#EXTINF:-1 group-title="TV5", 110 TCM V+
+http://45.160.15.130:2909/play/110
+#EXTINF:-1 group-title="TV5", 112 Cinemax HD
+http://45.160.15.130:2909/play/112
+#EXTINF:-1 group-title="TV5", 116 I-Sat V+
+http://45.160.15.130:2909/play/116
+#EXTINF:-1 group-title="TV5", 119 Space HD
+http://45.160.15.130:2909/play/119
+#EXTINF:-1 group-title="TV5", 120 MX Family HD
+http://45.160.15.130:2909/play/120
+#EXTINF:-1 group-title="TV5", 121 MX Classic HD
+http://45.160.15.130:2909/play/121
+#EXTINF:-1 group-title="TV5", 122 MX Prime HD
+http://45.160.15.130:2909/play/122
+#EXTINF:-1 group-title="TV5", 123 MX Old HD
+http://45.160.15.130:2909/play/123
+#EXTINF:-1 group-title="TV5", 124 Canal Dos HD
+http://45.160.15.130:2909/play/124
+#EXTINF:-1 group-title="TV5", 131 ViaX V+
+http://45.160.15.130:2909/play/131
+#EXTINF:-1 group-title="TV5", 132 MTV HD
+http://45.160.15.130:2909/play/132
+#EXTINF:-1 group-title="TV5", 133 Zona Latina V+
+http://45.160.15.130:2909/play/133
+#EXTINF:-1 group-title="TV5", 134 Karavana TV HD
+http://45.160.15.130:2909/play/134
+#EXTINF:-1 group-title="TV5", 135 Karavana Urbano HD
+http://45.160.15.130:2909/play/135
+#EXTINF:-1 group-title="TV5", 137 Old Music HD
+http://45.160.15.130:2909/play/137
+#EXTINF:-1 group-title="TV5", 138 Zoomback HD
+http://45.160.15.130:2909/play/138
+#EXTINF:-1 group-title="TV5", 149 Telemundo V+
+http://45.160.15.130:2909/play/149
+#EXTINF:-1 group-title="TV5", 150 Pasiones HD
+http://45.160.15.130:2909/play/150
+#EXTINF:-1 group-title="TV5", 151 Las Estrellas HD
+http://45.160.15.130:2909/play/151
+#EXTINF:-1 group-title="TV5", 153 TVE V+
+http://45.160.15.130:2909/play/153
+#EXTINF:-1 group-title="TV5", 171 Discovery H&H HD
+http://45.160.15.130:2909/play/171
+#EXTINF:-1 group-title="TV5", 172 TLC SD
+http://45.160.15.130:2909/play/172
+#EXTINF:-1 group-title="TV5", 174 E !
+http://45.160.15.130:2909/play/174
+#EXTINF:-1 group-title="TV5", 177 El Gourmet HD
+http://45.160.15.130:2909/play/177
+#EXTINF:-1 group-title="TV5", 178 Mundo & Sabor HD
+http://45.160.15.130:2909/play/178
+#EXTINF:-1 group-title="TV5", 179 On Tour Channel HD
+http://45.160.15.130:2909/play/179
+#EXTINF:-1 group-title="TV5", 207 Discovery Turbo V+
+http://45.160.15.130:2909/play/207
+#EXTINF:-1 group-title="TV5", 209 Fox Sports 1 HD
+http://45.160.15.130:2909/play/209
+#EXTINF:-1 group-title="TV5", 210 Fox Sports 2 HD
+http://45.160.15.130:2909/play/210
+#EXTINF:-1 group-title="TV5", 211 Fox Sports 3 HD
+http://45.160.15.130:2909/play/211
+#EXTINF:-1 group-title="TV5", 212 ESPN HD
+http://45.160.15.130:2909/play/212
+#EXTINF:-1 group-title="TV5", 214 ESPN 2 HD
+http://45.160.15.130:2909/play/214
+#EXTINF:-1 group-title="TV5", 216 ESPN 3 HD
+http://45.160.15.130:2909/play/216
+#EXTINF:-1 group-title="TV5", 218 ESPN 4 HD
+http://45.160.15.130:2909/play/218
+#EXTINF:-1 group-title="TV5", 230 Canal del Caballo HD
+http://45.160.15.130:2909/play/230
+#EXTINF:-1 group-title="TV5", 231 Fitmaxx HD
+http://45.160.15.130:2909/play/231
+#EXTINF:-1 group-title="TV5", 232 Sport EXT HD
+http://45.160.15.130:2909/play/232
+#EXTINF:-1 group-title="TV5", 233 TNT SPORTS HD
+http://45.160.15.130:2909/play/233
+#EXTINF:-1 group-title="TV5", 234 TNT Sports 2 V+
+http://45.160.15.130:2909/play/234
+#EXTINF:-1 group-title="TV5", 235 TNT Sports 3 V+
+http://45.160.15.130:2909/play/235
+#EXTINF:-1 group-title="TV5", 236 Teletrak
+http://45.160.15.130:2909/play/236
+#EXTINF:-1 group-title="TV5", CARTOONITO
+http://45.160.15.130:2909/play/a15m
+#EXTINF:-1 group-title="TV5", CDO PREMIUN
+http://45.160.15.130:2909/play/a15n
+#EXTINF:-1 group-title="TV5", COMEDY CENTRAL HD
+http://45.160.15.130:2909/play/a15s
+#EXTINF:-1 group-title="TV5", DHE HD
+http://45.160.15.130:2909/play/a15u
+#EXTINF:-1 group-title="TV5", DISCOVERY THEATER HD
+http://45.160.15.130:2909/play/a15x
+#EXTINF:-1 group-title="TV5", DISCOVERY WORLD HD
+http://45.160.15.130:2909/play/a15z
+#EXTINF:-1 group-title="TV5", DOS
+http://45.160.15.130:2909/play/a162
+#EXTINF:-1 group-title="TV5", EVENTOS
+http://45.160.15.130:2909/play/a167
+#EXTINF:-1 group-title="TV5", FMH FAMILY
+http://45.160.15.130:2909/play/a169
+#EXTINF:-1 group-title="TV5", FMH MOVIES
+http://45.160.15.130:2909/play/a16b
+#EXTINF:-1 group-title="TV5", FMH REWIND
+http://45.160.15.130:2909/play/a16c
+#EXTINF:-1 group-title="TV5", KANAL D DRAMA HD
+http://45.160.15.130:2909/play/a16p
+#EXTINF:-1 group-title="TV5", LADIES
+http://45.160.15.130:2909/play/a16t
+#EXTINF:-1 group-title="TV5", LOVE NATURE HD
+http://45.160.15.130:2909/play/a16v
+#EXTINF:-1 group-title="TV5", MX SERIES
+http://45.160.15.130:2909/play/a172
+#EXTINF:-1 group-title="TV5", REC TV
+http://45.160.15.130:2909/play/a17b
+#EXTINF:-1 group-title="TV5", SPOR TEXT
+http://45.160.15.130:2909/play/a17f
+#EXTINF:-1 group-title="TV5", SUN CHANNEL HD
+http://45.160.15.130:2909/play/a17i
+#EXTINF:-1 group-title="TV5", TELENOVELAS
+http://45.160.15.130:2909/play/a17l
