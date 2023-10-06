@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", INESTABLE (PROBANDO) 02/AGOSTO/2023 18:55 HORAS PROVISIONAL 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 06/OCTUBRE/2023 00:30 HORAS PROVISIONAL 
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 480P
@@ -186,8 +186,6 @@ http://45.160.15.130:2909/play/234
 http://45.160.15.130:2909/play/235
 #EXTINF:-1 group-title="TV5", 236 Teletrak
 http://45.160.15.130:2909/play/236
-#EXTINF:-1 group-title="TV5", CARTOONITO
-http://45.160.15.130:2909/play/a15m
 #EXTINF:-1 group-title="TV5", CDO PREMIUN
 http://45.160.15.130:2909/play/a15n
 #EXTINF:-1 group-title="TV5", COMEDY CENTRAL HD
@@ -222,8 +220,6 @@ http://45.160.15.130:2909/play/a17b
 http://45.160.15.130:2909/play/a17f
 #EXTINF:-1 group-title="TV5", SUN CHANNEL HD
 http://45.160.15.130:2909/play/a17i
-#EXTINF:-1 group-title="TV5", TELENOVELAS
-http://45.160.15.130:2909/play/a17l
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/716bgBLYxYL._AC_UF894,1000_QL80_.jpg", Elementos | REGIOFLIX
 http://notabasica.com/909032/Elemental.2023.lati.mp4
