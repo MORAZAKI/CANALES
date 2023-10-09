@@ -6,7 +6,6 @@ https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f598536
 
 
 
-
 #EXTINF:-1 group-title="Otros Canales", AZ UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZ 7
@@ -15,8 +14,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Otros Canales", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="Otros Canales", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -153,81 +150,31 @@ https://regioplay.xyz/php/SR_REGIO_617032_/distroregio.php?token=SrRegio&c=mmc&f
 #EXTINF:-1  group-title="DistroRegio" , Glewed TV 
 https://regioplay.xyz/php/SR_REGIO_617032_/distroregio.php?token=SrRegio&c=glewedtv-spanish&f=.m3u8
 
-#EXTINF:-1 group-title="Otros Canales", Cine.AR
-https://regioplay.xyz/php/SR_REGIO_617032_/playpc.php?c=l1?ch=cinear
-#EXTINF:-1 group-title="Otros Canales", Mega Chile
-https://regioplay.xyz/php/SR_REGIO_617032_/playpc.php?c=l1?ch=mega_cl
-#EXTINF:-1 group-title="Otros Canales", RCN
-https://regioplay.xyz/php/SR_REGIO_617032_/playtop.php?c=dm?ch=rcn
-#EXTINF:-1 group-title="Otros Canales", Telecinco
-https://regioplay.xyz/php/SR_REGIO_617032_/pctvcode.php?c=/mt?ch=telecinco&f=.m3u8
-#EXTINF:-1 group-title="Otros Canales", TUDN US
-https://regioplay.xyz/php/SR_REGIO_617032_/playpir.php?c=univision?ch=tudn
-#EXTINF:-1 group-title="Otros Canales", TELEMUNDO PUERTO RICO
-https://regioplay.xyz/php/SR_REGIO_617032_/playpc.php?c=l1?ch=telemundo_pr
 #EXTINF:-1 group-title="Otros Canales", AZ UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZ 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Otros Canales", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="Otros Canales", BEIN XTRA
-https://regioplay.xyz/php/SR_REGIO_617032_/pctvcode.php?c=/l1?ch=bein_xtra&f=.m3u8
-#EXTINF:-1 group-title="Otros Canales", BEIN XTRA N
-https://regioplay.xyz/php/SR_REGIO_617032_/pctvcode.php?c=/l1?ch=bein_xtra_n&f=.m3u8
-#EXTINF:-1  group-title="Otros Canales", Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
 #EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0/view?usp=sharing", ENERGEEK
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1  group-title="Otros Canales", LATINO KIDS
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1  group-title="Otros Canales", EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1  group-title="Otros Canales", DREIKO TV
-http://regioplay.xyz/php/SR_REGIO_617032_/dreiko.php?f=.m3u8
-#EXTINF:-1  group-title="Otros Canales", MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_617032_/multimedios.php?f=.m3u8
-#EXTINF:-1   group-title="Otros Canales", WOW TV
-https://regioplay.xyz/php/SR_REGIO_617032_/wowtv.php?f=.m3u8
-#EXTINF:-1  group-title="Otros Canales", NET TV
-http://regioplay.xyz/php/SR_REGIO_617032_/nettv.php?f=.m3u8
-#EXTINF:-1 group-title="Otros Canales", RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
 #EXTINF:-1 group-title="Otros Canales", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Otros Canales", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
 #EXTINF:-1 group-title="Otros Canales", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Otros Canales", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="Otros Canales", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="Otros Canales", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 group-title="Otros Canales", REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Otros Canales", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 group-title="Otros Canales", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 group-title="Otros Canales", Telemundo NY
-https://regioplay.xyz/php/SR_REGIO_617032_/telemundo.php?token=SrRegio&c=telemundoNY&f=.m3u8
-#EXTINF:-1 group-title="Otros Canales", Telemundo CA
-http://regioplay.xyz/php/SR_REGIO_617032_/tmca.php?f=.m3u8
-#EXTINF:-1 group-title="Otros Canales", Telemundo LA
-https://v-la.mybtv.net/live/267.m3u8
-
-****************
-
 
 #EXTINF:-1 tvg-shift="-2"  group-title="TV2", A&E HD
 http://190.83.60.34:1414/play/a01c
