@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 26/OCTUBRE/2023 11:30 HORAS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 10/NOVIEMBRE/2023 09:00 HORAS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="TV2",A&E HD
@@ -847,4 +844,6 @@ http://45.166.92.22:58001/play/a01t/index.m3u8
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1 group-title="TV2", WARNER HD
 http://45.166.92.22:58001/play/a049/index.m3u8
+
+
 
