@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 08/NOVIEMBRE/2023 00:21 HRS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 17/NOVIEMBRE/2023 08:10 HRS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 480P
@@ -125,6 +125,337 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Otros Canales", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+
+
+
+#EXTINF:-1 group-title="TV4", 3ABN LATINO
+http://45.166.92.22:58001/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV4", A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="TV4", AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TV4", AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="TV4", Animal Planet HD
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TV4", Antena 3
+http://45.166.92.22:58001/play/a041/index.m3u8
+#EXTINF:-1 group-title="TV4", Azcorazon
+http://45.166.92.22:58001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="TV4", Boomerang
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="TV4", CARTOON NT HD
+http://45.166.92.22:58001/play/a03y/index.m3u8
+#EXTINF:-1 group-title="TV4", CHOLUSAT SUR
+http://45.166.92.22:58001/play/a04e/index.m3u8
+#EXTINF:-1 group-title="TV4", CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:-1 group-title="TV4", CNNE
+http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:-1 group-title="TV4", Canal 11 - HON
+http://45.166.92.22:58001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="TV4", Canal 12 - ESA
+http://45.166.92.22:58001/play/a05h/index.m3u8
+#EXTINF:-1 group-title="TV4", Canal 3 - GUA
+http://45.166.92.22:58001/play/a05e/index.m3u8
+#EXTINF:-1 group-title="TV4", Canal 3 Telesistemas HND
+http://45.166.92.22:58001/play/a020/index.m3u8
+#EXTINF:-1 group-title="TV4", Canal 6 - ESA
+http://45.166.92.22:58001/play/a05g/index.m3u8
+#EXTINF:-1 group-title="TV4", Canal 7 - GUA
+http://45.166.92.22:58001/play/a05d/index.m3u8
+#EXTINF:-1 group-title="TV4", Canal 7 HD CR
+http://45.166.92.22:58001/play/a059/index.m3u8
+#EXTINF:-1 group-title="TV4", Cine Latino
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="TV4", CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:-1 group-title="TV4", DHE HD
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="TV4", DISCOVERY THEATHER HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 group-title="TV4", DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TV4", Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:-1 group-title="TV4", Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:-1 group-title="TV4", Discovery ID HD
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="TV4", Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:-1 group-title="TV4", Discovery Turbo
+http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:-1 group-title="TV4", Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:-1 group-title="TV4", E! Entertairment HD
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="TV4", ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="TV4", ESPN 3 HD
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="TV4", ESPN HD
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="TV4", EWTN
+http://45.166.92.22:58001/play/a050/index.m3u8
+#EXTINF:-1 group-title="TV4", Europa HD
+http://45.166.92.22:58001/play/a00t/index.m3u8
+#EXTINF:-1 group-title="TV4", FM PUEBLO
+http://45.166.92.22:58001/play/a04t/index.m3u8
+#EXTINF:-1 group-title="TV4", FOX NEWS HD
+http://45.166.92.22:58001/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV4", FOX SPORTS 3 HD
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="TV4", FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1 group-title="TV4", FX Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="TV4", Film & arts HD
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="TV4", Fox Sports  HD
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="TV4", France24
+http://45.166.92.22:58001/play/a057/index.m3u8
+#EXTINF:-1 group-title="TV4", GOL TV HD
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:-1 group-title="TV4", HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 group-title="TV4", HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 group-title="TV4", HBO XTREME
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1 group-title="TV4", HBO2 HD
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:-1 group-title="TV4", HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1 group-title="TV4", HOLA! TV HD
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:-1 group-title="TV4", HTV
+http://45.166.92.22:58001/play/a051/index.m3u8
+#EXTINF:-1 group-title="TV4", History HD
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1 group-title="TV4", Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV4", MTV SIM HD
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:-1 group-title="TV4", Nat Geo HD
+http://45.166.92.22:58001/play/a01k/index.m3u8
+#EXTINF:-1 group-title="TV4", National Geographic
+http://45.166.92.22:58001/play/a032/index.m3u8
+#EXTINF:-1 group-title="TV4", Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:-1 group-title="TV4", Pasiones HD
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TV4", Penthouse
+http://45.166.92.22:58001/play/a04c/index.m3u8
+#EXTINF:-1 group-title="TV4", RT ESPANOL HD
+http://45.166.92.22:58001/play/a05j/index.m3u8
+#EXTINF:-1 group-title="TV4", SONY HD
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1 group-title="TV4", SPACE HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="TV4", STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:-1 group-title="TV4", SUYAPA TV
+http://45.166.92.22:58001/play/a04h/index.m3u8
+#EXTINF:-1 group-title="TV4", Star TVE HD
+http://45.166.92.22:58001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="TV4", Studio Universal HD
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="TV4", TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:-1 group-title="TV4", TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:-1 group-title="TV4", TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:-1 group-title="TV4", TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1 group-title="TV4", TVE HD
+http://45.166.92.22:58001/play/a04r/index.m3u8
+#EXTINF:-1 group-title="TV4", Telemundo HD
+http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:-1 group-title="TV4", TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 group-title="TV4", Universal cinema HD
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="TV4", Univision HD
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="TV4", WARNER HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+
+#EXTINF:-1 group-title="Lista 24", ESPN 1 MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/35
+#EXTINF:-1 group-title="Lista 24", ESPN 2 MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/36
+#EXTINF:-1 group-title="Lista 24", Fox Deportes
+http://167.114.156.136:25461/INFINITV/ZX89NM22/38
+#EXTINF:-1 group-title="Lista 24", Fox Sports 1 MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/40
+#EXTINF:-1 group-title="Lista 24", UFC TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/47
+#EXTINF:-1 group-title="Lista 24", Toros TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/46
+#EXTINF:-1 group-title="Lista 24", F1 DAZN
+http://167.114.156.136:25461/INFINITV/ZX89NM22/45
+#EXTINF:-1 group-title="Lista 24", Fox Sports MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/42
+#EXTINF:-1 group-title="Lista 24", Sony
+http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+#EXTINF:-1 group-title="Lista 24", TNT
+http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+#EXTINF:-1 group-title="Lista 24", Nick Jr
+http://167.114.156.136:25461/INFINITV/ZX89NM22/64
+#EXTINF:-1 group-title="Lista 24", Disney XD
+http://167.114.156.136:25461/INFINITV/ZX89NM22/63
+#EXTINF:-1 group-title="Lista 24", Baby TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/60
+#EXTINF:-1 group-title="Lista 24", Warner Channel
+http://167.114.156.136:25461/INFINITV/ZX89NM22/59
+#EXTINF:-1 group-title="Lista 24", FX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/70
+#EXTINF:-1 group-title="Lista 24", HBO 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/72
+#EXTINF:-1 group-title="Lista 24", HBO Family
+http://167.114.156.136:25461/INFINITV/ZX89NM22/73
+#EXTINF:-1 group-title="Lista 24", Animal Planet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/75
+#EXTINF:-1 group-title="Lista 24", Azteca Uno
+http://167.114.156.136:25461/INFINITV/ZX89NM22/82
+#EXTINF:-1 group-title="Lista 24", SYFY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+#EXTINF:-1 group-title="Lista 24", Milenio TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/88
+#EXTINF:-1 group-title="Lista 24", Multimedios MTY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/89
+#EXTINF:-1 group-title="Lista 24", CNN Internacional
+http://167.114.156.136:25461/INFINITV/ZX89NM22/92
+#EXTINF:-1 group-title="Lista 24", ES: Antena 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/96
+#EXTINF:-1 group-title="Lista 24", Telehit
+http://167.114.156.136:25461/INFINITV/ZX89NM22/95
+#EXTINF:-1 group-title="Lista 24", MTV Hits
+http://167.114.156.136:25461/INFINITV/ZX89NM22/94
+#EXTINF:-1 group-title="Lista 24", MTV Live
+http://167.114.156.136:25461/INFINITV/ZX89NM22/108
+#EXTINF:-1 group-title="Lista 24", ABC News
+http://167.114.156.136:25461/INFINITV/ZX89NM22/110
+#EXTINF:-1 group-title="Lista 24", Once TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/111
+#EXTINF:-1 group-title="Lista 24", A+
+http://167.114.156.136:25461/INFINITV/ZX89NM22/113
+#EXTINF:-1 group-title="Lista 24", AZ Corazon
+http://167.114.156.136:25461/INFINITV/ZX89NM22/117
+#EXTINF:-1 group-title="Lista 24", Discovery TLC
+http://167.114.156.136:25461/INFINITV/ZX89NM22/124
+#EXTINF:-1 group-title="Lista 24", Adrenalina Sport
+http://167.114.156.136:25461/INFINITV/ZX89NM22/140
+#EXTINF:-1 group-title="Lista 24", Eurosport 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/141
+#EXTINF:-1 group-title="Lista 24", ES: Movistar Drama
+http://167.114.156.136:25461/INFINITV/ZX89NM22/146
+#EXTINF:-1 group-title="Lista 24", DAZN 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/148
+#EXTINF:-1 group-title="Lista 24", Baby First
+http://167.114.156.136:25461/INFINITV/ZX89NM22/150
+#EXTINF:-1 group-title="Lista 24", Telemundo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/155
+#EXTINF:-1 group-title="Lista 24", CO: Caracol
+http://167.114.156.136:25461/INFINITV/ZX89NM22/157
+#EXTINF:-1 group-title="Lista 24", ABC (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/159
+#EXTINF:-1 group-title="Lista 24", CBS Sports Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/161
+#EXTINF:-1 group-title="Lista 24", NBC NY (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/164
+#EXTINF:-1 group-title="Lista 24", NBC Universo (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/165
+#EXTINF:-1 group-title="Lista 24", BBC America (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/166
+#EXTINF:-1 group-title="Lista 24", FOX (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/168
+#EXTINF:-1 group-title="Lista 24", Tennis Channel (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/171
+#EXTINF:-1 group-title="Lista 24", TNT (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/172
+#EXTINF:-1 group-title="Lista 24", Univision (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/173
+#EXTINF:-1 group-title="Lista 24", Galavision (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/174
+#EXTINF:-1 group-title="Lista 24", Bein Sports Esp
+http://167.114.156.136:25461/INFINITV/ZX89NM22/176
+#EXTINF:-1 group-title="Lista 24", PELEA CANELO OP2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/177
+#EXTINF:-1 group-title="Lista 24", A and E
+http://167.114.156.136:25461/INFINITV/ZX89NM22/178
+#EXTINF:-1 group-title="Lista 24", Golden
+http://167.114.156.136:25461/INFINITV/ZX89NM22/181
+#EXTINF:-1 group-title="Lista 24", HBO Signature
+http://167.114.156.136:25461/INFINITV/ZX89NM22/182
+#EXTINF:-1 group-title="Lista 24", Garage TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/184
+#EXTINF:-1 group-title="Lista 24", ESPN AR
+http://167.114.156.136:25461/INFINITV/ZX89NM22/187
+#EXTINF:-1 group-title="Lista 24", MLB NETWORK (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/188
+#EXTINF:-1 group-title="Lista 24", Showtime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/189
+#EXTINF:-1 group-title="Lista 24", Starz (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/190
+#EXTINF:-1 group-title="Lista 24", USA Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/191
+#EXTINF:-1 group-title="Lista 24", Bravo (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/192
+#EXTINF:-1 group-title="Lista 24", Lifetime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/193
+#EXTINF:-1 group-title="Lista 24", Formula 1 DAZN 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/196
+#EXTINF:-1 group-title="Lista 24", Blue Hustler
+http://167.114.156.136:25461/INFINITV/ZX89NM22/199
+#EXTINF:-1 group-title="Lista 24", Telecinco
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
+#EXTINF:-1 group-title="Lista 24", DAZN 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/205
+#EXTINF:-1 group-title="Lista 24", Eurosports 1
+http://167.114.156.136:25461/INFINITV/ZX89NM22/206
+#EXTINF:-1 group-title="Lista 24", WWE network
+http://167.114.156.136:25461/INFINITV/ZX89NM22/209
+#EXTINF:-1 group-title="Lista 24", Discovery Kids
+http://167.114.156.136:25461/INFINITV/ZX89NM22/210
+#EXTINF:-1 group-title="Lista 24", DAZN 4
+http://167.114.156.136:25461/INFINITV/ZX89NM22/211
+#EXTINF:-1 group-title="Lista 24", DAZN 1
+http://167.114.156.136:25461/INFINITV/ZX89NM22/212
+#EXTINF:-1 group-title="Lista 24", PELEA Canelo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/214
+#EXTINF:-1 group-title="Lista 24", HBO Plus
+http://167.114.156.136:25461/INFINITV/ZX89NM22/215
+#EXTINF:-1 group-title="Lista 24", Discovery Science
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+#EXTINF:-1 group-title="Lista 24", Discovery Theater
+http://167.114.156.136:25461/INFINITV/ZX89NM22/217
+#EXTINF:-1 group-title="Lista 24", El Gourmet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219
+#EXTINF:-1 group-title="Lista 24", Investigation Discovery
+http://167.114.156.136:25461/INFINITV/ZX89NM22/220
+#EXTINF:-1 group-title="Lista 24", Fox Sport 1 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/221
+#EXTINF:-1 group-title="Lista 24", Fox Sport 2 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/222
+#EXTINF:-1 group-title="Lista 24", HBO 2 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/223
+#EXTINF:-1 group-title="Lista 24", HBO Family (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/224
+#EXTINF:-1 group-title="Lista 24", HGTV (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/225
+#EXTINF:-1 group-title="Lista 24", CO: Caracol Op2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/226
+#EXTINF:-1 group-title="Lista 24", Discovery Turbo OP2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/229
+#EXTINF:-1 group-title="Lista 24", Dicovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+
+
+
 
 
 
