@@ -6,7 +6,7 @@ https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 1080P
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
-#EXTINF:-1 group-title="Otros Canales", TL NOVELAS
+#EXTINF:-1 group-title="Otros Canales", TL NOVELAS   
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZ UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
