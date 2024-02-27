@@ -5,8 +5,9 @@ https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f598536
 
 
 #EXTM3U
-#EXTINF:-1,artv.watch - TlnovelasMexico.mx
-https://artv.watch/generate_playlist.php?channel=TlnovelasMexico.mx
+#EXTINF:-1 TlnovelasMexico.mx
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="TV PREMIUM",TECNOTV
