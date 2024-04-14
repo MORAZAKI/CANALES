@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 26/FEBRERO/2024 22:16 HRS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 14/ABRIL/2024 12:52 HRS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 480P
@@ -130,6 +130,8 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="TV4", 3ABN LATINO
 http://45.166.92.22:58001/play/a04z/index.m3u8
 #EXTINF:-1 group-title="TV4", A&E HD
@@ -248,8 +250,6 @@ http://45.166.92.22:58001/play/a032/index.m3u8
 http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1 group-title="TV4", Pasiones HD
 http://45.166.92.22:58001/play/a01q/index.m3u8
-#EXTINF:-1 group-title="TV4", Penthouse
-http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1 group-title="TV4", RT ESPANOL HD
 http://45.166.92.22:58001/play/a05j/index.m3u8
 #EXTINF:-1 group-title="TV4", SONY HD
@@ -411,8 +411,6 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/192
 http://167.114.156.136:25461/INFINITV/ZX89NM22/193
 #EXTINF:-1 group-title="Lista 24", Formula 1 DAZN 2
 http://167.114.156.136:25461/INFINITV/ZX89NM22/196
-#EXTINF:-1 group-title="Lista 24", Blue Hustler
-http://167.114.156.136:25461/INFINITV/ZX89NM22/199
 #EXTINF:-1 group-title="Lista 24", Telecinco
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
 #EXTINF:-1 group-title="Lista 24", DAZN 3
@@ -455,9 +453,6 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/226
 http://167.114.156.136:25461/INFINITV/ZX89NM22/229
 #EXTINF:-1 group-title="Lista 24", Dicovery Turbo
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
-
-
-
 
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/trolls_3/posters/02.jpg", Trolls 3 Se Armo La Banda | REGIOFLIX
