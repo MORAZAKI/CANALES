@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 14/ABRIL/2024 12:52 HRS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 02/JULIO/2024 01:28 HRS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 480P
@@ -118,6 +118,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Otros Canales", CANAL DE LAS ESTRELLAS
+https://usher.ttvnw.net/api/channel/hls/1mkw44ll.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Otros Canales", AZTECA 7
