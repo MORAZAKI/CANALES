@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 02/JULIO/2024 01:28 HRS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 29/SEPTIEMBRE/2024 22:05 HRS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", ORIGEN TV SD EN 480P
@@ -133,330 +133,373 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 
 
+#EXTINF:-1 group-title="Lista 5 Mexico",- Repretel
+http://45.228.234.167:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", 13-Sinart
+http://45.228.234.167:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico",- Extra TV 42
+http://45.228.234.167:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico",- Repretel
+http://45.228.234.167:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", A&E
+http://45.228.234.167:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", A&E HD
+http://45.228.234.167:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", AMC
+http://45.228.234.167:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", AMC HD
+http://45.228.234.167:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", AXN
+http://45.228.234.167:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", AXN HD
+http://45.228.234.167:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", AZ click HD
+http://45.228.234.167:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Animal Planet
+http://45.228.234.167:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Animal Planet HD
+http://45.228.234.167:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Antena 3
+http://45.228.234.167:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Antena 7- RD
+http://45.228.234.167:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Atres Series
+http://45.228.234.167:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Azcorazon
+http://45.228.234.167:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Azmundo
+http://45.228.234.167:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", BBC News
+http://45.228.234.167:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Baby First
+http://45.228.234.167:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Baby TV
+http://45.228.234.167:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CARTOON NT HD
+http://45.228.234.167:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CDN2- RD
+http://45.228.234.167:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CDN37 - RD
+http://45.228.234.167:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CINECANAL HD
+http://45.228.234.167:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CNN Internacional
+http://45.228.234.167:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CNNE
+http://45.228.234.167:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 11 - GUA
+http://45.228.234.167:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 11 - HON
+http://45.228.234.167:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 13-GUA
+http://45.228.234.167:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 3 - GUA
+http://45.228.234.167:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 3 Telesistemas HND
+http://45.228.234.167:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 5 - HON
+http://45.228.234.167:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 6 - ESA
+http://45.228.234.167:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal 7 - GUA
+http://45.228.234.167:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal Antigua - GUA
+http://45.228.234.167:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal Azteca - GUA
+http://45.228.234.167:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal VTV HND
+http://45.228.234.167:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Canal del Congreso
+http://45.228.234.167:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Cartoon Network
+http://45.228.234.167:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Cartoonito
+http://45.228.234.167:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Cine Latino
+http://45.228.234.167:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CineCanal
+http://45.228.234.167:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", CineMax
+http://45.228.234.167:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Color Vision 9 - RD
+http://45.228.234.167:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Comedy Central HD
+http://45.228.234.167:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Concert Channel
+http://45.228.234.167:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", DHE
+http://45.228.234.167:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", DHE HD
+http://45.228.234.167:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", DISC THEATHER HD
+http://45.228.234.167:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery Channel
+http://45.228.234.167:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery Channel HD
+http://45.228.234.167:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery Home & Health
+http://45.228.234.167:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery ID HD
+http://45.228.234.167:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery Kids
+http://45.228.234.167:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery Kids HD
+http://45.228.234.167:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery Science
+http://45.228.234.167:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery Turbo
+http://45.228.234.167:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Discovery World HD
+http://45.228.234.167:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Disney
+http://45.228.234.167:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Disney JR
+http://45.228.234.167:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", E!
+http://45.228.234.167:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", E! Entertairment HD
+http://45.228.234.167:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ESPN
+http://45.228.234.167:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ESPN 2
+http://45.228.234.167:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ESPN 2 HD
+http://45.228.234.167:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ESPN 3
+http://45.228.234.167:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ESPN 3 HD
+http://45.228.234.167:8000/play/a0h1/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ESPN 6 HD
+http://45.228.234.167:8000/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ESPN HD
+http://45.228.234.167:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", EURO Channel
+http://45.228.234.167:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", EWTN
+http://45.228.234.167:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", El Gourmet
+http://45.228.234.167:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Europa HD
+http://45.228.234.167:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Exa TV
+http://45.228.234.167:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", FOX SPORTS 3 HD
+http://45.228.234.167:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", FUTV CR
+http://45.228.234.167:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", FUTV HD CR
+http://45.228.234.167:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", FX
+http://45.228.234.167:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", FX HD
+http://45.228.234.167:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Film & Arts
+http://45.228.234.167:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Film & arts HD
+http://45.228.234.167:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Fox Sport 3
+http://45.228.234.167:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", France24
+http://45.228.234.167:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Golden
+http://45.228.234.167:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Golden Premiere 2 HD
+http://45.228.234.167:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Golden Premiere HD
+http://45.228.234.167:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Golf Channel
+http://45.228.234.167:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Golf Channel HD
+http://45.228.234.167:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Guatevision - GUA
+http://45.228.234.167:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", H2
+http://45.228.234.167:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HBO Family HD
+http://45.228.234.167:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HBO HD
+http://45.228.234.167:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HBO Plus HD
+http://45.228.234.167:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HBO XTREME
+http://45.228.234.167:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HBO2 HD
+http://45.228.234.167:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HCH- HON
+http://45.228.234.167:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HOLA! TV HD
+http://45.228.234.167:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", HTV
+http://45.228.234.167:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", History Channel
+http://45.228.234.167:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", History HD
+http://45.228.234.167:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Hola!TV
+http://45.228.234.167:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Home & Health HD
+http://45.228.234.167:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Home Garden Latino
+http://45.228.234.167:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ID
+http://45.228.234.167:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", LIFE TIME
+http://45.228.234.167:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", La voz de Maria
+http://45.228.234.167:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Latin America Sport
+http://45.228.234.167:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MASTV - PAN
+http://45.228.234.167:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MTV
+http://45.228.234.167:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MTV 00s
+http://45.228.234.167:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MTV 00s HD
+http://45.228.234.167:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MTV 80s
+http://45.228.234.167:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MTV HD
+http://45.228.234.167:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MTV Hits
+http://45.228.234.167:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", MTV SIM HD
+http://45.228.234.167:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Mas Chic
+http://45.228.234.167:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Multicinema
+http://45.228.234.167:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Multipremier
+http://45.228.234.167:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", NEXT - PAN
+http://45.228.234.167:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Nat Geo HD
+http://45.228.234.167:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", National Geographic
+http://45.228.234.167:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Nick Jr
+http://45.228.234.167:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Nick SIM HD
+http://45.228.234.167:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Nickelodeon
+http://45.228.234.167:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", PXTV
+http://45.228.234.167:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Paramount
+http://45.228.234.167:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Paramount HD
+http://45.228.234.167:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Pasiones HD
+http://45.228.234.167:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", RCN - GUA
+http://45.228.234.167:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", RCN Novelas
+http://45.228.234.167:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", RHEMA TV
+http://45.228.234.167:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", SEMILLITAS
+http://45.228.234.167:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", SERTV - PAN
+http://45.228.234.167:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", SONY
+http://45.228.234.167:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", SONY HD
+http://45.228.234.167:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", SPACE
+http://45.228.234.167:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", SPACE HD
+http://45.228.234.167:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", STAR CHANNEL
+http://45.228.234.167:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", STAR CHANNEL HD
+http://45.228.234.167:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Sembrador
+http://45.228.234.167:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Sony Movies HD
+http://45.228.234.167:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Star TVE HD
+http://45.228.234.167:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Studio Universal
+http://45.228.234.167:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Sun Channel
+http://45.228.234.167:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", SyFy
+http://45.228.234.167:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TBN Enlace
+http://45.228.234.167:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TCM
+http://45.228.234.167:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TLC
+http://45.228.234.167:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TNT
+http://45.228.234.167:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TNT HD
+http://45.228.234.167:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TNT Novelas
+http://45.228.234.167:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TNT Series
+http://45.228.234.167:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TNT Series HD
+http://45.228.234.167:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TVChile
+http://45.228.234.167:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TVE
+http://45.228.234.167:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Teen Nick HD
+http://45.228.234.167:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", TeleMicro - RD
+http://45.228.234.167:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Telecentro - RD
+http://45.228.234.167:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Telemundo
+http://45.228.234.167:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Telemundo HD
+http://45.228.234.167:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Telesistema RD
+http://45.228.234.167:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Teleuniverso - RD
+http://45.228.234.167:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Televida RD
+http://45.228.234.167:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Tigo Sports HD
+http://45.228.234.167:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Tooncast
+http://45.228.234.167:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Tru TV
+http://45.228.234.167:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", UNIVERSAL CINEMA ESTE HD
+http://45.228.234.167:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", UNIVERSAL COMEDY HD
+http://45.228.234.167:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", UNIVERSAL CRIME HD
+http://45.228.234.167:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", UNIVERSAL PREMIERE HD
+http://45.228.234.167:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", UNIVERSAL PREMIERE O HD
+http://45.228.234.167:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", UNIVERSAL REALITY HD
+http://45.228.234.167:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Universal
+http://45.228.234.167:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Univision HD
+http://45.228.234.167:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", WARNER HD
+http://45.228.234.167:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", Warner
+http://45.228.234.167:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", ZooMoo
+http://45.228.234.167:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Mexico", test ESPN HD
+http://45.228.234.167:8000/play/a0h3/index.m3u8
 
-#EXTINF:-1 group-title="TV4", 3ABN LATINO
-http://45.166.92.22:58001/play/a04z/index.m3u8
-#EXTINF:-1 group-title="TV4", A&E HD
-http://45.166.92.22:58001/play/a00p/index.m3u8
-#EXTINF:-1 group-title="TV4", AMC HD
-http://45.166.92.22:58001/play/a00q/index.m3u8
-#EXTINF:-1 group-title="TV4", AXN HD
-http://45.166.92.22:58001/play/a02n/index.m3u8
-#EXTINF:-1 group-title="TV4", Animal Planet HD
-http://45.166.92.22:58001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="TV4", Antena 3
-http://45.166.92.22:58001/play/a041/index.m3u8
-#EXTINF:-1 group-title="TV4", Azcorazon
-http://45.166.92.22:58001/play/a02z/index.m3u8
-#EXTINF:-1 group-title="TV4", Boomerang
-http://45.166.92.22:58001/play/a02u/index.m3u8
-#EXTINF:-1 group-title="TV4", CARTOON NT HD
-http://45.166.92.22:58001/play/a03y/index.m3u8
-#EXTINF:-1 group-title="TV4", CHOLUSAT SUR
-http://45.166.92.22:58001/play/a04e/index.m3u8
-#EXTINF:-1 group-title="TV4", CINECANAL HD
-http://45.166.92.22:58001/play/a04b/index.m3u8
-#EXTINF:-1 group-title="TV4", CNNE
-http://45.166.92.22:58001/play/a036/index.m3u8
-#EXTINF:-1 group-title="TV4", Canal 11 - HON
-http://45.166.92.22:58001/play/a02q/index.m3u8
-#EXTINF:-1 group-title="TV4", Canal 12 - ESA
-http://45.166.92.22:58001/play/a05h/index.m3u8
-#EXTINF:-1 group-title="TV4", Canal 3 - GUA
-http://45.166.92.22:58001/play/a05e/index.m3u8
-#EXTINF:-1 group-title="TV4", Canal 3 Telesistemas HND
-http://45.166.92.22:58001/play/a020/index.m3u8
-#EXTINF:-1 group-title="TV4", Canal 6 - ESA
-http://45.166.92.22:58001/play/a05g/index.m3u8
-#EXTINF:-1 group-title="TV4", Canal 7 - GUA
-http://45.166.92.22:58001/play/a05d/index.m3u8
-#EXTINF:-1 group-title="TV4", Canal 7 HD CR
-http://45.166.92.22:58001/play/a059/index.m3u8
-#EXTINF:-1 group-title="TV4", Cine Latino
-http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:-1 group-title="TV4", CineCanal
-http://45.166.92.22:58001/play/a02f/index.m3u8
-#EXTINF:-1 group-title="TV4", DHE HD
-http://45.166.92.22:58001/play/a00v/index.m3u8
-#EXTINF:-1 group-title="TV4", DISCOVERY THEATHER HD
-http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:-1 group-title="TV4", DISNEY HD
-http://45.166.92.22:58001/play/a04q/index.m3u8
-#EXTINF:-1 group-title="TV4", Discovery Channel HD
-http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:-1 group-title="TV4", Discovery Home & Health
-http://45.166.92.22:58001/play/a027/index.m3u8
-#EXTINF:-1 group-title="TV4", Discovery ID HD
-http://45.166.92.22:58001/play/a01s/index.m3u8
-#EXTINF:-1 group-title="TV4", Discovery Kids HD
-http://45.166.92.22:58001/play/a04y/index.m3u8
-#EXTINF:-1 group-title="TV4", Discovery Turbo
-http://45.166.92.22:58001/play/a026/index.m3u8
-#EXTINF:-1 group-title="TV4", Discovery World HD
-http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:-1 group-title="TV4", E! Entertairment HD
-http://45.166.92.22:58001/play/a00n/index.m3u8
-#EXTINF:-1 group-title="TV4", ESPN 2 HD
-http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1 group-title="TV4", ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1 group-title="TV4", ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1 group-title="TV4", EWTN
-http://45.166.92.22:58001/play/a050/index.m3u8
-#EXTINF:-1 group-title="TV4", Europa HD
-http://45.166.92.22:58001/play/a00t/index.m3u8
-#EXTINF:-1 group-title="TV4", FM PUEBLO
-http://45.166.92.22:58001/play/a04t/index.m3u8
-#EXTINF:-1 group-title="TV4", FOX NEWS HD
-http://45.166.92.22:58001/play/a04p/index.m3u8
-#EXTINF:-1 group-title="TV4", FOX SPORTS 3 HD
-http://45.166.92.22:58001/play/a01j/index.m3u8
-#EXTINF:-1 group-title="TV4", FX HD
-http://45.166.92.22:58001/play/a00s/index.m3u8
-#EXTINF:-1 group-title="TV4", FX Movies HD
-http://45.166.92.22:58001/play/a00u/index.m3u8
-#EXTINF:-1 group-title="TV4", Film & arts HD
-http://45.166.92.22:58001/play/a00o/index.m3u8
-#EXTINF:-1 group-title="TV4", Fox Sports  HD
-http://45.166.92.22:58001/play/a02m/index.m3u8
-#EXTINF:-1 group-title="TV4", France24
-http://45.166.92.22:58001/play/a057/index.m3u8
-#EXTINF:-1 group-title="TV4", GOL TV HD
-http://45.166.92.22:58001/play/a04k/index.m3u8
-#EXTINF:-1 group-title="TV4", HBO HD
-http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:-1 group-title="TV4", HBO Plus HD
-http://45.166.92.22:58001/play/a03u/index.m3u8
-#EXTINF:-1 group-title="TV4", HBO XTREME
-http://45.166.92.22:58001/play/a03w/index.m3u8
-#EXTINF:-1 group-title="TV4", HBO2 HD
-http://45.166.92.22:58001/play/a03t/index.m3u8
-#EXTINF:-1 group-title="TV4", HISTORY 2 HD
-http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:-1 group-title="TV4", HOLA! TV HD
-http://45.166.92.22:58001/play/a016/index.m3u8
-#EXTINF:-1 group-title="TV4", HTV
-http://45.166.92.22:58001/play/a051/index.m3u8
-#EXTINF:-1 group-title="TV4", History HD
-http://45.166.92.22:58001/play/a038/index.m3u8
-#EXTINF:-1 group-title="TV4", Home & Health HD
-http://45.166.92.22:58001/play/a015/index.m3u8
-#EXTINF:-1 group-title="TV4", MTV SIM HD
-http://45.166.92.22:58001/play/a018/index.m3u8
-#EXTINF:-1 group-title="TV4", Nat Geo HD
-http://45.166.92.22:58001/play/a01k/index.m3u8
-#EXTINF:-1 group-title="TV4", National Geographic
-http://45.166.92.22:58001/play/a032/index.m3u8
-#EXTINF:-1 group-title="TV4", Paramount HD
-http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:-1 group-title="TV4", Pasiones HD
-http://45.166.92.22:58001/play/a01q/index.m3u8
-#EXTINF:-1 group-title="TV4", RT ESPANOL HD
-http://45.166.92.22:58001/play/a05j/index.m3u8
-#EXTINF:-1 group-title="TV4", SONY HD
-http://45.166.92.22:58001/play/a04a/index.m3u8
-#EXTINF:-1 group-title="TV4", SPACE HD
-http://45.166.92.22:58001/play/a02o/index.m3u8
-#EXTINF:-1 group-title="TV4", STAR CHANNEL HD
-http://45.166.92.22:58001/play/a048/index.m3u8
-#EXTINF:-1 group-title="TV4", SUYAPA TV
-http://45.166.92.22:58001/play/a04h/index.m3u8
-#EXTINF:-1 group-title="TV4", Star TVE HD
-http://45.166.92.22:58001/play/a00x/index.m3u8
-#EXTINF:-1 group-title="TV4", Studio Universal HD
-http://45.166.92.22:58001/play/a00k/index.m3u8
-#EXTINF:-1 group-title="TV4", TCM
-http://45.166.92.22:58001/play/a03l/index.m3u8
-#EXTINF:-1 group-title="TV4", TLC
-http://45.166.92.22:58001/play/a04o/index.m3u8
-#EXTINF:-1 group-title="TV4", TNT HD
-http://45.166.92.22:58001/play/a013/index.m3u8
-#EXTINF:-1 group-title="TV4", TNT Series HD
-http://45.166.92.22:58001/play/a01m/index.m3u8
-#EXTINF:-1 group-title="TV4", TVE HD
-http://45.166.92.22:58001/play/a04r/index.m3u8
-#EXTINF:-1 group-title="TV4", Telemundo HD
-http://45.166.92.22:58001/play/a00r/index.m3u8
-#EXTINF:-1 group-title="TV4", TyCSports HD
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1 group-title="TV4", Universal cinema HD
-http://45.166.92.22:58001/play/a01t/index.m3u8
-#EXTINF:-1 group-title="TV4", Univision HD
-http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:-1 group-title="TV4", WARNER HD
-http://45.166.92.22:58001/play/a049/index.m3u8
-
-#EXTINF:-1 group-title="Lista 24", ESPN 1 MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/35
-#EXTINF:-1 group-title="Lista 24", ESPN 2 MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/36
-#EXTINF:-1 group-title="Lista 24", Fox Deportes
-http://167.114.156.136:25461/INFINITV/ZX89NM22/38
-#EXTINF:-1 group-title="Lista 24", Fox Sports 1 MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/40
-#EXTINF:-1 group-title="Lista 24", UFC TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/47
-#EXTINF:-1 group-title="Lista 24", Toros TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/46
-#EXTINF:-1 group-title="Lista 24", F1 DAZN
-http://167.114.156.136:25461/INFINITV/ZX89NM22/45
-#EXTINF:-1 group-title="Lista 24", Fox Sports MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/42
-#EXTINF:-1 group-title="Lista 24", Sony
-http://167.114.156.136:25461/INFINITV/ZX89NM22/53
-#EXTINF:-1 group-title="Lista 24", TNT
-http://167.114.156.136:25461/INFINITV/ZX89NM22/57
-#EXTINF:-1 group-title="Lista 24", Nick Jr
-http://167.114.156.136:25461/INFINITV/ZX89NM22/64
-#EXTINF:-1 group-title="Lista 24", Disney XD
-http://167.114.156.136:25461/INFINITV/ZX89NM22/63
-#EXTINF:-1 group-title="Lista 24", Baby TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/60
-#EXTINF:-1 group-title="Lista 24", Warner Channel
-http://167.114.156.136:25461/INFINITV/ZX89NM22/59
-#EXTINF:-1 group-title="Lista 24", FX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/70
-#EXTINF:-1 group-title="Lista 24", HBO 2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/72
-#EXTINF:-1 group-title="Lista 24", HBO Family
-http://167.114.156.136:25461/INFINITV/ZX89NM22/73
-#EXTINF:-1 group-title="Lista 24", Animal Planet
-http://167.114.156.136:25461/INFINITV/ZX89NM22/75
-#EXTINF:-1 group-title="Lista 24", Azteca Uno
-http://167.114.156.136:25461/INFINITV/ZX89NM22/82
-#EXTINF:-1 group-title="Lista 24", SYFY
-http://167.114.156.136:25461/INFINITV/ZX89NM22/80
-#EXTINF:-1 group-title="Lista 24", Milenio TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/88
-#EXTINF:-1 group-title="Lista 24", Multimedios MTY
-http://167.114.156.136:25461/INFINITV/ZX89NM22/89
-#EXTINF:-1 group-title="Lista 24", CNN Internacional
-http://167.114.156.136:25461/INFINITV/ZX89NM22/92
-#EXTINF:-1 group-title="Lista 24", ES: Antena 3
-http://167.114.156.136:25461/INFINITV/ZX89NM22/96
-#EXTINF:-1 group-title="Lista 24", Telehit
-http://167.114.156.136:25461/INFINITV/ZX89NM22/95
-#EXTINF:-1 group-title="Lista 24", MTV Hits
-http://167.114.156.136:25461/INFINITV/ZX89NM22/94
-#EXTINF:-1 group-title="Lista 24", MTV Live
-http://167.114.156.136:25461/INFINITV/ZX89NM22/108
-#EXTINF:-1 group-title="Lista 24", ABC News
-http://167.114.156.136:25461/INFINITV/ZX89NM22/110
-#EXTINF:-1 group-title="Lista 24", Once TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/111
-#EXTINF:-1 group-title="Lista 24", A+
-http://167.114.156.136:25461/INFINITV/ZX89NM22/113
-#EXTINF:-1 group-title="Lista 24", AZ Corazon
-http://167.114.156.136:25461/INFINITV/ZX89NM22/117
-#EXTINF:-1 group-title="Lista 24", Discovery TLC
-http://167.114.156.136:25461/INFINITV/ZX89NM22/124
-#EXTINF:-1 group-title="Lista 24", Adrenalina Sport
-http://167.114.156.136:25461/INFINITV/ZX89NM22/140
-#EXTINF:-1 group-title="Lista 24", Eurosport 2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/141
-#EXTINF:-1 group-title="Lista 24", ES: Movistar Drama
-http://167.114.156.136:25461/INFINITV/ZX89NM22/146
-#EXTINF:-1 group-title="Lista 24", DAZN 2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/148
-#EXTINF:-1 group-title="Lista 24", Baby First
-http://167.114.156.136:25461/INFINITV/ZX89NM22/150
-#EXTINF:-1 group-title="Lista 24", Telemundo
-http://167.114.156.136:25461/INFINITV/ZX89NM22/155
-#EXTINF:-1 group-title="Lista 24", CO: Caracol
-http://167.114.156.136:25461/INFINITV/ZX89NM22/157
-#EXTINF:-1 group-title="Lista 24", ABC (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/159
-#EXTINF:-1 group-title="Lista 24", CBS Sports Network (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/161
-#EXTINF:-1 group-title="Lista 24", NBC NY (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/164
-#EXTINF:-1 group-title="Lista 24", NBC Universo (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/165
-#EXTINF:-1 group-title="Lista 24", BBC America (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/166
-#EXTINF:-1 group-title="Lista 24", FOX (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/168
-#EXTINF:-1 group-title="Lista 24", Tennis Channel (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/171
-#EXTINF:-1 group-title="Lista 24", TNT (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/172
-#EXTINF:-1 group-title="Lista 24", Univision (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/173
-#EXTINF:-1 group-title="Lista 24", Galavision (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/174
-#EXTINF:-1 group-title="Lista 24", Bein Sports Esp
-http://167.114.156.136:25461/INFINITV/ZX89NM22/176
-#EXTINF:-1 group-title="Lista 24", PELEA CANELO OP2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/177
-#EXTINF:-1 group-title="Lista 24", A and E
-http://167.114.156.136:25461/INFINITV/ZX89NM22/178
-#EXTINF:-1 group-title="Lista 24", Golden
-http://167.114.156.136:25461/INFINITV/ZX89NM22/181
-#EXTINF:-1 group-title="Lista 24", HBO Signature
-http://167.114.156.136:25461/INFINITV/ZX89NM22/182
-#EXTINF:-1 group-title="Lista 24", Garage TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/184
-#EXTINF:-1 group-title="Lista 24", ESPN AR
-http://167.114.156.136:25461/INFINITV/ZX89NM22/187
-#EXTINF:-1 group-title="Lista 24", MLB NETWORK (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/188
-#EXTINF:-1 group-title="Lista 24", Showtime (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/189
-#EXTINF:-1 group-title="Lista 24", Starz (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/190
-#EXTINF:-1 group-title="Lista 24", USA Network (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/191
-#EXTINF:-1 group-title="Lista 24", Bravo (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/192
-#EXTINF:-1 group-title="Lista 24", Lifetime (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/193
-#EXTINF:-1 group-title="Lista 24", Formula 1 DAZN 2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/196
-#EXTINF:-1 group-title="Lista 24", Telecinco
-http://167.114.156.136:25461/INFINITV/ZX89NM22/203
-#EXTINF:-1 group-title="Lista 24", DAZN 3
-http://167.114.156.136:25461/INFINITV/ZX89NM22/205
-#EXTINF:-1 group-title="Lista 24", Eurosports 1
-http://167.114.156.136:25461/INFINITV/ZX89NM22/206
-#EXTINF:-1 group-title="Lista 24", WWE network
-http://167.114.156.136:25461/INFINITV/ZX89NM22/209
-#EXTINF:-1 group-title="Lista 24", Discovery Kids
-http://167.114.156.136:25461/INFINITV/ZX89NM22/210
-#EXTINF:-1 group-title="Lista 24", DAZN 4
-http://167.114.156.136:25461/INFINITV/ZX89NM22/211
-#EXTINF:-1 group-title="Lista 24", DAZN 1
-http://167.114.156.136:25461/INFINITV/ZX89NM22/212
-#EXTINF:-1 group-title="Lista 24", PELEA Canelo
-http://167.114.156.136:25461/INFINITV/ZX89NM22/214
-#EXTINF:-1 group-title="Lista 24", HBO Plus
-http://167.114.156.136:25461/INFINITV/ZX89NM22/215
-#EXTINF:-1 group-title="Lista 24", Discovery Science
-http://167.114.156.136:25461/INFINITV/ZX89NM22/216
-#EXTINF:-1 group-title="Lista 24", Discovery Theater
-http://167.114.156.136:25461/INFINITV/ZX89NM22/217
-#EXTINF:-1 group-title="Lista 24", El Gourmet
-http://167.114.156.136:25461/INFINITV/ZX89NM22/219
-#EXTINF:-1 group-title="Lista 24", Investigation Discovery
-http://167.114.156.136:25461/INFINITV/ZX89NM22/220
-#EXTINF:-1 group-title="Lista 24", Fox Sport 1 (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/221
-#EXTINF:-1 group-title="Lista 24", Fox Sport 2 (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/222
-#EXTINF:-1 group-title="Lista 24", HBO 2 (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/223
-#EXTINF:-1 group-title="Lista 24", HBO Family (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/224
-#EXTINF:-1 group-title="Lista 24", HGTV (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/225
-#EXTINF:-1 group-title="Lista 24", CO: Caracol Op2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/226
-#EXTINF:-1 group-title="Lista 24", Discovery Turbo OP2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/229
-#EXTINF:-1 group-title="Lista 24", Dicovery Turbo
-http://167.114.156.136:25461/INFINITV/ZX89NM22/230
 
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_696208-MLM75727749784_042024-O.webp", Garfield Fuera de Casa | REGIOFLIX
+http://notabasica.com/612132/Garfield.Fuera.de.Casa.2024.720p-Dual-Lat%20%281%29.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/F98bUfrb0AARdPe.jpg:large", El planeta de los simios Nuevo reino | REGIOFLIX
+http://notabasica.com/612132/El.planeta.de.los.simios.Nuevo.reino.2024.720p-Dual-Lat%20%281%29.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/GLjgITiXIAA4r5M.jpg", Amigos imaginarios | REGIOFLIX
+http://notabasica.com/612132/Amigos.Imaginarios.2024.1080P-Dual-Lat.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/trolls_3/posters/02.jpg", Trolls 3 Se Armo La Banda | REGIOFLIX
 http://notabasica.com/612132/Trolls%203%20-%20Se%20Arm%C3%B3%20la%20Banda.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.themoviedb.org/t/p/original/fN6Bxw7tk9PTO99N7OzcJmjs0rN.jpg", Five Nights at Freddy's | REGIOFLIX
