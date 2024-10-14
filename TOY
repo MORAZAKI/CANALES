@@ -116,9 +116,12 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN
 http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento", Studio Universal http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount 
+http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento", Studio Universal 
+http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX 
+http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Entretenimiento", TNT http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series http://tv.teleclub.xyz/envivo/Entretenimiento/TNT_SERIES/index.m3u8
