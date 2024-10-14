@@ -2,7 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 13/OCTUBRE/2024 18:20 HORAS  TV.5
 
-http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos"
+EVENTOS
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8
 EVENTO 04 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 05
 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" 
 Cartoon Network http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil"
