@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 13/OCTUBRE/2024 18:20 HORAS  TV.5
+
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
 http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil"
-Disney Jr http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil"
-Discovery Kids http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil"
-Nick http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil"
-Nick Jr http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil"
-Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil"
-Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil"
-Cartoonito http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="Infantil"
-EnerGeek Retro http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo"
-CNN en Español http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo"
-RT en Español http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo" 
-Lifetime http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40
