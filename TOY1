@@ -307,9 +307,7 @@ http://tv.teleclub.xyz/envivo/24_7/LOS_SIMPSONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/it1OidM.png" group-title="24_7", Doraemon
 http://tv.teleclub.xyz/envivo/24_7/DORAEMON/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULA", DEADPOOL Y WOLVERINE (2024)
-https://j3rmodimy1oj.aghe-cdn.com/hls2/01/02341/5jlv210gxoid_n/master.m3u8?t=wV8REiEjthqVbeSAEE9dXKQ3FQd71M9M1wrSKUPAclY&s=1728870022&e=129600&f=11707769&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=8151
-#EXTINF:-1 tvg-logo="" group-title="PELICULA", INSEPARABLES (2024)
-https://HI3THh5OxxWw.aghe-cdn.com/hls2/01/02381/eh9xmrrc34tn_,l,n,.urlset/master.m3u8?t=FuZkNK3FuRg6ic746z40jLKlhfSUyZcAJ_cKanNc7po&s=1728870780&e=129600&f=11908928&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=8151
+https://delivery-node-8kdsssyupy6hhinm.voe-network.net/engine/hls2-c/01/12326/axq9xdii64m7_,n,.urlset/index-v1-a1.m3u8?t=zPgBZSpRrzrcB3_N4Y8705glu05Ny9Jv7VJRsRRGZDo&s=1729036522&e=14400&f=61630541&node=delivery-node-lggrqi8abfi4eltg.voe-network.net&i=189.156&sp=2500&asn=8151
 #EXTINF:-1 tvg-logo="" group-title="PELICULA", EL ROBOT SALVAJE (2024)
 https://delivery-node-9z0j4gdotobfhm0j.voe-network.net/engine/hls2-c/01/12460/kmcinhprvpls_,n,.urlset/index-v1-a1.m3u8?t=aEhgZBYXxOGPgD9WOz9zkUoak7SiKdPRR4kO81GYs28&s=1729035605&e=14400&f=62302866&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=189.156&sp=2500&asn=8151
 #EXTINF:-1 tvg-logo="" group-title="PELICULA", BEETLEJUICE BEETLEJUICE (2024)
