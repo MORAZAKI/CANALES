@@ -1,154 +1,284 @@
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 29/OCTUBRE/2024 18:00 HRS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y--v24THvUs/XciAfP6vYII/AAAAAAAA350/FDb0G5dUuecEju2NnzZOBNhlt91915LhACLcBGAsYHQ/s1600/IPTV-EXTREME.png" group-title="INFO", 15/FEBRERO/2026 21:45 HRS
 https://skyfire.vimeocdn.com/1649619767-0x8c5d9c7a5694646df6c4eddf1618976f59853618/37c4529d-c3e7-4ee0-a9a0-658b79e8536b/sep/video/5e39e66d,752b32aa,b40e7afa,d9de61b6,df060c0c,44befb93,56852ff6/master.m3u8
 
 
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", AE Mundo
-http://177.93.46.163:8000/play/a016
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", AXN
-http://177.93.46.163:8000/play/a022
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Animal Planet
-http://177.93.46.163:8000/play/a010
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", BabyFirst
-http://177.93.46.163:8000/play/a00g
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", CNN Espanol
-http://177.93.46.163:8000/play/a00l
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Caracol
-http://177.93.46.163:8000/play/a01n
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Estrellas
-http://177.93.46.163:8000/play/a019
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Institucional
-http://177.93.46.163:8000/play/a01p
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal RCN
-http://177.93.46.163:8000/play/a01o
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Uno
-http://177.93.46.163:8000/play/a01l
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal del Congreso
-http://177.93.46.163:8000/play/a01q
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Capital
-http://177.93.46.163:8000/play/a01x
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Cartoon Network
-http://177.93.46.163:8000/play/a00d
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Cinecanal
-http://177.93.46.163:8000/play/a007
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Cinemax
-http://177.93.46.163:8000/play/a020
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", City TV
-http://177.93.46.163:8000/play/a01w
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery Channel
-http://177.93.46.163:8000/play/a00z
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery ID
-http://177.93.46.163:8000/play/a01f
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery Kids
-http://177.93.46.163:8000/play/a00k
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery Turbo
-http://177.93.46.163:8000/play/a02c
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Disney Channel
-http://177.93.46.163:8000/play/a00y
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Disney Jr
-http://177.93.46.163:8000/play/a00q
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", E Entertainment
-http://177.93.46.163:8000/play/a012
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN
-http://177.93.46.163:8000/play/a015
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 2
-http://177.93.46.163:8000/play/a00s
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 2 Latin
-http://177.93.46.163:8000/play/a014
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 3
-http://177.93.46.163:8000/play/a02e
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 4
-http://177.93.46.163:8000/play/a01j
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN CO
-http://177.93.46.163:8000/play/a01s
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Enlace
-http://177.93.46.163:8000/play/a00f
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Esne TV
-http://177.93.46.163:8000/play/a02d
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", FX
-http://177.93.46.163:8000/play/a024
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Fox Sports 2
-http://177.93.46.163:8000/play/a01a
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Fox Sports 3
-http://177.93.46.163:8000/play/a01b
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO
-http://177.93.46.163:8000/play/a01z
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO 2
-http://177.93.46.163:8000/play/a00m
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO Family
-http://177.93.46.163:8000/play/a00p
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO Plus
-http://177.93.46.163:8000/play/a00n
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO XTREME SD
-http://177.93.46.163:8000/play/a00o
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", History Channel
-http://177.93.46.163:8000/play/a006
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HomeandHealth
-http://177.93.46.163:8000/play/a01i
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", I-Sat
-http://177.93.46.163:8000/play/a009
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Lifetime
-http://177.93.46.163:8000/play/a00h
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", MTV
-http://177.93.46.163:8000/play/a00a
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Nat Geo
-http://177.93.46.163:8000/play/a005
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Nick Jr
-http://177.93.46.163:8000/play/a02b
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Nickelodeon
-http://177.93.46.163:8000/play/a004
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", RCN Novelas
-http://177.93.46.163:8000/play/a01e
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", STAR CHANNEL
-http://177.93.46.163:8000/play/a00b
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Senal Colombia
-http://177.93.46.163:8000/play/a01r
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Sony
-http://177.93.46.163:8000/play/a021
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Space
-http://177.93.46.163:8000/play/a023
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Studio Universal
-http://177.93.46.163:8000/play/a00r
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", SyFy
-http://177.93.46.163:8000/play/a00i
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TBS
-http://177.93.46.163:8000/play/a01g
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TCM
-http://177.93.46.163:8000/play/a00c
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TLC
-http://177.93.46.163:8000/play/a017
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TNT
-http://177.93.46.163:8000/play/a00e
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TRO
-http://177.93.46.163:8000/play/a01u
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Teleantioquia
-http://177.93.46.163:8000/play/a025
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telecafe
-http://177.93.46.163:8000/play/a02h
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telecaribe
-http://177.93.46.163:8000/play/a02f
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Teleislas
-http://177.93.46.163:8000/play/a01v
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telemundo
-http://177.93.46.163:8000/play/a01c
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telepacifico
-http://177.93.46.163:8000/play/a027
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Trece
-http://177.93.46.163:8000/play/a02i
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", UPDATE
-http://177.93.46.163:8000/play/a02r
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal
-http://177.93.46.163:8000/play/a008
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal Cinema SD
-http://177.93.46.163:8000/play/a00u
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal Comedy SD
-http://177.93.46.163:8000/play/a00v
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal Premiere SD
-http://177.93.46.163:8000/play/a00t
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ViaX
-http://177.93.46.163:8000/play/a018
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Warner
-http://177.93.46.163:8000/play/a011
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Win
-http://177.93.46.163:8000/play/a026
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Zoom
-http://177.93.46.163:8000/play/a01t
+#EXTINF:-1 group-title="Otros Canales", AZ UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="Otros Canales", AZ 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="Otros Canales", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="Otros Canales", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Otros Canales", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Otros Canales", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="Otros Canales", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 group-title="Otros Canales", RCN
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Otros Canales", Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Otros Canales", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1   group-title="TV1",  A&E
+http://38.49.128.38:8000/play/a0bv/index.m3u8
+#EXTINF:-1   group-title="TV1",  A3 SERIES
+http://38.49.128.38:8000/play/a0b0/index.m3u8
+#EXTINF:-1   group-title="TV1",  ARTS
+http://38.49.128.38:8000/play/a0bc/index.m3u8
+#EXTINF:-1   group-title="TV1",  AXN
+http://38.49.128.38:8000/play/a08w/index.m3u8
+#EXTINF:-1   group-title="TV1",  BABY TV
+http://38.49.128.38:8000/play/a0b9/index.m3u8
+#EXTINF:-1   group-title="TV1",  BOOMERAN
+http://38.49.128.38:8000/play/a0c1/index.m3u8
+#EXTINF:-1   group-title="TV1",  C
+http://38.49.128.38:8000/play/a0cq/index.m3u8
+#EXTINF:-1   group-title="TV1",  DICOVERY CHANNEL
+http://38.49.128.38:8000/play/a0ep/index.m3u8
+#EXTINF:-1   group-title="TV1",  DISCOVERY TURBO
+http://38.49.128.38:8000/play/a0c4/index.m3u8
+#EXTINF:-1   group-title="TV1",  DISNEY JR
+http://38.49.128.38:8000/play/a0bz/index.m3u8
+#EXTINF:-1   group-title="TV1",  ESPN
+http://38.49.128.38:8000/play/a091/index.m3u8
+#EXTINF:-1   group-title="TV1",  ESPN 3
+http://38.49.128.38:8000/play/a0c3/index.m3u8
+#EXTINF:-1   group-title="TV1",  EÂ¡
+http://38.49.128.38:8000/play/a0by/index.m3u8
+#EXTINF:-1   group-title="TV1",  FORMULA NOTICIAS
+http://38.49.128.38:8000/play/a0be/index.m3u8
+#EXTINF:-1   group-title="TV1",  FX
+http://38.49.128.38:8000/play/a08x/index.m3u8
+#EXTINF:-1   group-title="TV1",  H&H
+http://38.49.128.38:8000/play/a0bw/index.m3u8
+#EXTINF:-1   group-title="TV1",  HBO
+http://38.49.128.38:8000/play/a0c5/index.m3u8
+#EXTINF:-1   group-title="TV1",  HBO +
+http://38.49.128.38:8000/play/a0cv/index.m3u8
+#EXTINF:-1   group-title="TV1",  IMAGEN
+http://38.49.128.38:8000/play/a0d5/index.m3u8
+#EXTINF:-1   group-title="TV1",  ISAT
+http://38.49.128.38:8000/play/a0b2/index.m3u8
+#EXTINF:-1   group-title="TV1",  MC
+http://38.49.128.38:8000/play/a0co/index.m3u8
+#EXTINF:-1   group-title="TV1",  MTV HITS
+http://38.49.128.38:8000/play/a0b4/index.m3u8
+#EXTINF:-1   group-title="TV1",  NATGEO LA
+http://38.49.128.38:8000/play/a0cl/index.m3u8
+#EXTINF:-1   group-title="TV1",  STUDIO UNIVERSAL
+http://38.49.128.38:8000/play/a0bh/index.m3u8
+#EXTINF:-1   group-title="TV1",  TLR
+http://38.49.128.38:8000/play/a0em/index.m3u8
+#EXTINF:-1   group-title="TV1",  TNT SERIES
+http://38.49.128.38:8000/play/a0da/index.m3u8
+#EXTINF:-1   group-title="TV1",  VH1
+http://38.49.128.38:8000/play/a0b6/index.m3u8
+#EXTINF:-1   group-title="TV1",  VIDEO ROLA
+http://38.49.128.38:8000/play/a0b5/index.m3u8
+#EXTINF:-1   group-title="TV1",  history 2
+http://38.49.128.38:8000/play/a0dj/index.m3u8
+#EXTINF:-1   group-title="TV1",  hola tv
+http://38.49.128.38:8000/play/a0db/index.m3u8
+#EXTINF:-1   group-title="TV1",  milenio
+http://38.49.128.38:8000/play/a0dm/index.m3u8
+#EXTINF:-1   group-title="TV1",  once
+http://38.49.128.38:8000/play/a0bq/index.m3u8
+#EXTINF:-1   group-title="TV1",CANAL 14
+http://38.49.128.38:8000/play/a0ax/index.m3u8
+#EXTINF:-1   group-title="TV1",CNN
+http://38.49.128.38:8000/play/a0bd/index.m3u8
+#EXTINF:-1   group-title="TV1",JUSTICIA TV
+http://38.49.128.38:8000/play/a0bg/index.m3u8
+#EXTINF:-1   group-title="TV1",NOTICIAS DEL CONGRESO
+http://38.49.128.38:8000/play/a0az/index.m3u8
+#EXTINF:-1   group-title="TV1",TV UNAM
+http://38.49.128.38:8000/play/a0ay/index.m3u8
+#EXTINF:-1   group-title="TV1",TVC
+http://38.49.128.38:8000/play/a0bf/index.m3u8
+#EXTINF:-1   group-title="TV1",realities
+http://38.49.128.38:8000/play/a0nj/index.m3u8
+#EXTINF:-1   group-title="TV1",teleseries
+http://38.49.128.38:8000/play/a0ni/index.m3u8
+#EXTINF:-1   group-title="TV1", ADN 40 HD
+http://38.49.128.38:8000/play/a0ne/index.m3u8
+#EXTINF:-1   group-title="TV1", AMC
+http://38.49.128.38:8000/play/a0k8/index.m3u8
+#EXTINF:-1   group-title="TV1", ATLAS
+http://38.49.128.38:8000/play/a0os/index.m3u8
+#EXTINF:-1   group-title="TV1", AYM
+http://38.49.128.38:8000/play/a0km/index.m3u8
+#EXTINF:-1   group-title="TV1", AYM SPORT HD
+http://38.49.128.38:8000/play/a0mk/index.m3u8
+#EXTINF:-1   group-title="TV1", AZTECA 7
+http://38.49.128.38:8000/play/a0fm/index.m3u8
+#EXTINF:-1   group-title="TV1", AZTECA 7 HD
+http://38.49.128.38:8000/play/a0la/index.m3u8
+#EXTINF:-1   group-title="TV1", AZTECA INTER HD
+http://38.49.128.38:8000/play/a0n7/index.m3u8
+#EXTINF:-1   group-title="TV1", AZTECA UNO
+http://38.49.128.38:8000/play/a0cc/index.m3u8
+#EXTINF:-1   group-title="TV1", BABY FIRST
+http://38.49.128.38:8000/play/a0kb/index.m3u8
+#EXTINF:-1   group-title="TV1", BITME
+http://38.49.128.38:8000/play/a0np/index.m3u8
+#EXTINF:-1   group-title="TV1", CANAL 22
+http://38.49.128.38:8000/play/a0d7/index.m3u8
+#EXTINF:-1   group-title="TV1", CANAL 5
+http://38.49.128.38:8000/play/a0fl/index.m3u8
+#EXTINF:-1   group-title="TV1", CANAL 5 HD
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+#EXTINF:-1   group-title="TV1", CANAL INFANTIL SD
+http://38.49.128.38:8000/play/a0ot/index.m3u8
+#EXTINF:-1   group-title="TV1", CARTOON NETWORK
+http://38.49.128.38:8000/play/a0c0/index.m3u8
+#EXTINF:-1   group-title="TV1", CINE LATINO
+http://38.49.128.38:8000/play/a0lq/index.m3u8
+#EXTINF:-1   group-title="TV1", CINEMAX
+http://38.49.128.38:8000/play/a093/index.m3u8
+#EXTINF:-1   group-title="TV1", CLARO SPORT
+http://38.49.128.38:8000/play/a0cm/index.m3u8
+#EXTINF:-1   group-title="TV1", CLICK HD
+http://38.49.128.38:8000/play/a0mh/index.m3u8
+#EXTINF:-1   group-title="TV1", CNN
+http://38.49.128.38:8000/play/a0dl/index.m3u8
+#EXTINF:-1   group-title="TV1", COMEDY CENTRAL
+http://38.49.128.38:8000/play/a0b3/index.m3u8
+#EXTINF:-1   group-title="TV1", Canal del Congreso 45.1
+http://38.49.128.38:8000/play/a0nt/index.m3u8
+#EXTINF:-1   group-title="TV1", Caracola TV
+http://38.49.128.38:8000/play/a0nd/index.m3u8
+#EXTINF:-1   group-title="TV1", Cartonito
+http://38.49.128.38:8000/play/a0kc/index.m3u8
+#EXTINF:-1   group-title="TV1", D pelicula
+http://38.49.128.38:8000/play/a0nn/index.m3u8
+#EXTINF:-1   group-title="TV1", DISCOVERY ID
+http://38.49.128.38:8000/play/a0ch/index.m3u8
+#EXTINF:-1   group-title="TV1", DISTRITO COMEDIA
+http://38.49.128.38:8000/play/a0ou/index.m3u8
+#EXTINF:-1   group-title="TV1", DreamWorks TV Latin America
+http://38.49.128.38:8000/play/a0no/index.m3u8
+#EXTINF:-1   group-title="TV1", EDGE
+http://38.49.128.38:8000/play/a0nh/index.m3u8
+#EXTINF:-1   group-title="TV1", EL 6
+http://38.49.128.38:8000/play/a0bp/index.m3u8
+#EXTINF:-1   group-title="TV1", ESPN 2
+http://38.49.128.38:8000/play/a092/index.m3u8
+#EXTINF:-1   group-title="TV1", ESTRELLAS
+http://38.49.128.38:8000/play/a0d4/index.m3u8
+#EXTINF:-1   group-title="TV1", ESTRELLAS HD
+http://38.49.128.38:8000/play/a0le/index.m3u8
+#EXTINF:-1   group-title="TV1", EXA TV
+http://38.49.128.38:8000/play/a0lr/index.m3u8
+#EXTINF:-1   group-title="TV1", FAST AND FUN BOX
+http://38.49.128.38:8000/play/a0ks/index.m3u8
+#EXTINF:-1   group-title="TV1", FAST FUN HD
+http://38.49.128.38:8000/play/a0mi/index.m3u8
+#EXTINF:-1   group-title="TV1", FIGTH BOX
+http://38.49.128.38:8000/play/a0kr/index.m3u8
+#EXTINF:-1   group-title="TV1", FILM  &  ARTS
+http://38.49.128.38:8000/play/a0k9/index.m3u8
+#EXTINF:-1   group-title="TV1", FOX SPORTS 2
+http://38.49.128.38:8000/play/a0oz/index.m3u8
+#EXTINF:-1   group-title="TV1", FOX sport 3
+http://38.49.128.38:8000/play/a0ox/index.m3u8
+#EXTINF:-1   group-title="TV1", GAME TOON
+http://38.49.128.38:8000/play/a0kv/index.m3u8
+#EXTINF:-1   group-title="TV1", GINX
+http://38.49.128.38:8000/play/a0kx/index.m3u8
+#EXTINF:-1   group-title="TV1", GOLF CHANNEL
+http://38.49.128.38:8000/play/a0kz/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO 2
+http://38.49.128.38:8000/play/a0ct/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO FAMILY
+http://38.49.128.38:8000/play/a0cu/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO MUNDI
+http://38.49.128.38:8000/play/a0jj/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO SIGNATURE
+http://38.49.128.38:8000/play/a0ji/index.m3u8
+#EXTINF:-1   group-title="TV1", HBO XTREME
+http://38.49.128.38:8000/play/a096/index.m3u8
+#EXTINF:-1   group-title="TV1", HTV
+http://38.49.128.38:8000/play/a0b7/index.m3u8
+#EXTINF:-1   group-title="TV1", Justicia TV (Mexico)
+http://38.49.128.38:8000/play/a0ns/index.m3u8
+#EXTINF:-1   group-title="TV1", LAMEJOR TV
+http://38.49.128.38:8000/play/a0ls/index.m3u8
+#EXTINF:-1   group-title="TV1", LIFE TIME
+http://38.49.128.38:8000/play/a0ci/index.m3u8
+#EXTINF:-1   group-title="TV1", MASCHIC
+http://38.49.128.38:8000/play/a0ka/index.m3u8
+#EXTINF:-1   group-title="TV1", MTV 00
+http://38.49.128.38:8000/play/a0kh/index.m3u8
+#EXTINF:-1   group-title="TV1", MULTI PREMIER
+http://38.49.128.38:8000/play/a0cp/index.m3u8
+#EXTINF:-1   group-title="TV1", MULTICANAL
+http://38.49.128.38:8000/play/a0lo/index.m3u8
+#EXTINF:-1   group-title="TV1", MULTIPREMIER
+http://38.49.128.38:8000/play/a0lp/index.m3u8
+#EXTINF:-1   group-title="TV1", NBA
+http://38.49.128.38:8000/play/a0kj/index.m3u8
+#EXTINF:-1   group-title="TV1", NFL
+http://38.49.128.38:8000/play/a0kk/index.m3u8
+#EXTINF:-1   group-title="TV1", NICK JR
+http://38.49.128.38:8000/play/a0ck/index.m3u8
+#EXTINF:-1   group-title="TV1", NICKMUSIC
+http://38.49.128.38:8000/play/a0lt/index.m3u8
+#EXTINF:-1   group-title="TV1", OUTDOOR
+http://38.49.128.38:8000/play/a0kt/index.m3u8
+#EXTINF:-1   group-title="TV1", Once niÃ±as y niÃ±os
+http://38.49.128.38:8000/play/a0nr/index.m3u8
+#EXTINF:-1   group-title="TV1", PARAMOUNT
+http://38.49.128.38:8000/play/a0cs/index.m3u8
+#EXTINF:-1   group-title="TV1", PX SPORTS
+http://38.49.128.38:8000/play/a0ku/index.m3u8
+#EXTINF:-1   group-title="TV1", RT
+http://38.49.128.38:8000/play/a0nk/index.m3u8
+#EXTINF:-1   group-title="TV1", SPACE
+http://38.49.128.38:8000/play/a0cg/index.m3u8
+#EXTINF:-1   group-title="TV1", SYFY
+http://38.49.128.38:8000/play/a0b1/index.m3u8
+#EXTINF:-1   group-title="TV1", TELEMUNDO INTER HD
+http://38.49.128.38:8000/play/a0mg/index.m3u8
+#EXTINF:-1   group-title="TV1", TLC
+http://38.49.128.38:8000/play/a0bx/index.m3u8
+#EXTINF:-1   group-title="TV1", TLN Telenovelas. SD
+http://38.49.128.38:8000/play/a0oy/index.m3u8
+#EXTINF:-1   group-title="TV1", TRACE
+http://38.49.128.38:8000/play/a0ky/index.m3u8
+#EXTINF:-1   group-title="TV1", TVC DEPORTES
+http://38.49.128.38:8000/play/a0mj/index.m3u8
+#EXTINF:-1   group-title="TV1", TVCD
+http://38.49.128.38:8000/play/a0kl/index.m3u8
+#EXTINF:-1   group-title="TV1", TeleYucatan
+http://38.49.128.38:8000/play/a0na/index.m3u8
+#EXTINF:-1   group-title="TV1", TyC SPORTS
+http://38.49.128.38:8000/play/a0kw/index.m3u8
+#EXTINF:-1   group-title="TV1", UNICABLE
+http://38.49.128.38:8000/play/a0ov/index.m3u8
+#EXTINF:-1   group-title="TV1", UNIVERSAL
+http://38.49.128.38:8000/play/a0bt/index.m3u8
+#EXTINF:-1   group-title="TV1", WARNER
+http://38.49.128.38:8000/play/a0cf/index.m3u8
+#EXTINF:-1   group-title="TV1", canal 22.2
+http://38.49.128.38:8000/play/a0nu/index.m3u8
+#EXTINF:-1   group-title="TV1", dw espa
+http://38.49.128.38:8000/play/a0nl/index.m3u8
+#EXTINF:-1   group-title="TV1", el9nueve SD
+http://38.49.128.38:8000/play/a0ow/index.m3u8
+#EXTINF:-1   group-title="TV1", espn extra
+http://38.49.128.38:8000/play/a0kf/index.m3u8
+#EXTINF:-1   group-title="TV1", fox channel
+http://38.49.128.38:8000/play/a08v/index.m3u8
+#EXTINF:-1   group-title="TV1", france 24
+http://38.49.128.38:8000/play/a0nm/index.m3u8
+#EXTINF:-1   group-title="TV1", letra a
+http://38.49.128.38:8000/play/a0bu/index.m3u8
+#EXTINF:-1   group-title="TV1", teleplay
+http://38.49.128.38:8000/play/a0ng/index.m3u8
+#EXTINF:-1   group-title="TV1", tnt novelas
+http://38.49.128.38:8000/play/a0m2/index.m3u8
